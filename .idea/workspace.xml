@@ -17,6 +17,7 @@
     <SUITE FILE_PATH="coverage/graph@Development__graph.coverage" NAME="Development: graph Coverage Results" MODIFIED="1395075258791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="graph" />
     <SUITE FILE_PATH="coverage/graph@test.coverage" NAME="language_finder Coverage Results" MODIFIED="1395045519780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="graph" />
     <SUITE FILE_PATH="coverage/graph@db_setup__graph.coverage" NAME="db:setup: graph Coverage Results" MODIFIED="1394643652471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="graph" />
+    <SUITE FILE_PATH="coverage/graph@assets_precompile__graph.coverage" NAME="assets:precompile: graph Coverage Results" MODIFIED="1395083405523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="graph" />
     <SUITE FILE_PATH="coverage/graph@browse.coverage" NAME="browse Coverage Results" MODIFIED="1394681830933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/tasks" MODULE_NAME="graph" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -33,15 +34,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.4575672">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/graphs/index.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="25" selection-start="567" selection-end="567" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="graphs_controller.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/controllers/graphs_controller.rb">
               <provider selected="true" editor-type-id="text-editor">
@@ -51,10 +43,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="language_finder.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="language_finder.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/models/language_finder.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="69" selection-start="190" selection-end="190" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="1734">
+                <state line="9" column="16" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="25" selection-start="905" selection-end="905" vertical-scroll-proportion="0.5970425" vertical-offset="0" max-vertical-offset="1462">
                   <folding />
                 </state>
               </provider>
@@ -132,7 +133,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="controller.coffee" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="controller.coffee" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/controller.coffee">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="21" column="67" selection-start="537" selection-end="537" vertical-scroll-proportion="-0.0075046904" vertical-offset="361" max-vertical-offset="2193">
@@ -190,6 +191,7 @@
         <option value="$PROJECT_DIR$/app/views/graphs/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/app.css" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/controller.coffee" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -254,8 +256,8 @@
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Models" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ModelsFolderNode" />
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ConfigFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -268,8 +270,12 @@
               <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assets" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.AssetsTopLevelFolderNode" />
+              <option name="myItemId" value="Config" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ConfigFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.FolderSubFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -396,7 +402,7 @@
       <recent name="$PROJECT_DIR$/app/assets/javascripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Rails.Development: graph">
+  <component name="RunManager" selected="Rake.assets:precompile: graph">
     <configuration default="false" name="db:setup: graph" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
       <module name="graph" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -493,6 +499,32 @@
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/tasks/browse.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="assets:precompile: graph" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
+      <module name="graph" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="assets:precompile" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
@@ -674,7 +706,7 @@
       <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
-    <list size="9">
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Rails.Production: graph" />
       <item index="1" class="java.lang.String" itemvalue="Rails.Development: graph" />
       <item index="2" class="java.lang.String" itemvalue="Rake.test: graph" />
@@ -684,13 +716,15 @@
       <item index="6" class="java.lang.String" itemvalue="Ruby.a" />
       <item index="7" class="java.lang.String" itemvalue="Ruby.language_finder" />
       <item index="8" class="java.lang.String" itemvalue="Ruby.browse" />
+      <item index="9" class="java.lang.String" itemvalue="Rake.assets:precompile: graph" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.browse" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.language_finder" />
-        <item index="2" class="java.lang.String" itemvalue="Rake.db:migrate: graph" />
-        <item index="3" class="java.lang.String" itemvalue="Rake.db:setup: graph" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Rake.assets:precompile: graph" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.browse" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.language_finder" />
+        <item index="3" class="java.lang.String" itemvalue="Rake.db:migrate: graph" />
+        <item index="4" class="java.lang.String" itemvalue="Rake.db:setup: graph" />
       </list>
     </recent_temporary>
   </component>
@@ -723,7 +757,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1033,16 +1067,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/language_finder.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="69" selection-start="190" selection-end="190" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="1734">
+        <state line="21" column="67" selection-start="537" selection-end="537" vertical-scroll-proportion="-0.0075046904" vertical-offset="361" max-vertical-offset="2193">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/controller.coffee">
+    <entry file="file://$PROJECT_DIR$/app/models/language_finder.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="67" selection-start="537" selection-end="537" vertical-scroll-proportion="-0.0075046904" vertical-offset="361" max-vertical-offset="2193">
+        <state line="9" column="16" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="905" selection-end="905" vertical-scroll-proportion="0.5970425" vertical-offset="0" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
