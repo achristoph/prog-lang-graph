@@ -1,0 +1,2639 @@
+{
+  "A-0_System": [
+
+  ],
+  "A_Sharp": [
+    "Aldor"
+  ],
+  "ABLE": [
+
+  ],
+  "ABSET": [
+
+  ],
+  "ABC": [
+    "Python"
+  ],
+  "Adenine": [
+
+  ],
+  "Distributed_Application_Specification_Language": [
+
+  ],
+  "Action!": [
+
+  ],
+  "ABAP": [
+    "Objective-C",
+    "COBOL",
+    "SQL"
+  ],
+  "ABC_ALGOL": [
+
+  ],
+  "ACL2": [
+    "Nqthm",
+    "Common_Lisp"
+  ],
+  "ActionScript": [
+    "JavaScript",
+    "Java"
+  ],
+  "Ada": [
+    "C++",
+    "Eiffel",
+    "SQL",
+    "VHDL",
+    "Ruby",
+    "Java",
+    "Seed7"
+  ],
+  "A+": [
+    "K"
+  ],
+  "A++": [
+
+  ],
+  "ACC": [
+
+  ],
+  "ABSYS": [
+
+  ],
+  "Accent": [
+
+  ],
+  "Agda": [
+    "Coq",
+    "Epigram",
+    "Haskell"
+  ],
+  "LGP-30#ACT-III_programming_language": [
+
+  ],
+  "Agilent_VEE": [
+
+  ],
+  "Alef": [
+    "Limbo",
+    "Rust",
+    "Go"
+  ],
+  "Agora": [
+
+  ],
+  "Algebraic_Logic_Functional_programming_language": [
+
+  ],
+  "Alice": [
+    "ML",
+    "Oz"
+  ],
+  "Argus": [
+
+  ],
+  "Alma-0": [
+
+  ],
+  "Arc": [
+
+  ],
+  "AspectJ": [
+
+  ],
+  "ALGOL_58": [
+
+  ],
+  "AMOS": [
+    "STOS_BASIC"
+  ],
+  "ALGOL_60": [
+    "Simula",
+    "Combined_Programming_Language",
+    "Pascal",
+    "Ada",
+    "C"
+  ],
+  "AIMMS": [
+
+  ],
+  "ALGOL_68": [
+    "Mary",
+    "S3"
+  ],
+  "Amiga_E": [
+
+  ],
+  "AmbientTalk": [
+    "ECMAScript_Harmony"
+  ],
+  "AMPL": [
+    "AWK",
+    "C"
+  ],
+  "ARexx": [
+
+  ],
+  "AppleScript": [
+    "Natural_language_programming",
+    "HyperCard"
+  ],
+  "APL": [
+    "J",
+    "K",
+    "Mathematica",
+    "MATLAB",
+    "Nial",
+    "Polymorphic_Programming_Language",
+    "Q"
+  ],
+  "Ateji_PX": [
+    "Java"
+  ],
+  "AutoLISP": [
+
+  ],
+  "Autocoder": [
+
+  ],
+  "AutoHotkey": [
+
+  ],
+  "Bertrand": [
+
+  ],
+  "Babbage": [
+    "BCPL"
+  ],
+  "Bc": [
+
+  ],
+  "BCPL": [
+    "B",
+    "C"
+  ],
+  "B": [
+    "C"
+  ],
+  "ATS": [
+    "Dependent_ML",
+    "ML",
+    "OCaml"
+  ],
+  "Batch_file": [
+
+  ],
+  "Bash": [
+
+  ],
+  "AWK": [
+    "Tcl",
+    "AMPL",
+    "Perl",
+    "Korn_Shell",
+    "Lua"
+  ],
+  "BASIC": [
+    "COMAL",
+    "Visual_Basic",
+    "Visual_Basic_.NET",
+    "Realbasic",
+    "GRASS",
+    "AutoIt",
+    "AutoHotkey"
+  ],
+  "AutoIt": [
+
+  ],
+  "Axum": [
+
+  ],
+  "BAIL": [
+    "BASIC",
+    "C"
+  ],
+  "Averest": [
+
+  ],
+  "BeanShell": [
+    "Java"
+  ],
+  "Assembly_language": [
+
+  ],
+  "BitC": [
+    "Haskell",
+    "ML"
+  ],
+  "Bistro": [
+    "Java",
+    "Smalltalk"
+  ],
+  "BETA": [
+    "Simula"
+  ],
+  "Bigwig": [
+
+  ],
+  "Boomerang": [
+    "XSLT"
+  ],
+  "Blue": [
+
+  ],
+  "Bon": [
+
+  ],
+  "Korn_shell": [
+
+  ],
+  "Bourne_shell": [
+
+  ],
+  "BuildProfessional": [
+
+  ],
+  "Boo": [
+    "Python",
+    "C_Sharp"
+  ],
+  "C_Sharp": [
+    "D",
+    "F_Sharp",
+    "Java",
+    "Kotlin",
+    "Monkey",
+    "Nemerle",
+    "Vala"
+  ],
+  "BLISS": [
+    "ALGOL"
+  ],
+  "Qualcomm_Brew": [
+
+  ],
+  "C": [
+    "I"
+  ],
+  "C--": [
+    "C"
+  ],
+  "AL": [
+
+  ],
+  "Business_Process_Execution_Language": [
+
+  ],
+  "C++": [
+    "Perl",
+    "LPC",
+    "Lua",
+    "Pike",
+    "Ada",
+    "Java",
+    "PHP",
+    "D",
+    "C99",
+    "C_Sharp",
+    "Falcon",
+    "Seed7"
+  ],
+  "Candle": [
+    "XQuery",
+    "XSLT",
+    "RELAX_NG"
+  ],
+  "Cel": [
+    "Smalltalk",
+    "Self",
+    "Forth",
+    "NewtonScript",
+    "Objective-C",
+    "Python"
+  ],
+  "Chapel": [
+    "High_Performance_Fortran",
+    "ZPL"
+  ],
+  "CHILL": [
+    "COBOL",
+    "1"
+  ],
+  "Cesil": [
+
+  ],
+  "Charity": [
+
+  ],
+  "CHAIN": [
+
+  ],
+  "Ceylon": [
+    "Java",
+    "Scala",
+    "Smalltalk"
+  ],
+  "Cg": [
+
+  ],
+  "ColdFusion_Markup_Language": [
+
+  ],
+  "Ch": [
+
+  ],
+  "Charm": [
+    "2",
+    "C",
+    "Pascal"
+  ],
+  "CDuce": [
+
+  ],
+  "Cayenne": [
+
+  ],
+  "CHIP-8": [
+
+  ],
+  "Caché_ObjectScript": [
+    "MUMPS"
+  ],
+  "Chef": [
+
+  ],
+  "C_Shell": [
+
+  ],
+  "Caml": [
+    "F_Sharp"
+  ],
+  "Cecil": [
+
+  ],
+  "CODE": [
+
+  ],
+  "CLIST": [
+
+  ],
+  "Cilk": [
+    "C"
+  ],
+  "Chomski": [
+    "Sed",
+    "Awk"
+  ],
+  "Clojure": [
+    "Elixir"
+  ],
+  "CICS": [
+
+  ],
+  "ColdC": [
+    "C",
+    "MOO_programming_language",
+    "CoolMUD"
+  ],
+  "Cola": [
+
+  ],
+  "Clipper": [
+
+  ],
+  "COBOL": [
+    "I",
+    "ABAP"
+  ],
+  "400_Control_Language": [
+    "Windows_PowerShell"
+  ],
+  "ChucK": [
+
+  ],
+  "Clean": [
+    "Miranda",
+    "Haskell"
+  ],
+  "Claire": [
+    "Smalltalk",
+    "SETL",
+    "OPS5",
+    "Lisp",
+    "ML",
+    "C"
+  ],
+  "CMS-2": [
+
+  ],
+  "CLU": [
+    "Sather",
+    "Lua",
+    "Ruby_programming_language",
+    "Ada",
+    "Argus"
+  ],
+  "Clarion": [
+
+  ],
+  "CoffeeScript": [
+    "moonscript.org",
+    "LiveScript"
+  ],
+  "ColdFusion": [
+
+  ],
+  "Cobra": [
+    "Python",
+    "Eiffel",
+    "C_Sharp",
+    "Objective-C"
+  ],
+  "Cool": [
+    "Sather",
+    "Java",
+    "ML",
+    "Pascal"
+  ],
+  "Combined_Programming_Language": [
+    "BCPL",
+    "POP-2"
+  ],
+  "Coq": [
+    "Agda"
+  ],
+  "Coral_66": [
+    "ALGOL",
+    "JOVIAL"
+  ],
+  "COMPASS": [
+
+  ],
+  "Constraint_Handling_Rules": [
+
+  ],
+  "COMIT": [
+    "SNOBOL"
+  ],
+  "COMAL": [
+    "BASIC",
+    "Pascal"
+  ],
+  "Converge": [
+    "Icon",
+    "Python"
+  ],
+  "Component_Pascal": [
+    "Oberon-2"
+  ],
+  "COWSEL": [
+    "POP-2"
+  ],
+  "Communicating_sequential_processes": [
+
+  ],
+  "Curl": [
+    "HTML",
+    "JavaScript",
+    "Lisp"
+  ],
+  "Common_Lisp": [
+    "Clojure",
+    "Dylan",
+    "Emacs_Lisp",
+    "EuLisp",
+    "ISLISP",
+    "Julia",
+    "Moose",
+    "R",
+    "Cadence_SKILL",
+    "SubL"
+  ],
+  "Csound": [
+
+  ],
+  "C_shell": [
+
+  ],
+  "Corn": [
+
+  ],
+  "Common_Intermediate_Language": [
+
+  ],
+  "CorVision": [
+    "Inform"
+  ],
+  "DataFlex": [
+
+  ],
+  "DATATRIEVE": [
+
+  ],
+  "Cyclone": [
+    "C"
+  ],
+  "Draco": [
+    "ALGOL_68",
+    "Pascal",
+    "C"
+  ],
+  "Deesel": [
+    "Java"
+  ],
+  "Curry": [
+    "Haskell"
+  ],
+  "Datalog": [
+
+  ],
+  "DIBOL": [
+    "BASIC",
+    "Fortran",
+    "COBOL"
+  ],
+  "Dart": [
+    "JavaScript",
+    "Smalltalk",
+    "Erlang",
+    "Strongtalk",
+    "C_Sharp"
+  ],
+  "DIGITAL_Command_Language": [
+    "Windows_PowerShell"
+  ],
+  "Sepandar_Kamvar#.22Dog.22_programming_language": [
+
+  ],
+  "DBase": [
+    "Clipper",
+    "Harbour",
+    "FoxPro"
+  ],
+  "Dink_Smallwood#Modification": [
+
+  ],
+  "Delphi": [
+    "C_Sharp",
+    "Java"
+  ],
+  "D": [
+    "MiniD",
+    "Vala"
+  ],
+  "Datapoint's_Advanced_Systems_Language": [
+
+  ],
+  "Dc": [
+
+  ],
+  "Cython": [
+
+  ],
+  "Ease": [
+
+  ],
+  "EGL": [
+
+  ],
+  "Easytrieve": [
+
+  ],
+  "Epigram": [
+    "ALF"
+  ],
+  "Dylan": [
+    "Goo",
+    "Lasso",
+    "Python",
+    "Ruby"
+  ],
+  "E_Sharp": [
+
+  ],
+  "Escapade": [
+
+  ],
+  "ECMAScript": [
+    "Self",
+    "HyperTalk",
+    "AWK",
+    "C",
+    "Perl",
+    "Python",
+    "Java",
+    "Scheme"
+  ],
+  "I": [
+    "k",
+    "B",
+    "REXX",
+    "400_Control_Language"
+  ],
+  "Eiffel": [
+    "Ada",
+    "C_Sharp",
+    "D",
+    "Java",
+    "Lisaac",
+    "Racket",
+    "Ruby",
+    "Sather",
+    "Scala"
+  ],
+  "Erlang": [
+    "F_Sharp",
+    "Clojure",
+    "Rust",
+    "Scala",
+    "Opa",
+    "Reia",
+    "Elixir"
+  ],
+  "Emacs_Lisp": [
+
+  ],
+  "Edinburgh_IMP": [
+
+  ],
+  "Emerald": [
+    "Java",
+    "Singularity"
+  ],
+  "ELAN": [
+
+  ],
+  "Elixir": [
+    "Erlang",
+    "Ruby",
+    "Clojure"
+  ],
+  "DYNAMO": [
+
+  ],
+  "Elm": [
+    "Haskell",
+    "Standard_ML",
+    "OCaml",
+    "F_Sharp"
+  ],
+  "Es": [
+    "Es",
+    "Inferno"
+  ],
+  "E": [
+    "Joule",
+    "index.html",
+    "Java"
+  ],
+  "Etoys": [
+    "Croquet_Project",
+    "Scratch"
+  ],
+  "Esterel": [
+
+  ],
+  "Euclid": [
+    "Mesa",
+    "Concurrent_Euclid",
+    "Turing"
+  ],
+  "Euler": [
+    "ALGOL_60"
+  ],
+  "EXEC_2": [
+
+  ],
+  "Fancy": [
+    "Smalltalk",
+    "Ruby",
+    "Erlang",
+    "Io"
+  ],
+  "EusLisp_Robot_Programming_Language": [
+
+  ],
+  "F": [
+
+  ],
+  "FAUST": [
+
+  ],
+  "Felix": [
+    "ML",
+    "C++"
+  ],
+  "Fantom": [
+    "C_Sharp",
+    "Java",
+    "Scala",
+    "Ruby",
+    "Erlang"
+  ],
+  "Factor": [
+
+  ],
+  "Executable_UML": [
+
+  ],
+  "Falcon": [
+    "C++",
+    "Perl",
+    "Lua",
+    "Smalltalk",
+    "PHP",
+    "Lisp",
+    "Python",
+    "Ruby"
+  ],
+  "F_Sharp": [
+    "F*",
+    "LiveScript"
+  ],
+  "Ferite": [
+    "C",
+    "C++",
+    "Java",
+    "PHP",
+    "Python",
+    "Ruby",
+    "Scheme"
+  ],
+  "Executive_Systems_Problem_Oriented_Language": [
+
+  ],
+  "Euphoria": [
+
+  ],
+  "Escher": [
+    "Simple_theory_of_types"
+  ],
+  "CMS_EXEC": [
+
+  ],
+  "FL": [
+    "J"
+  ],
+  "Flavors": [
+
+  ],
+  "FLOW-MATIC": [
+    "COBOL"
+  ],
+  "Formula_language": [
+
+  ],
+  "FP": [
+    "FL",
+    "FPr",
+    "J"
+  ],
+  "FoxPro": [
+
+  ],
+  "Flex": [
+
+  ],
+  "FOIL": [
+
+  ],
+  "FOCUS": [
+
+  ],
+  "FOCAL": [
+
+  ],
+  "FORMAC": [
+
+  ],
+  "F-Script": [
+    "Smalltalk",
+    "APL"
+  ],
+  "Fortress": [
+    "Fortran",
+    "Scala",
+    "Haskell"
+  ],
+  "Forth": [
+    "Factor",
+    "PostScript",
+    "RPL",
+    "REBOL"
+  ],
+  "Fortran": [
+    "ALGOL_58",
+    "BASIC",
+    "C",
+    "I",
+    "PACT_I",
+    "MUMPS",
+    "Ratfor"
+  ],
+  "FoxBase": [
+
+  ],
+  "Fjölnir": [
+
+  ],
+  "FPr": [
+
+  ],
+  "Franz_Lisp": [
+
+  ],
+  "FFP": [
+    "FL",
+    "FPr",
+    "J"
+  ],
+  "Generic_Java": [
+    "Java"
+  ],
+  "GNU_E": [
+    "C++"
+  ],
+  "Geometric_Description_Language": [
+
+  ],
+  "GEORGE": [
+
+  ],
+  "Game_Oriented_Assembly_Lisp": [
+
+  ],
+  "Golden_master": [
+
+  ],
+  "General_Algebraic_Modeling_System": [
+
+  ],
+  "Gibiane": [
+
+  ],
+  "GAP_computer_algebra_system": [
+
+  ],
+  "Genie": [
+    "Python",
+    "Boo",
+    "D",
+    "Object_Pascal"
+  ],
+  "Go": [
+    "C",
+    "Limbo",
+    "Modula",
+    "Newsqueak",
+    "Oberon",
+    "Pascal",
+    "Python"
+  ],
+  "G-code": [
+
+  ],
+  "Go!": [
+    "Prolog"
+  ],
+  "G": [
+
+  ],
+  "Gödel": [
+
+  ],
+  "GameMaker:_Studio": [
+
+  ],
+  "Godiva": [
+    "Java"
+  ],
+  "GameMonkey_Script": [
+
+  ],
+  "GLSL": [
+
+  ],
+  "GPSS": [
+
+  ],
+  "Goo": [
+    "Scheme",
+    "Dylan"
+  ],
+  "Computer_Sciences_Corporation": [
+
+  ],
+  "MAD": [
+    "ALGOL_58",
+    "ALGOL_58"
+  ],
+  "Hop": [
+    "Scheme"
+  ],
+  "Hume": [
+
+  ],
+  "Hamilton_C_shell": [
+
+  ],
+  "Harbour": [
+    "XHarbour"
+  ],
+  "Haskell": [
+    "Agda",
+    "Bluespec,_Inc.",
+    "C++11",
+    "Concepts",
+    "C_Sharp",
+    "Language_Integrated_Query",
+    "CAL",
+    "Cayenne",
+    "Clean",
+    "Clojure",
+    "CoffeeScript",
+    "Curry",
+    "Elm",
+    "Epigram",
+    "Escher",
+    "F_Sharp",
+    "Frege",
+    "Isabelle_theorem_prover",
+    "Java",
+    "Generics_in_Java",
+    "LiveScript",
+    "Mercury",
+    "Ωmega_interpreter",
+    "Perl_6",
+    "Python",
+    "Qi",
+    "Scala",
+    "Timber",
+    "Visual_Basic_.NET"
+  ],
+  "Hugo": [
+
+  ],
+  "GRASS": [
+
+  ],
+  "Hope": [
+
+  ],
+  "S": [
+    "C",
+    "APL",
+    "Fortran"
+  ],
+  "High_Level_Shader_Language": [
+
+  ],
+  "Hartmann_pipeline": [
+    "Pipeline",
+    "APL"
+  ],
+  "High_Level_Assembly": [
+
+  ],
+  "Haxe": [
+    "ActionScript",
+    "OCaml",
+    "C_Sharp"
+  ],
+  "Groovy": [
+    "Kotlin"
+  ],
+  "Gosu": [
+    "Java",
+    "Ruby",
+    "Python",
+    "Erlang",
+    "Haskell",
+    "C_Sharp"
+  ],
+  "IBM_1620#GOTRAN": [
+
+  ],
+  "IBM_Informix-4GL": [
+
+  ],
+  "ISWIM": [
+    "SASL_programming_language",
+    "Miranda_programming_language",
+    "ML_programming_language",
+    "Haskell",
+    "Clean",
+    "Lucid"
+  ],
+  "Information_Processing_Language": [
+    "Lisp"
+  ],
+  "ISLISP": [
+
+  ],
+  "Ioke": [
+    "Io",
+    "Smalltalk",
+    "Lisp",
+    "Ruby"
+  ],
+  "ISPF": [
+
+  ],
+  "ICI": [
+
+  ],
+  "Io": [
+    "Ioke",
+    "Fancy"
+  ],
+  "Idris": [
+    "Agda",
+    "Coq",
+    "Epigram",
+    "Haskell",
+    "ML"
+  ],
+  "IDL": [
+
+  ],
+  "J": [
+    "NumPy",
+    "SuperCollider"
+  ],
+  "Inform": [
+
+  ],
+  "Id": [
+
+  ],
+  "IMP": [
+
+  ],
+  "IBM_Basic_assembly_language": [
+
+  ],
+  "HyperTalk": [
+    "LiveCode",
+    "ECMAScript"
+  ],
+  "IPTSCRAE": [
+
+  ],
+  "IBM_HAScript": [
+
+  ],
+  "Icon": [
+    "Unicon_programming_language",
+    "Python"
+  ],
+  "IBM_RPG": [
+    "IBM_RPG_II"
+  ],
+  "JEAN": [
+
+  ],
+  "J_Sharp": [
+    "Java",
+    "Visual_J++"
+  ],
+  "Job_Control_Language": [
+
+  ],
+  "JASS": [
+
+  ],
+  "JOSS": [
+    "BASIC",
+    "TELCOMP",
+    "CAL",
+    "FOCAL",
+    "MUMPS"
+  ],
+  "Julia": [
+    "MATLAB",
+    "Scheme",
+    "Common_Lisp",
+    "Lisp",
+    "C",
+    "Python",
+    "Perl",
+    "Ruby"
+  ],
+  "JScript_.NET": [
+    "JScript",
+    "ECMAScript"
+  ],
+  "Janus": [
+
+  ],
+  "Java": [
+    "Ada",
+    "BeanShell",
+    "C_Sharp",
+    "Clojure",
+    "D",
+    "ECMAScript",
+    "Groovy",
+    "J_Sharp",
+    "JavaScript",
+    "Kotlin",
+    "PHP",
+    "Python",
+    "Scala",
+    "Seed7",
+    "Vala"
+  ],
+  "JavaScript": [
+    "ActionScript",
+    "CoffeeScript",
+    "Dart",
+    "JScript_.NET",
+    "Objective-J",
+    "QML",
+    "TypeScript",
+    "Node.js",
+    "LiveScript"
+  ],
+  "Join_Java": [
+    "Java"
+  ],
+  "Joy": [
+    "Factor"
+  ],
+  "Jako": [
+
+  ],
+  "JAL": [
+
+  ],
+  "JADE": [
+
+  ],
+  "JScript": [
+
+  ],
+  "Joule": [
+    "index.html"
+  ],
+  "JOVIAL": [
+    "Coral_66",
+    "SYMPL"
+  ],
+  "JavaFX_Script": [
+
+  ],
+  "Visual_J++": [
+
+  ],
+  "Karel": [
+    "Karel++",
+    "AgentSheets",
+    "Guido_van_Robot"
+  ],
+  "IntelliCorp": [
+
+  ],
+  "Kotlin": [
+    "Java",
+    "Scala",
+    "Groovy",
+    "C_Sharp",
+    "Gosu"
+  ],
+  "Knowledge_Interchange_Format": [
+
+  ],
+  "LANSA": [
+
+  ],
+  "Kojo": [
+    "Logo",
+    "Processing"
+  ],
+  "L": [
+
+  ],
+  "KRYPTON": [
+
+  ],
+  "Ladder_logic": [
+
+  ],
+  "Lasso": [
+    "Dylan",
+    "SmallTalk",
+    "Scala"
+  ],
+  "Kaleidoscope": [
+
+  ],
+  "Karel++": [
+    "Karel"
+  ],
+  "LabVIEW": [
+
+  ],
+  "K": [
+    "A+",
+    "APL_programming_language",
+    "Scheme"
+  ],
+  "Kent_Recursive_Calculator": [
+    "Miranda_programming_language"
+  ],
+  "Lagoona": [
+
+  ],
+  "L_Sharp": [
+
+  ],
+  "KRL": [
+    "KM_programming_language"
+  ],
+  "KUKA": [
+
+  ],
+  "Lava": [
+
+  ],
+  "LC-3": [
+
+  ],
+  "Lingo": [
+
+  ],
+  "Lite-C": [
+
+  ],
+  "Limbo": [
+    "Stackless_Python",
+    "Go",
+    "Rust"
+  ],
+  "Leda": [
+
+  ],
+  "Language_for_Instruction_Set_Architecture": [
+
+  ],
+  "Limnor": [
+
+  ],
+  "Linoleum": [
+
+  ],
+  "Little_b": [
+    "Lisp"
+  ],
+  "Lithe": [
+
+  ],
+  "LilyPond": [
+
+  ],
+  "Lisp": [
+    "CLIPS",
+    "CLU",
+    "COWSEL",
+    "Dylan",
+    "Falcon",
+    "Forth",
+    "Haskell",
+    "Io",
+    "Ioke",
+    "JavaScript",
+    "Julia",
+    "Logo",
+    "Lua",
+    "Mathematica",
+    "MDL",
+    "ML",
+    "Nu",
+    "OPS5",
+    "Perl",
+    "POP-2",
+    "POP-11",
+    "Python",
+    "Qi",
+    "R",
+    "Shen",
+    "Rebol",
+    "Racket",
+    "Ruby",
+    "Smalltalk",
+    "Tcl"
+  ],
+  "Lego_Mindstorms": [
+
+  ],
+  "Leadwerks_Engine": [
+
+  ],
+  "Lisaac": [
+    "Smalltalk",
+    "Self",
+    "Eiffel"
+  ],
+  "LIS": [
+
+  ],
+  "Little_Implementation_Language": [
+
+  ],
+  "LaTeX": [
+
+  ],
+  "LINC": [
+
+  ],
+  "LiveScript": [
+    "JavaScript",
+    "Haskell",
+    "CoffeeScript",
+    "F_Sharp"
+  ],
+  "Lucid": [
+    "SISAL",
+    "PureData",
+    "Lustre"
+  ],
+  "Logtalk": [
+    "Prolog",
+    "Smalltalk",
+    "Objective-C",
+    "Logic_programming",
+    "Object-oriented_programming",
+    "Prototype-based_programming"
+  ],
+  "LSE": [
+
+  ],
+  "M2001": [
+
+  ],
+  "Linden_Scripting_Language": [
+    "C"
+  ],
+  "LiveCode": [
+    "HyperTalk"
+  ],
+  "LYaPAS": [
+
+  ],
+  "M": [
+    "ALGOL",
+    "I",
+    "XPL"
+  ],
+  "M4": [
+
+  ],
+  "Machine_code": [
+
+  ],
+  "LPC": [
+    "Pike"
+  ],
+  "Lua": [
+    "Io",
+    "GameMonkey_Script",
+    "Squirrel",
+    "Falcon",
+    "MiniD"
+  ],
+  "Magma_computer_algebra_system": [
+
+  ],
+  "Magik": [
+
+  ],
+  "Lustre": [
+
+  ],
+  "Logo": [
+    "Smalltalk",
+    "Etoys",
+    "Scratch",
+    "NetLogo",
+    "KTurtle",
+    "REBOL"
+  ],
+  "Lynx": [
+
+  ],
+  "Sterling_Software": [
+
+  ],
+  "Mary": [
+    "ALGOL_68"
+  ],
+  "Microsoft_Macro_Assembler": [
+
+  ],
+  "Make": [
+
+  ],
+  "Metacard": [
+
+  ],
+  "MARK_IV": [
+
+  ],
+  "MAPPER": [
+
+  ],
+  "Unisys": [
+
+  ],
+  "Max": [
+
+  ],
+  "Metafont": [
+
+  ],
+  "Macsyma": [
+
+  ],
+  "Mercury": [
+    "Prolog",
+    "Hope",
+    "Haskell"
+  ],
+  "Maple": [
+
+  ],
+  "Maya_Embedded_Language": [
+
+  ],
+  "MDL": [
+
+  ],
+  "Mesa": [
+    "Java",
+    "Modula-2"
+  ],
+  "Maxima": [
+
+  ],
+  "Autodesk_3ds_Max": [
+
+  ],
+  "Mathematica": [
+
+  ],
+  "MATLAB": [
+
+  ],
+  "MetaL": [
+    "XML"
+  ],
+  "Microassembler": [
+
+  ],
+  "MIIS": [
+
+  ],
+  "MillScript": [
+
+  ],
+  "Modula": [
+    "Pascal"
+  ],
+  "Mortran": [
+
+  ],
+  "MicroScript": [
+
+  ],
+  "MIMIC": [
+
+  ],
+  "Modula-2": [
+
+  ],
+  "Modula-3": [
+    "Java",
+    "Python",
+    "Caml",
+    "C_Sharp"
+  ],
+  "MOO": [
+    "CoolMUD",
+    "ColdC"
+  ],
+  "Mohol_programming_languages": [
+
+  ],
+  "Modelica": [
+
+  ],
+  "Mouse": [
+
+  ],
+  "Moby": [
+
+  ],
+  "ML": [
+    "Miranda",
+    "Haskell",
+    "Cyclone_programming_language",
+    "C++",
+    "F_Sharp",
+    "Clojure",
+    "Felix",
+    "Opa",
+    "Erlang",
+    "Scala"
+  ],
+  "MIVA_Script": [
+    "C",
+    "Perl",
+    "Java",
+    "C++"
+  ],
+  "Miranda": [
+    "Clean",
+    "Haskell"
+  ],
+  "Mirah": [
+    "Ruby",
+    "Java",
+    "Boo"
+  ],
+  "Model_204": [
+
+  ],
+  "Nial": [
+    "APL_programming_language",
+    "Lisp_programming_language"
+  ],
+  "Napier88": [
+
+  ],
+  "NGL": [
+
+  ],
+  "MIRC_scripting_language": [
+
+  ],
+  "Neko": [
+
+  ],
+  "NEWP": [
+
+  ],
+  "NewtonScript": [
+    "Io_programming_language"
+  ],
+  "NESL": [
+
+  ],
+  "Netwide_Assembler": [
+
+  ],
+  "NetRexx": [
+    "I",
+    "REXX",
+    "Object_REXX",
+    "Java"
+  ],
+  "Nemerle": [
+    "C_Sharp",
+    "ML",
+    "Lisp"
+  ],
+  "Net.Data": [
+
+  ],
+  "Newspeak": [
+    "Smalltalk",
+    "Self",
+    "BETA"
+  ],
+  "NewLISP": [
+
+  ],
+  "NetLogo": [
+    "StarLogo",
+    "Logo"
+  ],
+  "NesC": [
+
+  ],
+  "MPD": [
+
+  ],
+  "NATURAL": [
+
+  ],
+  "MUMPS": [
+    "Profile_Scripting_Language",
+    "Caché_ObjectScript"
+  ],
+  "Not_Quite_C": [
+
+  ],
+  "Nickle": [
+    "C",
+    "Lisp",
+    "Modula-3",
+    "ML",
+    "Java"
+  ],
+  "Nice": [
+
+  ],
+  "Nu": [
+    "Lisp",
+    "Objective-C",
+    "Ruby"
+  ],
+  "Obliq": [
+    "Modula-3",
+    "Self",
+    "Oberon"
+  ],
+  "Not_eXactly_C": [
+
+  ],
+  "Object_REXX": [
+    "NetRexx"
+  ],
+  "ObjectLOGO": [
+
+  ],
+  "Nullsoft_Scriptable_Install_System": [
+
+  ],
+  "Objective-J": [
+    "Objective-C",
+    "JavaScript"
+  ],
+  "Object_Pascal": [
+    "C_Sharp",
+    "Java"
+  ],
+  "Objective-C": [
+    "Java",
+    "Objective-J",
+    "TOM",
+    "Nu"
+  ],
+  "NWScript": [
+    "C",
+    "Java"
+  ],
+  "OBJ2": [
+
+  ],
+  "Object_Lisp": [
+
+  ],
+  "Obix_programming_language": [
+
+  ],
+  "Oak": [
+
+  ],
+  "O:XML": [
+
+  ],
+  "NORD_Programming_Language": [
+
+  ],
+  "Oberon": [
+    "Oberon-2",
+    "Zonnon",
+    "Go"
+  ],
+  "OmniMark": [
+
+  ],
+  "Obol": [
+
+  ],
+  "Onyx": [
+
+  ],
+  "Oriel": [
+
+  ],
+  "GNU_Octave": [
+
+  ],
+  "Occam": [
+    "Ease"
+  ],
+  "Opa": [
+    "OCaml",
+    "Erlang",
+    "JavaScript"
+  ],
+  "Oz": [
+    "Alice",
+    "Scala"
+  ],
+  "Opal": [
+
+  ],
+  "OCaml": [
+    "F_Sharp",
+    "Scala",
+    "ATS",
+    "Opa",
+    "Rust"
+  ],
+  "Oxygene": [
+    "Object_Pascal",
+    "C_Sharp"
+  ],
+  "Occam-π": [
+
+  ],
+  "OPS5": [
+
+  ],
+  "Open_Programming_Language": [
+
+  ],
+  "Orwell": [
+    "Haskell"
+  ],
+  "Orc": [
+    "Haskell",
+    "ML",
+    "Oz",
+    "Smalltalk"
+  ],
+  "OptimJ": [
+    "Java"
+  ],
+  "P_Sharp": [
+
+  ],
+  "OpenEdge_Advanced_Business_Language": [
+
+  ],
+  "Phrogram": [
+
+  ],
+  "PCASTL": [
+    "C",
+    "R"
+  ],
+  "Pawn": [
+    "Small-C"
+  ],
+  "Programming_language_for_Computable_Functions": [
+
+  ],
+  "Pizza": [
+    "Generic_Java",
+    "Scala_programming_language"
+  ],
+  "GP": [
+
+  ],
+  "PHP": [
+    "Perl",
+    "C",
+    "C++",
+    "Java",
+    "Tcl"
+  ],
+  "Pascal": [
+    "Ada",
+    "Component_Pascal",
+    "Java",
+    "Modula",
+    "Modula-2",
+    "Modula-3",
+    "Oberon",
+    "Oberon-2",
+    "Object_Pascal",
+    "Oxygene",
+    "Seed7"
+  ],
+  "Perl": [
+    "Python",
+    "PHP",
+    "Ruby",
+    "ECMAScript",
+    "LPC",
+    "Windows_PowerShell",
+    "JavaScript",
+    "Falcon",
+    "Perl_6"
+  ],
+  "PL-11": [
+
+  ],
+  "PEARL": [
+
+  ],
+  "Pict": [
+
+  ],
+  "PIKT": [
+
+  ],
+  "PeopleCode": [
+
+  ],
+  "Pico": [
+    "Scheme"
+  ],
+  "PILOT": [
+
+  ],
+  "Pike": [
+    "LPC",
+    "C",
+    "C++"
+  ],
+  "0": [
+
+  ],
+  "Perl_Data_Language": [
+    "APL",
+    "Interactive_Data_Language",
+    "Perl"
+  ],
+  "Amiga_E#PortablE": [
+
+  ],
+  "Programming_Language_for_Business": [
+
+  ],
+  "Powerhouse": [
+
+  ],
+  "Plus": [
+
+  ],
+  "POP-11": [
+
+  ],
+  "SQL": [
+
+  ],
+  "PostScript": [
+    "Portable_Document_File"
+  ],
+  "PowerBuilder": [
+
+  ],
+  "Processing": [
+    "Design_By_Numbers",
+    "Java",
+    "OpenGL",
+    "PostScript",
+    "C"
+  ],
+  "PL360": [
+
+  ],
+  "P": [
+
+  ],
+  "Plankalkül": [
+    "Heinz_Rutishauser",
+    "ALGOL_58"
+  ],
+  "PLANC": [
+
+  ],
+  "PowerShell": [
+    "Korn_shell",
+    "Perl",
+    "C_Sharp",
+    "400_Control_Language",
+    "DIGITAL_Command_Language",
+    "SQL",
+    "Tcl",
+    "Tk",
+    "Chef",
+    "Puppet"
+  ],
+  "PLEXIL": [
+
+  ],
+  "PLEX": [
+
+  ],
+  "Polymorphic_Programming_Language": [
+
+  ],
+  "Protel": [
+
+  ],
+  "PROIV": [
+
+  ],
+  "Visual_Prolog": [
+
+  ],
+  "Q": [
+    "A+",
+    "APL_programming_language",
+    "Scheme",
+    "K"
+  ],
+  "Qalb": [
+    "Scheme"
+  ],
+  "Prograph": [
+    "Functional_programming",
+    "Dataflow",
+    "Diagram"
+  ],
+  "Promela": [
+
+  ],
+  "Quantum_programming": [
+
+  ],
+  "PROSE_modeling_language": [
+
+  ],
+  "QuakeC": [
+    "C"
+  ],
+  "Prolog": [
+    "Visual_Prolog",
+    "Mercury",
+    "Oz",
+    "Erlang",
+    "Strand",
+    "KL0",
+    "KL1",
+    "Datalog"
+  ],
+  "Pro*C": [
+
+  ],
+  "Pure": [
+    "Q",
+    "Haskell",
+    "Lisp",
+    "Alice",
+    "MATLAB"
+  ],
+  "Python": [
+    "Boo",
+    "Cobra",
+    "D",
+    "F_Sharp",
+    "Falcon",
+    "Go",
+    "Groovy",
+    "JavaScript",
+    "Ruby"
+  ],
+  "ProvideX": [
+    "Business_Basic"
+  ],
+  "QtScript": [
+
+  ],
+  "Qi": [
+
+  ],
+  "R": [
+    "S",
+    "Scheme",
+    "XLispStat"
+  ],
+  "Processing.js": [
+
+  ],
+  "RAPID": [
+    "ARLA",
+    "C"
+  ],
+  "Ratfiv": [
+
+  ],
+  "Reia": [
+    "Erlang",
+    "Ruby",
+    "Python"
+  ],
+  "Red": [
+    "Rebol",
+    "Scala",
+    "Lua"
+  ],
+  "Ratfor": [
+    "Fortran",
+    "C"
+  ],
+  "REXX": [
+    "NetRexx",
+    "Object_REXX"
+  ],
+  "Rlab": [
+
+  ],
+  "Core_War": [
+
+  ],
+  "R++": [
+
+  ],
+  "RobotC": [
+
+  ],
+  "Revolution": [
+    "HyperTalk"
+  ],
+  "ROOP": [
+
+  ],
+  "Rapira": [
+
+  ],
+  "REFAL": [
+
+  ],
+  "Rex": [
+
+  ],
+  "RPL": [
+    "Forth",
+    "Infix_notation"
+  ],
+  "Rc": [
+    "Es",
+    "Inferno"
+  ],
+  "REBOL": [
+    "JSON",
+    "Red"
+  ],
+  "Racket": [
+    "Scheme",
+    "Rust"
+  ],
+  "2": [
+    "Algol_68"
+  ],
+  "S-Lang": [
+
+  ],
+  "Superbase_database": [
+
+  ],
+  "Sather": [
+    "Cool",
+    "Rust"
+  ],
+  "SASL": [
+    "Kent_Recursive_Calculator",
+    "Miranda_programming_language",
+    "Haskell"
+  ],
+  "SAIL": [
+
+  ],
+  "SabreTalk": [
+
+  ],
+  "S-PLUS": [
+
+  ],
+  "Robot_Battle#Robot_scripting_language": [
+
+  ],
+  "SALSA": [
+
+  ],
+  "SAM76": [
+
+  ],
+  "SA-C": [
+
+  ],
+  "Ruby": [
+    "D",
+    "Elixir",
+    "Falcon",
+    "Fancy",
+    "Groovy",
+    "Ioke",
+    "Mirah",
+    "Nu",
+    "Reia",
+    "Potion"
+  ],
+  "Rust": [
+    "Alef",
+    "C_Sharp",
+    "C++",
+    "Camlp4",
+    "Common_Lisp",
+    "Cyclone",
+    "Erlang",
+    "Haskell",
+    "Hermes",
+    "Limbo",
+    "Napier88",
+    "Newsqueak",
+    "Ocaml",
+    "Racket",
+    "Ruby",
+    "Sather",
+    "Standard_ML"
+  ],
+  "Scala": [
+    "Fantom",
+    "Ceylon_Project",
+    "Lasso",
+    "Kotlin"
+  ],
+  "S2": [
+
+  ],
+  "Sawzall": [
+
+  ],
+  "SAS_System": [
+
+  ],
+  "S3": [
+    "ALGOL_68"
+  ],
+  "Superbase_database#History": [
+
+  ],
+  "Script.NET": [
+    "JavaScript"
+  ],
+  "SmallBASIC": [
+
+  ],
+  "SequenceL": [
+
+  ],
+  "Self": [
+    "NewtonScript",
+    "JavaScript",
+    "Io",
+    "Cel",
+    "Agora",
+    "Squeak",
+    "Lisaac",
+    "Lua",
+    "Factor",
+    "REBOL"
+  ],
+  "Seed7": [
+    "Pascal",
+    "Modula-2",
+    "Ada",
+    "ALGOL_68",
+    "C",
+    "C++",
+    "Java"
+  ],
+  "Smalltalk": [
+    "Objective-C",
+    "Self",
+    "Object_REXX",
+    "Java",
+    "PHP",
+    "Logtalk",
+    "Dylan",
+    "AppleScript",
+    "Lisaac",
+    "NewtonScript",
+    "Lasso",
+    "Python",
+    "Ruby",
+    "Groovy",
+    "Scala",
+    "Perl_6",
+    "Common_Lisp_Object_System",
+    "Falcon",
+    "Io",
+    "Ioke",
+    "Fancy",
+    "Dart"
+  ],
+  "SETL": [
+    "ProSet",
+    "ABC"
+  ],
+  "Scheme": [
+    "Clojure",
+    "Common_Lisp",
+    "Dylan",
+    "EuLisp",
+    "Haskell",
+    "Hop",
+    "JavaScript",
+    "Kernel",
+    "Lua",
+    "R",
+    "S",
+    "Racket",
+    "Ruby"
+  ],
+  "SMALL": [
+
+  ],
+  "SLIP": [
+
+  ],
+  "SenseTalk": [
+
+  ],
+  "SIMSCRIPT": [
+
+  ],
+  "SISAL": [
+    "SAC_programming_language"
+  ],
+  "Scratch": [
+    "Logo",
+    "Smalltalk",
+    "HyperCard",
+    "StarLogo",
+    "AgentSheets",
+    "Etoys"
+  ],
+  "Simulink": [
+
+  ],
+  "Simula": [
+    "List_of_object-oriented_programming_languages"
+  ],
+  "Sed": [
+    "Chomski",
+    "Perl",
+    "AWK"
+  ],
+  "Scilab": [
+
+  ],
+  "Shift_Script": [
+    "Visual_Basic"
+  ],
+  "SPITBOL_compiler": [
+
+  ],
+  "k": [
+    "Turing"
+  ],
+  "Snowball_programming_language": [
+
+  ],
+  "Secure_Operations_Language": [
+
+  ],
+  "SR": [
+
+  ],
+  "Squirrel": [
+    "MiniD"
+  ],
+  "Span": [
+
+  ],
+  "Strand": [
+
+  ],
+  "Starlogo": [
+    "NetLogo",
+    "Etoys"
+  ],
+  "IBM_1401_Symbolic_Programming_System": [
+
+  ],
+  "Parallax_Propeller": [
+
+  ],
+  "SPARK": [
+    "Ada",
+    "Eiffel"
+  ],
+  "Stata": [
+
+  ],
+  "Squeak": [
+
+  ],
+  "SL_programming_language": [
+
+  ],
+  "Stateflow": [
+
+  ],
+  "SuperCollider": [
+
+  ],
+  "SNOBOL": [
+    "Icon",
+    "Lua"
+  ],
+  "Standard_ML": [
+    "Rust"
+  ],
+  "Subtext": [
+
+  ],
+  "TADS": [
+
+  ],
+  "T": [
+    "EuLisp",
+    "Joule"
+  ],
+  "SYMPL": [
+
+  ],
+  "Tcl": [
+    "Windows_PowerShell",
+    "Tea"
+  ],
+  "Tom": [
+
+  ],
+  "SuperTalk": [
+
+  ],
+  "Tea": [
+    "Tcl",
+    "Java",
+    "Scheme"
+  ],
+  "TACPOL": [
+
+  ],
+  "TMG": [
+
+  ],
+  "Timber": [
+
+  ],
+  "Tensilica_Instruction_Extension": [
+
+  ],
+  "Text_Editor_and_Corrector": [
+
+  ],
+  "TOM": [
+
+  ],
+  "SystemVerilog": [
+    "Verilog",
+    "OpenVera"
+  ],
+  "Text_Executive_Programming_Language": [
+
+  ],
+  "TeX": [
+
+  ],
+  "SyncCharts": [
+
+  ],
+  "TELCOMP": [
+    "MUMPS"
+  ],
+  "TACL": [
+
+  ],
+  "Transaction_Application_Language": [
+
+  ],
+  "TTCN": [
+
+  ],
+  "TRAC": [
+
+  ],
+  "Transact-SQL": [
+
+  ],
+  "TXL": [
+
+  ],
+  "TypeScript": [
+    "JavaScript",
+    "Java",
+    "C_Sharp"
+  ],
+  "Turing": [
+    "Euclid",
+    "Pascal",
+    "k"
+  ],
+  "Ubercode": [
+
+  ],
+  "UCSD_Pascal": [
+
+  ],
+  "UnrealScript": [
+    "C++",
+    "Java"
+  ],
+  "Uniface": [
+
+  ],
+  "Unix_shell": [
+
+  ],
+  "Vala": [
+    "C",
+    "C++",
+    "C_Sharp",
+    "D",
+    "Java",
+    "Python"
+  ],
+  "Turbo_C++": [
+
+  ],
+  "Text_Processing_Utility": [
+
+  ],
+  "UNITY": [
+
+  ],
+  "Unicon": [
+    "Icon_programming_language"
+  ],
+  "TTM": [
+    "TRAC_programming_language"
+  ],
+  "Umple": [
+    "Java",
+    "C++",
+    "Unified_Modeling_Language",
+    "Ruby",
+    "PHP"
+  ],
+  "TUTOR": [
+    "Regency_Systems_R2C"
+  ],
+  "Visual_DialogScript": [
+
+  ],
+  "Microsoft_Visual_C_Sharp": [
+
+  ],
+  "Visual_DataFlex": [
+
+  ],
+  "Visual_Objects": [
+
+  ],
+  "Visual_J": [
+
+  ],
+  "VHDL": [
+    "Ada",
+    "Pascal"
+  ],
+  "WebQL": [
+
+  ],
+  "Visual_FoxPro": [
+
+  ],
+  "Visual_Basic_.NET": [
+    ".NET_Framework"
+  ],
+  "Vvvv": [
+    "APL",
+    "MSP",
+    "DirectShow",
+    "Pure_Data",
+    "DirectX"
+  ],
+  "VSXu": [
+    "Pure_Data",
+    "OpenGL",
+    "C++"
+  ],
+  "Visual_Basic": [
+    "Visual_Basic_.NET",
+    "Gambas",
+    "REALbasic",
+    "Basic4ppc"
+  ],
+  "Microsoft_Visual_C++": [
+
+  ],
+  "Verilog": [
+    "SystemVerilog"
+  ],
+  "Visual_Basic_for_Applications": [
+    "QuickBASIC",
+    "Visual_Basic"
+  ],
+  "WATFIV": [
+
+  ],
+  "VBScript": [
+    "Windows_PowerShell"
+  ],
+  "Visual_Fortran": [
+    "ALGOL_58",
+    "BASIC",
+    "C",
+    "I",
+    "PACT_I",
+    "MUMPS",
+    "Ratfor"
+  ],
+  "WebDNA": [
+
+  ],
+  "Winbatch": [
+
+  ],
+  "XC_Programming_Language": [
+    "C",
+    "Communicating_Sequential_Processes",
+    "Occam"
+  ],
+  "XL": [
+    "Ada",
+    "C++"
+  ],
+  "XCore_XS1": [
+
+  ],
+  "XBL": [
+
+  ],
+  "Z_notation": [
+
+  ],
+  "XPL": [
+
+  ],
+  "Windows_PowerShell": [
+    "Korn_shell",
+    "Perl",
+    "C_Sharp",
+    "400_Control_Language",
+    "DIGITAL_Command_Language",
+    "SQL",
+    "Tcl",
+    "Tk",
+    "Chef",
+    "Puppet"
+  ],
+  "X10": [
+    "Java"
+  ],
+  "XOTcl": [
+
+  ],
+  "Yorick": [
+
+  ],
+  "XPL0": [
+
+  ],
+  "X_Sharp": [
+
+  ],
+  "XSL_Transformations": [
+    "DSSSL"
+  ],
+  "YQL": [
+
+  ],
+  "XQuery": [
+    "XPath",
+    "SQL",
+    "XSLT"
+  ],
+  "Microsoft_Dynamics_AX": [
+
+  ],
+  "XHarbour": [
+
+  ],
+  "XSB": [
+    "Prolog"
+  ],
+  "XPath": [
+    "XML_Schema",
+    "XForms"
+  ],
+  "ZOPL": [
+
+  ],
+  "ZPL": [
+    "C"
+  ],
+  "Zeno": [
+
+  ]
+}

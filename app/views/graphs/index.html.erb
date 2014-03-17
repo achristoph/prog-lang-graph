@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<body ng-app="app" ng-controller="GraphCtrl">
+<div class="container">
+  <div class="page-header">
+    <h3>Programming Language History Visualization</h3>
+  </div>
+  <form class="form-inline" role="search" ng-submit="drawGraph()">
+    <div class="form-group">
+      <input class="form-control" ng-model="influenced_count" ng-change="drawGraph()" type="number" ngMinlength=0 placeholder="Enter min# of influence" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Draw</button>
+  </form>
+  <hr/>
+  <svg></svg>
+</div>
+</body>

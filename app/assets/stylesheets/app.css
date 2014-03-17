@@ -1,0 +1,47 @@
+.link {
+    fill: none;
+    stroke: #666;
+    stroke-width: 1.5px;
+    opacity: .6;
+}
+
+circle {
+    fill: #ccc;
+    stroke: #333;
+    stroke-width: 1.5px;
+    cursor: pointer;
+}
+
+circle.chosen {
+    fill: rgba(0, 221, 0, 0.55);
+}
+
+circle:hover {
+    fill: rgba(255, 164, 0, 0.54);
+}
+
+path.influenced {
+    stroke: red;
+}
+
+path.influencedby {
+    stroke: blue;
+}
+
+path.normal {
+    stroke: black;
+}
+
+text {
+    font: 10px sans-serif;
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
+
+.neighbor {
+    fill: yellow;
+}
+
+.neighbor-influencedby {
+    fill: purple;
+}
