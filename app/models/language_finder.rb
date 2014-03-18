@@ -25,7 +25,7 @@ class LanguageFinder
       return
     end
 
-    @languages[language_key]= []
+    @languages[language_key]= {influenced: [], href:path}
 
     influenced = page.search("table.infobox tr th:contains('Influenced')").last
 
@@ -35,7 +35,7 @@ class LanguageFinder
         influenced_path = link.split('/').last
         key = influenced_path.split("_(").first
         if not key.match(/index.php.*/) #broken link
-          @languages[language_key] << URI.decode(key)
+          @languages[language_key][:influenced] << URI.decode(key)
         end
       end
     end
@@ -45,7 +45,7 @@ class LanguageFinder
   def start_batch_search(num_of_threads)
     threads = []
     count = 0
-
+    @language_links = @language_links
     while count < @language_links.size
       1.upto(num_of_threads) do |i|
         break if count+i >= @language_links.size
@@ -74,8 +74,8 @@ class LanguageFinder
     data_source = []
 
     JSON.parse(json).each do |k,v|
-      v.each do |l|
-        data_source << {source: URI.decode(k), target: URI.decode(l), count:v.size}
+      v["influenced"].each do |l|
+        data_source << {source: URI.decode(k), target: URI.decode(l), count:v["influenced"].size, href:v["href"]}
       end
     end
 
