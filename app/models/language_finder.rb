@@ -16,7 +16,6 @@ class LanguageFinder
 
   def search(path)
     language_key = URI.decode(path.split('/').last.split("_(").first)
-    p language_key
 
     begin
       page = @agent.get("http://www.wikipedia.org#{path}")
