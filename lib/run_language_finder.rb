@@ -6,6 +6,6 @@ lf = LanguageFinder.new do |f|
   end
 end
 
-lf.start_batch_search(20)
-lf.create_json
+#lf.start_batch_search(20)
+#lf.create_json
 lf.create_d3_format
