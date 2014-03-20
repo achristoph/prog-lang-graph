@@ -95,11 +95,11 @@ describe LanguageFinder do
     expect(lf.languages[language_key][:influenced].size).to eq(0)
   end
 
-  it 'start batch search' do
+  it 'invokes batch search correctly' do
     lf.language_links = language_links
     allow(lf).to receive(:search).with(an_instance_of(String))
-    expect(lf).to receive(:search).exactly(1).times
-    lf.start_batch_search(1)
+    expect(lf).to receive(:search).exactly(2).times
+    lf.start_batch_search(5)
   end
 
   it 'creates json output file' do

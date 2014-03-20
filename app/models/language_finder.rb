@@ -61,7 +61,7 @@ class LanguageFinder
 
   def start_batch_search(num_of_threads)
     threads = []
-    count = 0
+    count = -1
     while count < @language_links.size
       1.upto(num_of_threads) do |i|
         break if count+i >= @language_links.size
