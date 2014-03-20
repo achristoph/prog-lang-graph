@@ -1,64 +1,9 @@
 {
-  "ABC_ALGOL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ABC_ALGOL"
-  },
-  "ABLE": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ABLE_(programming_language)"
-  },
   "A_Sharp": {
     "influenced": [
       "Aldor"
     ],
     "href": "/wiki/A_Sharp_(Axiom)"
-  },
-  "ACC": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ACC_(programming_language)"
-  },
-  "Adenine": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Adenine_(programming_language)"
-  },
-  "ACL2": {
-    "influenced": [
-      "Nqthm",
-      "Common_Lisp"
-    ],
-    "href": "/wiki/ACL2"
-  },
-  "Distributed_Application_Specification_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Distributed_Application_Specification_Language"
-  },
-  "ABC": {
-    "influenced": [
-      "Python"
-    ],
-    "href": "/wiki/ABC_(programming_language)"
-  },
-  "Accent": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Accent_(programming_language)"
-  },
-  "ABSET": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ABSET"
   },
   "A-0_System": {
     "influenced": [
@@ -72,6 +17,18 @@
     ],
     "href": "/wiki/ABSYS"
   },
+  "ABC_ALGOL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/ABC_ALGOL"
+  },
+  "ABLE": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/ABLE_(programming_language)"
+  },
   "Agda": {
     "influenced": [
       "Coq",
@@ -80,19 +37,23 @@
     ],
     "href": "/wiki/Agda_(theorem_prover)"
   },
+  "ABSET": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/ABSET"
+  },
+  "ABC": {
+    "influenced": [
+      "Python"
+    ],
+    "href": "/wiki/ABC_(programming_language)"
+  },
   "LGP-30#ACT-III_programming_language": {
     "influenced": [
 
     ],
     "href": "/wiki/LGP-30#ACT-III_programming_language"
-  },
-  "ABAP": {
-    "influenced": [
-      "Objective-C",
-      "COBOL",
-      "SQL"
-    ],
-    "href": "/wiki/ABAP"
   },
   "ActionScript": {
     "influenced": [
@@ -101,17 +62,13 @@
     ],
     "href": "/wiki/ActionScript"
   },
-  "Action!": {
+  "ABAP": {
     "influenced": [
-
+      "Objective-C",
+      "COBOL",
+      "SQL"
     ],
-    "href": "/wiki/Action!_(programming_language)"
-  },
-  "A++": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/A%2B%2B"
+    "href": "/wiki/ABAP"
   },
   "Ada": {
     "influenced": [
@@ -131,23 +88,48 @@
     ],
     "href": "/wiki/A%2B_(programming_language)"
   },
-  "Amiga_E": {
+  "A++": {
     "influenced": [
 
     ],
-    "href": "/wiki/Amiga_E"
+    "href": "/wiki/A%2B%2B"
   },
-  "Alma-0": {
+  "ACC": {
     "influenced": [
 
     ],
-    "href": "/wiki/Alma-0"
+    "href": "/wiki/ACC_(programming_language)"
   },
-  "Argus": {
+  "Adenine": {
     "influenced": [
 
     ],
-    "href": "/wiki/Argus_(programming_language)"
+    "href": "/wiki/Adenine_(programming_language)"
+  },
+  "Distributed_Application_Specification_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Distributed_Application_Specification_Language"
+  },
+  "Accent": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Accent_(programming_language)"
+  },
+  "ACL2": {
+    "influenced": [
+      "Nqthm",
+      "Common_Lisp"
+    ],
+    "href": "/wiki/ACL2"
+  },
+  "Action!": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Action!_(programming_language)"
   },
   "Agora": {
     "influenced": [
@@ -155,19 +137,17 @@
     ],
     "href": "/wiki/Agora_(programming_language)"
   },
-  "AmbientTalk": {
+  "Agilent_VEE": {
     "influenced": [
-      "ECMAScript_Harmony"
+
     ],
-    "href": "/wiki/AmbientTalk"
+    "href": "/wiki/Agilent_VEE"
   },
-  "Alef": {
+  "Argus": {
     "influenced": [
-      "Limbo",
-      "Rust",
-      "Go"
+
     ],
-    "href": "/wiki/Alef_(programming_language)"
+    "href": "/wiki/Argus_(programming_language)"
   },
   "Algebraic_Logic_Functional_programming_language": {
     "influenced": [
@@ -175,48 +155,24 @@
     ],
     "href": "/wiki/Algebraic_Logic_Functional_programming_language"
   },
-  "Agilent_VEE": {
+  "Alice": {
+    "influenced": [
+      "ML",
+      "Oz"
+    ],
+    "href": "/wiki/Alice_(programming_language)"
+  },
+  "Alma-0": {
     "influenced": [
 
     ],
-    "href": "/wiki/Agilent_VEE"
+    "href": "/wiki/Alma-0"
   },
-  "AspectJ": {
+  "Arc": {
     "influenced": [
 
     ],
-    "href": "/wiki/AspectJ"
-  },
-  "AIMMS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/AIMMS"
-  },
-  "ARexx": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ARexx"
-  },
-  "ALGOL_58": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ALGOL_58"
-  },
-  "AMOS": {
-    "influenced": [
-      "STOS_BASIC"
-    ],
-    "href": "/wiki/AMOS_(programming_language)"
-  },
-  "AMPL": {
-    "influenced": [
-      "AWK",
-      "C"
-    ],
-    "href": "/wiki/AMPL"
+    "href": "/wiki/Arc_(programming_language)"
   },
   "ALGOL_60": {
     "influenced": [
@@ -228,18 +184,11 @@
     ],
     "href": "/wiki/ALGOL_60"
   },
-  "Alice": {
-    "influenced": [
-      "ML",
-      "Oz"
-    ],
-    "href": "/wiki/Alice_(programming_language)"
-  },
-  "Arc": {
+  "ALGOL_58": {
     "influenced": [
 
     ],
-    "href": "/wiki/Arc_(programming_language)"
+    "href": "/wiki/ALGOL_58"
   },
   "AppleScript": {
     "influenced": [
@@ -267,23 +216,62 @@
     ],
     "href": "/wiki/ALGOL_68"
   },
-  "Babbage": {
-    "influenced": [
-      "BCPL"
-    ],
-    "href": "/wiki/Babbage_(programming_language)"
-  },
-  "Bertrand": {
+  "Amiga_E": {
     "influenced": [
 
     ],
-    "href": "/wiki/Bertrand_(programming_language)"
+    "href": "/wiki/Amiga_E"
   },
-  "Averest": {
+  "AmbientTalk": {
+    "influenced": [
+      "ECMAScript_Harmony"
+    ],
+    "href": "/wiki/AmbientTalk"
+  },
+  "Alef": {
+    "influenced": [
+      "Limbo",
+      "Rust",
+      "Go"
+    ],
+    "href": "/wiki/Alef_(programming_language)"
+  },
+  "ARexx": {
     "influenced": [
 
     ],
-    "href": "/wiki/Averest"
+    "href": "/wiki/ARexx"
+  },
+  "AspectJ": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/AspectJ"
+  },
+  "AMPL": {
+    "influenced": [
+      "AWK",
+      "C"
+    ],
+    "href": "/wiki/AMPL"
+  },
+  "AMOS": {
+    "influenced": [
+      "STOS_BASIC"
+    ],
+    "href": "/wiki/AMOS_(programming_language)"
+  },
+  "AIMMS": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/AIMMS"
+  },
+  "Ateji_PX": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/Ateji_PX"
   },
   "BAIL": {
     "influenced": [
@@ -298,31 +286,11 @@
     ],
     "href": "/wiki/Autocoder"
   },
-  "Ateji_PX": {
+  "Babbage": {
     "influenced": [
-      "Java"
+      "BCPL"
     ],
-    "href": "/wiki/Ateji_PX"
-  },
-  "AutoLISP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/AutoLISP"
-  },
-  "BeanShell": {
-    "influenced": [
-      "Java"
-    ],
-    "href": "/wiki/BeanShell"
-  },
-  "ATS": {
-    "influenced": [
-      "Dependent_ML",
-      "ML",
-      "OCaml"
-    ],
-    "href": "/wiki/ATS_(programming_language)"
+    "href": "/wiki/Babbage_(programming_language)"
   },
   "AutoHotkey": {
     "influenced": [
@@ -330,11 +298,11 @@
     ],
     "href": "/wiki/AutoHotkey"
   },
-  "AutoIt": {
+  "Bash": {
     "influenced": [
 
     ],
-    "href": "/wiki/AutoIt"
+    "href": "/wiki/Bash_(Unix_shell)"
   },
   "Axum": {
     "influenced": [
@@ -342,30 +310,11 @@
     ],
     "href": "/wiki/Axum_(programming_language)"
   },
-  "BCPL": {
-    "influenced": [
-      "B",
-      "C"
-    ],
-    "href": "/wiki/BCPL"
-  },
-  "B": {
-    "influenced": [
-      "C"
-    ],
-    "href": "/wiki/B_(programming_language)"
-  },
-  "Bc": {
+  "Assembly_language": {
     "influenced": [
 
     ],
-    "href": "/wiki/Bc_(programming_language)"
-  },
-  "Batch_file": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Batch_file"
+    "href": "/wiki/Assembly_language"
   },
   "BASIC": {
     "influenced": [
@@ -379,11 +328,68 @@
     ],
     "href": "/wiki/BASIC"
   },
-  "Bash": {
+  "B": {
+    "influenced": [
+      "C"
+    ],
+    "href": "/wiki/B_(programming_language)"
+  },
+  "ATS": {
+    "influenced": [
+      "Dependent_ML",
+      "ML",
+      "OCaml"
+    ],
+    "href": "/wiki/ATS_(programming_language)"
+  },
+  "Bertrand": {
     "influenced": [
 
     ],
-    "href": "/wiki/Bash_(Unix_shell)"
+    "href": "/wiki/Bertrand_(programming_language)"
+  },
+  "BeanShell": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/BeanShell"
+  },
+  "AutoLISP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/AutoLISP"
+  },
+  "Averest": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Averest"
+  },
+  "Bc": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Bc_(programming_language)"
+  },
+  "AutoIt": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/AutoIt"
+  },
+  "BCPL": {
+    "influenced": [
+      "B",
+      "C"
+    ],
+    "href": "/wiki/BCPL"
+  },
+  "Batch_file": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Batch_file"
   },
   "AWK": {
     "influenced": [
@@ -395,11 +401,11 @@
     ],
     "href": "/wiki/AWK"
   },
-  "Assembly_language": {
+  "Bigwig": {
     "influenced": [
 
     ],
-    "href": "/wiki/Assembly_language"
+    "href": "/wiki/Bigwig_(programming_language)"
   },
   "Bistro": {
     "influenced": [
@@ -407,6 +413,31 @@
       "Smalltalk"
     ],
     "href": "/wiki/Bistro_(programming_language)"
+  },
+  "Korn_shell": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Korn_shell"
+  },
+  "BitC": {
+    "influenced": [
+      "Haskell",
+      "ML"
+    ],
+    "href": "/wiki/BitC"
+  },
+  "BLISS": {
+    "influenced": [
+      "ALGOL"
+    ],
+    "href": "/wiki/BLISS_(programming_language)"
+  },
+  "Boomerang": {
+    "influenced": [
+      "XSLT"
+    ],
+    "href": "/wiki/Boomerang_(programming_language)"
   },
   "Blue": {
     "influenced": [
@@ -420,12 +451,17 @@
     ],
     "href": "/wiki/BETA_(programming_language)"
   },
-  "BitC": {
+  "Bourne_shell": {
     "influenced": [
-      "Haskell",
-      "ML"
+
     ],
-    "href": "/wiki/BitC"
+    "href": "/wiki/Bourne_shell"
+  },
+  "Qualcomm_Brew": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Qualcomm_Brew"
   },
   "Bon": {
     "influenced": [
@@ -433,53 +469,17 @@
     ],
     "href": "/wiki/Bon_(programming_language)"
   },
-  "Bigwig": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Bigwig_(programming_language)"
-  },
   "BuildProfessional": {
     "influenced": [
 
     ],
     "href": "/wiki/BuildProfessional"
   },
-  "AL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/C/AL"
-  },
-  "Boomerang": {
-    "influenced": [
-      "XSLT"
-    ],
-    "href": "/wiki/Boomerang_(programming_language)"
-  },
   "C--": {
     "influenced": [
       "C"
     ],
     "href": "/wiki/C--"
-  },
-  "Korn_shell": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Korn_shell"
-  },
-  "Bourne_shell": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Bourne_shell"
-  },
-  "BLISS": {
-    "influenced": [
-      "ALGOL"
-    ],
-    "href": "/wiki/BLISS_(programming_language)"
   },
   "Boo": {
     "influenced": [
@@ -488,11 +488,22 @@
     ],
     "href": "/wiki/Boo_(programming_language)"
   },
-  "Qualcomm_Brew": {
+  "C++": {
     "influenced": [
-
+      "Perl",
+      "LPC",
+      "Lua",
+      "Pike",
+      "Ada",
+      "Java",
+      "PHP",
+      "D",
+      "C99",
+      "C_Sharp",
+      "Falcon",
+      "Seed7"
     ],
-    "href": "/wiki/Qualcomm_Brew"
+    "href": "/wiki/C%2B%2B"
   },
   "Business_Process_Execution_Language": {
     "influenced": [
@@ -518,22 +529,17 @@
     ],
     "href": "/wiki/PL/C"
   },
-  "C++": {
+  "AL": {
     "influenced": [
-      "Perl",
-      "LPC",
-      "Lua",
-      "Pike",
-      "Ada",
-      "Java",
-      "PHP",
-      "D",
-      "C99",
-      "C_Sharp",
-      "Falcon",
-      "Seed7"
+
     ],
-    "href": "/wiki/C%2B%2B"
+    "href": "/wiki/C/AL"
+  },
+  "CDuce": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CDuce"
   },
   "Candle": {
     "influenced": [
@@ -549,6 +555,64 @@
     ],
     "href": "/wiki/Cecil_(programming_language)"
   },
+  "Caml": {
+    "influenced": [
+      "F_Sharp"
+    ],
+    "href": "/wiki/Caml"
+  },
+  "Chapel": {
+    "influenced": [
+      "High_Performance_Fortran",
+      "ZPL"
+    ],
+    "href": "/wiki/Chapel_(programming_language)"
+  },
+  "C_Shell": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/C_Shell"
+  },
+  "CHIP-8": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CHIP-8"
+  },
+  "Charity": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Charity_(programming_language)"
+  },
+  "Ch": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Ch_(computer_programming)"
+  },
+  "Ceylon": {
+    "influenced": [
+      "Java",
+      "Scala",
+      "Smalltalk"
+    ],
+    "href": "/wiki/Ceylon_(programming_language)"
+  },
+  "Caché_ObjectScript": {
+    "influenced": [
+      "MUMPS"
+    ],
+    "href": "/wiki/Cach%C3%A9_ObjectScript"
+  },
+  "CHILL": {
+    "influenced": [
+      "COBOL",
+      "1"
+    ],
+    "href": "/wiki/CHILL"
+  },
   "Cel": {
     "influenced": [
       "Smalltalk",
@@ -560,61 +624,17 @@
     ],
     "href": "/wiki/Cel_(programming_language)"
   },
-  "Cayenne": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Cayenne_(programming_language)"
-  },
-  "CDuce": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/CDuce"
-  },
-  "CHAIN": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/CHAIN_(programming_language)"
-  },
-  "CHILL": {
-    "influenced": [
-      "COBOL",
-      "1"
-    ],
-    "href": "/wiki/CHILL"
-  },
   "Cesil": {
     "influenced": [
 
     ],
     "href": "/wiki/Cesil"
   },
-  "Chapel": {
-    "influenced": [
-      "High_Performance_Fortran",
-      "ZPL"
-    ],
-    "href": "/wiki/Chapel_(programming_language)"
-  },
-  "CHIP-8": {
+  "Chef": {
     "influenced": [
 
     ],
-    "href": "/wiki/CHIP-8"
-  },
-  "Caml": {
-    "influenced": [
-      "F_Sharp"
-    ],
-    "href": "/wiki/Caml"
-  },
-  "Charity": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Charity_(programming_language)"
+    "href": "/wiki/Chef_(programming_language)"
   },
   "Charm": {
     "influenced": [
@@ -624,25 +644,11 @@
     ],
     "href": "/wiki/Charm_(language)"
   },
-  "Ceylon": {
-    "influenced": [
-      "Java",
-      "Scala",
-      "Smalltalk"
-    ],
-    "href": "/wiki/Ceylon_(programming_language)"
-  },
   "Cg": {
     "influenced": [
 
     ],
     "href": "/wiki/Cg_(programming_language)"
-  },
-  "Ch": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Ch_(computer_programming)"
   },
   "ColdFusion_Markup_Language": {
     "influenced": [
@@ -650,111 +656,17 @@
     ],
     "href": "/wiki/ColdFusion_Markup_Language"
   },
-  "Chef": {
+  "CHAIN": {
     "influenced": [
 
     ],
-    "href": "/wiki/Chef_(programming_language)"
+    "href": "/wiki/CHAIN_(programming_language)"
   },
-  "C_Shell": {
+  "Cayenne": {
     "influenced": [
 
     ],
-    "href": "/wiki/C_Shell"
-  },
-  "Caché_ObjectScript": {
-    "influenced": [
-      "MUMPS"
-    ],
-    "href": "/wiki/Cach%C3%A9_ObjectScript"
-  },
-  "Cobra": {
-    "influenced": [
-      "Python",
-      "Eiffel",
-      "C_Sharp",
-      "Objective-C"
-    ],
-    "href": "/wiki/Cobra_(programming_language)"
-  },
-  "CODE": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/CODE_(programming_language)"
-  },
-  "Cola": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Cola_(programming_language)"
-  },
-  "CLU": {
-    "influenced": [
-      "Sather",
-      "Lua",
-      "Ruby_programming_language",
-      "Ada",
-      "Argus"
-    ],
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  "Clean": {
-    "influenced": [
-      "Miranda",
-      "Haskell"
-    ],
-    "href": "/wiki/Clean_(programming_language)"
-  },
-  "Clipper": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Clipper_(programming_language)"
-  },
-  "Chomski": {
-    "influenced": [
-      "Sed",
-      "Awk"
-    ],
-    "href": "/wiki/Chomski"
-  },
-  "ChucK": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ChucK"
-  },
-  "Clojure": {
-    "influenced": [
-      "Elixir"
-    ],
-    "href": "/wiki/Clojure"
-  },
-  "CoffeeScript": {
-    "influenced": [
-      "moonscript.org",
-      "LiveScript"
-    ],
-    "href": "/wiki/CoffeeScript"
-  },
-  "CICS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/CICS"
-  },
-  "400_Control_Language": {
-    "influenced": [
-      "Windows_PowerShell"
-    ],
-    "href": "/wiki/AS/400_Control_Language"
-  },
-  "Cilk": {
-    "influenced": [
-      "C"
-    ],
-    "href": "/wiki/Cilk"
+    "href": "/wiki/Cayenne_(programming_language)"
   },
   "Claire": {
     "influenced": [
@@ -767,30 +679,42 @@
     ],
     "href": "/wiki/Claire_(programming_language)"
   },
-  "ColdFusion": {
+  "Cola": {
     "influenced": [
 
     ],
-    "href": "/wiki/ColdFusion"
+    "href": "/wiki/Cola_(programming_language)"
   },
-  "CLIST": {
+  "Clean": {
+    "influenced": [
+      "Miranda",
+      "Haskell"
+    ],
+    "href": "/wiki/Clean_(programming_language)"
+  },
+  "400_Control_Language": {
+    "influenced": [
+      "Windows_PowerShell"
+    ],
+    "href": "/wiki/AS/400_Control_Language"
+  },
+  "ChucK": {
     "influenced": [
 
     ],
-    "href": "/wiki/CLIST"
+    "href": "/wiki/ChucK"
   },
-  "CMS-2": {
+  "Cilk": {
+    "influenced": [
+      "C"
+    ],
+    "href": "/wiki/Cilk"
+  },
+  "CICS": {
     "influenced": [
 
     ],
-    "href": "/wiki/CMS-2_(programming_language)"
-  },
-  "COBOL": {
-    "influenced": [
-      "I",
-      "ABAP"
-    ],
-    "href": "/wiki/COBOL"
+    "href": "/wiki/CICS"
   },
   "ColdC": {
     "influenced": [
@@ -806,6 +730,96 @@
     ],
     "href": "/wiki/Clarion_(programming_language)"
   },
+  "CMS-2": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CMS-2_(programming_language)"
+  },
+  "Cobra": {
+    "influenced": [
+      "Python",
+      "Eiffel",
+      "C_Sharp",
+      "Objective-C"
+    ],
+    "href": "/wiki/Cobra_(programming_language)"
+  },
+  "CLIST": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CLIST"
+  },
+  "CoffeeScript": {
+    "influenced": [
+      "moonscript.org",
+      "LiveScript"
+    ],
+    "href": "/wiki/CoffeeScript"
+  },
+  "CODE": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CODE_(programming_language)"
+  },
+  "Chomski": {
+    "influenced": [
+      "Sed",
+      "Awk"
+    ],
+    "href": "/wiki/Chomski"
+  },
+  "Clipper": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Clipper_(programming_language)"
+  },
+  "CLU": {
+    "influenced": [
+      "Sather",
+      "Lua",
+      "Ruby_programming_language",
+      "Ada",
+      "Argus"
+    ],
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  "Clojure": {
+    "influenced": [
+      "Elixir"
+    ],
+    "href": "/wiki/Clojure"
+  },
+  "ColdFusion": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/ColdFusion"
+  },
+  "COBOL": {
+    "influenced": [
+      "I",
+      "ABAP"
+    ],
+    "href": "/wiki/COBOL"
+  },
+  "COMAL": {
+    "influenced": [
+      "BASIC",
+      "Pascal"
+    ],
+    "href": "/wiki/COMAL"
+  },
+  "Combined_Programming_Language": {
+    "influenced": [
+      "BCPL",
+      "POP-2"
+    ],
+    "href": "/wiki/Combined_Programming_Language"
+  },
   "Cool": {
     "influenced": [
       "Sather",
@@ -815,49 +829,11 @@
     ],
     "href": "/wiki/Cool_(programming_language)"
   },
-  "Combined_Programming_Language": {
-    "influenced": [
-      "BCPL",
-      "POP-2"
-    ],
-    "href": "/wiki/Combined_Programming_Language"
-  },
-  "COMPASS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/COMPASS"
-  },
-  "COMIT": {
-    "influenced": [
-      "SNOBOL"
-    ],
-    "href": "/wiki/COMIT"
-  },
-  "Component_Pascal": {
-    "influenced": [
-      "Oberon-2"
-    ],
-    "href": "/wiki/Component_Pascal"
-  },
   "Coq": {
     "influenced": [
       "Agda"
     ],
     "href": "/wiki/Coq"
-  },
-  "COMAL": {
-    "influenced": [
-      "BASIC",
-      "Pascal"
-    ],
-    "href": "/wiki/COMAL"
-  },
-  "CorVision": {
-    "influenced": [
-      "Inform"
-    ],
-    "href": "/wiki/CorVision"
   },
   "Converge": {
     "influenced": [
@@ -866,56 +842,29 @@
     ],
     "href": "/wiki/Converge_(programming_language)"
   },
-  "Coral_66": {
-    "influenced": [
-      "ALGOL",
-      "JOVIAL"
-    ],
-    "href": "/wiki/Coral_66"
-  },
-  "COWSEL": {
-    "influenced": [
-      "POP-2"
-    ],
-    "href": "/wiki/COWSEL"
-  },
-  "Csound": {
+  "COMPASS": {
     "influenced": [
 
     ],
-    "href": "/wiki/Csound"
+    "href": "/wiki/COMPASS"
+  },
+  "Component_Pascal": {
+    "influenced": [
+      "Oberon-2"
+    ],
+    "href": "/wiki/Component_Pascal"
+  },
+  "CorVision": {
+    "influenced": [
+      "Inform"
+    ],
+    "href": "/wiki/CorVision"
   },
   "Common_Intermediate_Language": {
     "influenced": [
 
     ],
     "href": "/wiki/Common_Intermediate_Language"
-  },
-  "Curl": {
-    "influenced": [
-      "HTML",
-      "JavaScript",
-      "Lisp"
-    ],
-    "href": "/wiki/Curl_(programming_language)"
-  },
-  "Communicating_sequential_processes": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Communicating_sequential_processes"
-  },
-  "Constraint_Handling_Rules": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Constraint_Handling_Rules"
-  },
-  "C_shell": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/C_shell"
   },
   "Common_Lisp": {
     "influenced": [
@@ -938,13 +887,56 @@
     ],
     "href": "/wiki/Corn_(emulator)"
   },
-  "Draco": {
+  "COWSEL": {
     "influenced": [
-      "ALGOL_68",
-      "Pascal",
-      "C"
+      "POP-2"
     ],
-    "href": "/wiki/Draco_(programming_language)"
+    "href": "/wiki/COWSEL"
+  },
+  "COMIT": {
+    "influenced": [
+      "SNOBOL"
+    ],
+    "href": "/wiki/COMIT"
+  },
+  "Constraint_Handling_Rules": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Constraint_Handling_Rules"
+  },
+  "Curl": {
+    "influenced": [
+      "HTML",
+      "JavaScript",
+      "Lisp"
+    ],
+    "href": "/wiki/Curl_(programming_language)"
+  },
+  "Csound": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Csound"
+  },
+  "C_shell": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/C_shell"
+  },
+  "Communicating_sequential_processes": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Communicating_sequential_processes"
+  },
+  "Coral_66": {
+    "influenced": [
+      "ALGOL",
+      "JOVIAL"
+    ],
+    "href": "/wiki/Coral_66"
   },
   "DATATRIEVE": {
     "influenced": [
@@ -952,17 +944,78 @@
     ],
     "href": "/wiki/DATATRIEVE"
   },
+  "DataFlex": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/DataFlex"
+  },
+  "Curry": {
+    "influenced": [
+      "Haskell"
+    ],
+    "href": "/wiki/Curry_(programming_language)"
+  },
+  "Cyclone": {
+    "influenced": [
+      "C"
+    ],
+    "href": "/wiki/Cyclone_(programming_language)"
+  },
+  "D": {
+    "influenced": [
+      "MiniD",
+      "Vala"
+    ],
+    "href": "/wiki/D_(programming_language)"
+  },
+  "DBase": {
+    "influenced": [
+      "Clipper",
+      "Harbour",
+      "FoxPro"
+    ],
+    "href": "/wiki/DBase"
+  },
+  "Datalog": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Datalog"
+  },
+  "Dart": {
+    "influenced": [
+      "JavaScript",
+      "Smalltalk",
+      "Erlang",
+      "Strongtalk",
+      "C_Sharp"
+    ],
+    "href": "/wiki/Dart_(programming_language)"
+  },
   "DIGITAL_Command_Language": {
     "influenced": [
       "Windows_PowerShell"
     ],
     "href": "/wiki/DIGITAL_Command_Language"
   },
-  "DataFlex": {
+  "Datapoint's_Advanced_Systems_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/DataFlex"
+    "href": "/wiki/Datapoint%27s_Advanced_Systems_Language"
+  },
+  "Sepandar_Kamvar#.22Dog.22_programming_language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Sepandar_Kamvar#.22Dog.22_programming_language"
+  },
+  "Cython": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Cython"
   },
   "Deesel": {
     "influenced": [
@@ -978,29 +1031,20 @@
     ],
     "href": "/wiki/DIBOL"
   },
-  "Curry": {
+  "Draco": {
     "influenced": [
-      "Haskell"
-    ],
-    "href": "/wiki/Curry_(programming_language)"
-  },
-  "Cython": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Cython"
-  },
-  "Sepandar_Kamvar#.22Dog.22_programming_language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Sepandar_Kamvar#.22Dog.22_programming_language"
-  },
-  "Cyclone": {
-    "influenced": [
+      "ALGOL_68",
+      "Pascal",
       "C"
     ],
-    "href": "/wiki/Cyclone_(programming_language)"
+    "href": "/wiki/Draco_(programming_language)"
+  },
+  "Delphi": {
+    "influenced": [
+      "C_Sharp",
+      "Java"
+    ],
+    "href": "/wiki/Delphi_(programming_language)"
   },
   "Dc": {
     "influenced": [
@@ -1014,86 +1058,6 @@
     ],
     "href": "/wiki/Dink_Smallwood#Modification"
   },
-  "Datalog": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Datalog"
-  },
-  "DBase": {
-    "influenced": [
-      "Clipper",
-      "Harbour",
-      "FoxPro"
-    ],
-    "href": "/wiki/DBase"
-  },
-  "Delphi": {
-    "influenced": [
-      "C_Sharp",
-      "Java"
-    ],
-    "href": "/wiki/Delphi_(programming_language)"
-  },
-  "Dart": {
-    "influenced": [
-      "JavaScript",
-      "Smalltalk",
-      "Erlang",
-      "Strongtalk",
-      "C_Sharp"
-    ],
-    "href": "/wiki/Dart_(programming_language)"
-  },
-  "D": {
-    "influenced": [
-      "MiniD",
-      "Vala"
-    ],
-    "href": "/wiki/D_(programming_language)"
-  },
-  "Datapoint's_Advanced_Systems_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Datapoint%27s_Advanced_Systems_Language"
-  },
-  "Ease": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Ease_(programming_language)"
-  },
-  "Easytrieve": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Easytrieve"
-  },
-  "E_Sharp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/E_Sharp_(programming_language)"
-  },
-  "Escapade": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Escapade_(programming_language)"
-  },
-  "ELAN": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ELAN_(programming_language)"
-  },
-  "Edinburgh_IMP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Edinburgh_IMP"
-  },
   "Emerald": {
     "influenced": [
       "Java",
@@ -1101,50 +1065,11 @@
     ],
     "href": "/wiki/Emerald_(programming_language)"
   },
-  "Elixir": {
-    "influenced": [
-      "Erlang",
-      "Ruby",
-      "Clojure"
-    ],
-    "href": "/wiki/Elixir_(programming_language)"
-  },
-  "Dylan": {
-    "influenced": [
-      "Goo",
-      "Lasso",
-      "Python",
-      "Ruby"
-    ],
-    "href": "/wiki/Dylan_(programming_language)"
-  },
-  "DYNAMO": {
+  "E_Sharp": {
     "influenced": [
 
     ],
-    "href": "/wiki/DYNAMO_(programming_language)"
-  },
-  "Es": {
-    "influenced": [
-      "Es",
-      "Inferno"
-    ],
-    "href": "/wiki/Es_(Unix_shell)"
-  },
-  "Emacs_Lisp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Emacs_Lisp"
-  },
-  "Elm": {
-    "influenced": [
-      "Haskell",
-      "Standard_ML",
-      "OCaml",
-      "F_Sharp"
-    ],
-    "href": "/wiki/Elm_(programming_language)"
+    "href": "/wiki/E_Sharp_(programming_language)"
   },
   "Erlang": {
     "influenced": [
@@ -1158,30 +1083,55 @@
     ],
     "href": "/wiki/Erlang_(programming_language)"
   },
+  "Easytrieve": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Easytrieve"
+  },
+  "Ease": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Ease_(programming_language)"
+  },
   "Epigram": {
     "influenced": [
       "ALF"
     ],
     "href": "/wiki/Epigram_(programming_language)"
   },
-  "ECMAScript": {
+  "ELAN": {
     "influenced": [
-      "Self",
-      "HyperTalk",
-      "AWK",
-      "C",
-      "Perl",
-      "Python",
-      "Java",
-      "Scheme"
+
     ],
-    "href": "/wiki/ECMAScript"
+    "href": "/wiki/ELAN_(programming_language)"
+  },
+  "Elixir": {
+    "influenced": [
+      "Erlang",
+      "Ruby",
+      "Clojure"
+    ],
+    "href": "/wiki/Elixir_(programming_language)"
+  },
+  "Edinburgh_IMP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Edinburgh_IMP"
   },
   "EGL": {
     "influenced": [
 
     ],
     "href": "/wiki/EGL_(programming_language)"
+  },
+  "Emacs_Lisp": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Emacs_Lisp"
   },
   "Eiffel": {
     "influenced": [
@@ -1197,13 +1147,55 @@
     ],
     "href": "/wiki/Eiffel_(programming_language)"
   },
-  "E": {
+  "DYNAMO": {
     "influenced": [
-      "Joule",
-      "index.html",
-      "Java"
+
     ],
-    "href": "/wiki/E_(programming_language)"
+    "href": "/wiki/DYNAMO_(programming_language)"
+  },
+  "Dylan": {
+    "influenced": [
+      "Goo",
+      "Lasso",
+      "Python",
+      "Ruby"
+    ],
+    "href": "/wiki/Dylan_(programming_language)"
+  },
+  "Escapade": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Escapade_(programming_language)"
+  },
+  "Elm": {
+    "influenced": [
+      "Haskell",
+      "Standard_ML",
+      "OCaml",
+      "F_Sharp"
+    ],
+    "href": "/wiki/Elm_(programming_language)"
+  },
+  "Es": {
+    "influenced": [
+      "Es",
+      "Inferno"
+    ],
+    "href": "/wiki/Es_(Unix_shell)"
+  },
+  "ECMAScript": {
+    "influenced": [
+      "Self",
+      "HyperTalk",
+      "AWK",
+      "C",
+      "Perl",
+      "Python",
+      "Java",
+      "Scheme"
+    ],
+    "href": "/wiki/ECMAScript"
   },
   "I": {
     "influenced": [
@@ -1214,11 +1206,13 @@
     ],
     "href": "/wiki/PL/I"
   },
-  "Escher": {
+  "E": {
     "influenced": [
-      "Simple_theory_of_types"
+      "Joule",
+      "index.html",
+      "Java"
     ],
-    "href": "/wiki/Escher_(programming_language)"
+    "href": "/wiki/E_(programming_language)"
   },
   "Euclid": {
     "influenced": [
@@ -1228,12 +1222,11 @@
     ],
     "href": "/wiki/Euclid_(programming_language)"
   },
-  "Etoys": {
+  "Esterel": {
     "influenced": [
-      "Croquet_Project",
-      "Scratch"
+
     ],
-    "href": "/wiki/Etoys_(programming_language)"
+    "href": "/wiki/Esterel"
   },
   "Fancy": {
     "influenced": [
@@ -1250,24 +1243,11 @@
     ],
     "href": "/wiki/Euler_(programming_language)"
   },
-  "Executive_Systems_Problem_Oriented_Language": {
+  "EusLisp_Robot_Programming_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/Executive_Systems_Problem_Oriented_Language"
-  },
-  "Felix": {
-    "influenced": [
-      "ML",
-      "C++"
-    ],
-    "href": "/wiki/Felix_(programming_language)"
-  },
-  "Esterel": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Esterel"
+    "href": "/wiki/EusLisp_Robot_Programming_Language"
   },
   "Ferite": {
     "influenced": [
@@ -1281,35 +1261,11 @@
     ],
     "href": "/wiki/Ferite"
   },
-  "CMS_EXEC": {
+  "Executive_Systems_Problem_Oriented_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/CMS_EXEC"
-  },
-  "F": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/F_(programming_language)"
-  },
-  "EXEC_2": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/EXEC_2"
-  },
-  "EusLisp_Robot_Programming_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/EusLisp_Robot_Programming_Language"
-  },
-  "Executable_UML": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Executable_UML"
+    "href": "/wiki/Executive_Systems_Problem_Oriented_Language"
   },
   "FAUST": {
     "influenced": [
@@ -1317,34 +1273,55 @@
     ],
     "href": "/wiki/FAUST_(programming_language)"
   },
-  "Factor": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Factor_(programming_language)"
-  },
   "Euphoria": {
     "influenced": [
 
     ],
     "href": "/wiki/Euphoria_(programming_language)"
   },
-  "F_Sharp": {
+  "Factor": {
     "influenced": [
-      "F*",
-      "LiveScript"
+
     ],
-    "href": "/wiki/F_Sharp_(programming_language)"
+    "href": "/wiki/Factor_(programming_language)"
   },
-  "Fantom": {
+  "Escher": {
     "influenced": [
-      "C_Sharp",
-      "Java",
-      "Scala",
-      "Ruby",
-      "Erlang"
+      "Simple_theory_of_types"
     ],
-    "href": "/wiki/Fantom_(programming_language)"
+    "href": "/wiki/Escher_(programming_language)"
+  },
+  "EXEC_2": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/EXEC_2"
+  },
+  "Felix": {
+    "influenced": [
+      "ML",
+      "C++"
+    ],
+    "href": "/wiki/Felix_(programming_language)"
+  },
+  "F": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/F_(programming_language)"
+  },
+  "Etoys": {
+    "influenced": [
+      "Croquet_Project",
+      "Scratch"
+    ],
+    "href": "/wiki/Etoys_(programming_language)"
+  },
+  "CMS_EXEC": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/CMS_EXEC"
   },
   "Falcon": {
     "influenced": [
@@ -1359,35 +1336,34 @@
     ],
     "href": "/wiki/Falcon_(programming_language)"
   },
-  "Flex": {
+  "Fantom": {
+    "influenced": [
+      "C_Sharp",
+      "Java",
+      "Scala",
+      "Ruby",
+      "Erlang"
+    ],
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  "Executable_UML": {
     "influenced": [
 
     ],
-    "href": "/wiki/Flex_(programming_language)"
+    "href": "/wiki/Executable_UML"
+  },
+  "F_Sharp": {
+    "influenced": [
+      "F*",
+      "LiveScript"
+    ],
+    "href": "/wiki/F_Sharp_(programming_language)"
   },
   "FL": {
     "influenced": [
       "J"
     ],
     "href": "/wiki/FL_(programming_language)"
-  },
-  "Formula_language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Formula_language"
-  },
-  "Flavors": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Flavors_(programming_language)"
-  },
-  "FOCUS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/FOCUS"
   },
   "FFP": {
     "influenced": [
@@ -1397,6 +1373,48 @@
     ],
     "href": "/wiki/FFP_(programming_language)"
   },
+  "FOIL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/FOIL_(programming_language)"
+  },
+  "Flex": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Flex_(programming_language)"
+  },
+  "FOCAL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/FOCAL_(programming_language)"
+  },
+  "FORMAC": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/FORMAC_(programming_language)"
+  },
+  "FoxPro": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/FoxPro_(disambiguation)"
+  },
+  "FOCUS": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/FOCUS"
+  },
+  "FLOW-MATIC": {
+    "influenced": [
+      "COBOL"
+    ],
+    "href": "/wiki/FLOW-MATIC"
+  },
   "FP": {
     "influenced": [
       "FL",
@@ -1405,23 +1423,50 @@
     ],
     "href": "/wiki/FP_(programming_language)"
   },
+  "Flavors": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Flavors_(programming_language)"
+  },
+  "Fjölnir": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Fj%C3%B6lnir_(programming_language)"
+  },
+  "Franz_Lisp": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Franz_Lisp"
+  },
+  "Formula_language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Formula_language"
+  },
   "FPr": {
     "influenced": [
 
     ],
     "href": "/wiki/FPr_(programming_language)"
   },
-  "FLOW-MATIC": {
+  "F-Script": {
     "influenced": [
-      "COBOL"
+      "Smalltalk",
+      "APL"
     ],
-    "href": "/wiki/FLOW-MATIC"
+    "href": "/wiki/F-Script_(programming_language)"
   },
-  "FoxPro": {
+  "Fortress": {
     "influenced": [
-
+      "Fortran",
+      "Scala",
+      "Haskell"
     ],
-    "href": "/wiki/FoxPro_(disambiguation)"
+    "href": "/wiki/Fortress_(programming_language)"
   },
   "FoxBase": {
     "influenced": [
@@ -1450,51 +1495,6 @@
     ],
     "href": "/wiki/Fortran"
   },
-  "F-Script": {
-    "influenced": [
-      "Smalltalk",
-      "APL"
-    ],
-    "href": "/wiki/F-Script_(programming_language)"
-  },
-  "Fjölnir": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Fj%C3%B6lnir_(programming_language)"
-  },
-  "FOIL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/FOIL_(programming_language)"
-  },
-  "FOCAL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/FOCAL_(programming_language)"
-  },
-  "Franz_Lisp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Franz_Lisp"
-  },
-  "FORMAC": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/FORMAC_(programming_language)"
-  },
-  "Fortress": {
-    "influenced": [
-      "Fortran",
-      "Scala",
-      "Haskell"
-    ],
-    "href": "/wiki/Fortress_(programming_language)"
-  },
   "Gibiane": {
     "influenced": [
 
@@ -1507,23 +1507,17 @@
     ],
     "href": "/wiki/Geometric_Description_Language"
   },
-  "GNU_E": {
-    "influenced": [
-      "C++"
-    ],
-    "href": "/wiki/GNU_E"
-  },
-  "Game_Oriented_Assembly_Lisp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Game_Oriented_Assembly_Lisp"
-  },
   "GAP_computer_algebra_system": {
     "influenced": [
 
     ],
     "href": "/wiki/GAP_computer_algebra_system"
+  },
+  "GNU_E": {
+    "influenced": [
+      "C++"
+    ],
+    "href": "/wiki/GNU_E"
   },
   "GEORGE": {
     "influenced": [
@@ -1531,74 +1525,17 @@
     ],
     "href": "/wiki/GEORGE_(programming_language)"
   },
-  "Godiva": {
+  "Game_Oriented_Assembly_Lisp": {
     "influenced": [
-      "Java"
+
     ],
-    "href": "/wiki/Godiva_(programming_language)"
-  },
-  "Go!": {
-    "influenced": [
-      "Prolog"
-    ],
-    "href": "/wiki/Go!_(programming_language)"
-  },
-  "Genie": {
-    "influenced": [
-      "Python",
-      "Boo",
-      "D",
-      "Object_Pascal"
-    ],
-    "href": "/wiki/Genie_(programming_language)"
+    "href": "/wiki/Game_Oriented_Assembly_Lisp"
   },
   "GameMaker:_Studio": {
     "influenced": [
 
     ],
     "href": "/wiki/GameMaker:_Studio"
-  },
-  "GLSL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/GLSL"
-  },
-  "Golden_master": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Golden_master"
-  },
-  "G-code": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/G-code"
-  },
-  "Go": {
-    "influenced": [
-      "C",
-      "Limbo",
-      "Modula",
-      "Newsqueak",
-      "Oberon",
-      "Pascal",
-      "Python"
-    ],
-    "href": "/wiki/Go_(programming_language)"
-  },
-  "Generic_Java": {
-    "influenced": [
-      "Java"
-    ],
-    "href": "/wiki/Generic_Java"
-  },
-  "GameMonkey_Script": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/GameMonkey_Script"
   },
   "General_Algebraic_Modeling_System": {
     "influenced": [
@@ -1612,11 +1549,146 @@
     ],
     "href": "/wiki/G_(programming_language)"
   },
+  "Go!": {
+    "influenced": [
+      "Prolog"
+    ],
+    "href": "/wiki/Go!_(programming_language)"
+  },
+  "GLSL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/GLSL"
+  },
+  "Genie": {
+    "influenced": [
+      "Python",
+      "Boo",
+      "D",
+      "Object_Pascal"
+    ],
+    "href": "/wiki/Genie_(programming_language)"
+  },
+  "Generic_Java": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/Generic_Java"
+  },
   "Gödel": {
     "influenced": [
 
     ],
     "href": "/wiki/G%C3%B6del_(programming_language)"
+  },
+  "GameMonkey_Script": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/GameMonkey_Script"
+  },
+  "Godiva": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/Godiva_(programming_language)"
+  },
+  "Golden_master": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Golden_master"
+  },
+  "Go": {
+    "influenced": [
+      "C",
+      "Limbo",
+      "Modula",
+      "Newsqueak",
+      "Oberon",
+      "Pascal",
+      "Python"
+    ],
+    "href": "/wiki/Go_(programming_language)"
+  },
+  "G-code": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/G-code"
+  },
+  "S": {
+    "influenced": [
+      "C",
+      "APL",
+      "Fortran"
+    ],
+    "href": "/wiki/S_(programming_language)"
+  },
+  "Hope": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Hope_(programming_language)"
+  },
+  "High_Level_Shader_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/High_Level_Shader_Language"
+  },
+  "Hop": {
+    "influenced": [
+      "Scheme"
+    ],
+    "href": "/wiki/Hop_(software)"
+  },
+  "Hamilton_C_shell": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Hamilton_C_shell"
+  },
+  "Harbour": {
+    "influenced": [
+      "XHarbour"
+    ],
+    "href": "/wiki/Harbour_(software)"
+  },
+  "GRASS": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/GRASS_(programming_language)"
+  },
+  "MAD": {
+    "influenced": [
+      "ALGOL_58",
+      "ALGOL_58"
+    ],
+    "href": "/wiki/MAD_(programming_language)"
+  },
+  "Groovy": {
+    "influenced": [
+      "Kotlin"
+    ],
+    "href": "/wiki/Groovy_(programming_language)"
+  },
+  "Haxe": {
+    "influenced": [
+      "ActionScript",
+      "OCaml",
+      "C_Sharp"
+    ],
+    "href": "/wiki/Haxe"
+  },
+  "Goo": {
+    "influenced": [
+      "Scheme",
+      "Dylan"
+    ],
+    "href": "/wiki/Goo_(programming_language)"
   },
   "Hartmann_pipeline": {
     "influenced": [
@@ -1636,25 +1708,11 @@
     ],
     "href": "/wiki/Gosu_(programming_language)"
   },
-  "S": {
-    "influenced": [
-      "C",
-      "APL",
-      "Fortran"
-    ],
-    "href": "/wiki/S_(programming_language)"
-  },
   "GPSS": {
     "influenced": [
 
     ],
     "href": "/wiki/GPSS"
-  },
-  "Hop": {
-    "influenced": [
-      "Scheme"
-    ],
-    "href": "/wiki/Hop_(software)"
   },
   "Hume": {
     "influenced": [
@@ -1662,17 +1720,11 @@
     ],
     "href": "/wiki/Hume_(language)"
   },
-  "High_Level_Assembly": {
+  "IBM_1620#GOTRAN": {
     "influenced": [
 
     ],
-    "href": "/wiki/High_Level_Assembly"
-  },
-  "GRASS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/GRASS_(programming_language)"
+    "href": "/wiki/IBM_1620#GOTRAN"
   },
   "Computer_Sciences_Corporation": {
     "influenced": [
@@ -1686,45 +1738,11 @@
     ],
     "href": "/wiki/Hugo_(programming_language)"
   },
-  "MAD": {
-    "influenced": [
-      "ALGOL_58",
-      "ALGOL_58"
-    ],
-    "href": "/wiki/MAD_(programming_language)"
-  },
-  "Haxe": {
-    "influenced": [
-      "ActionScript",
-      "OCaml",
-      "C_Sharp"
-    ],
-    "href": "/wiki/Haxe"
-  },
-  "Groovy": {
-    "influenced": [
-      "Kotlin"
-    ],
-    "href": "/wiki/Groovy_(programming_language)"
-  },
-  "Goo": {
-    "influenced": [
-      "Scheme",
-      "Dylan"
-    ],
-    "href": "/wiki/Goo_(programming_language)"
-  },
-  "High_Level_Shader_Language": {
+  "High_Level_Assembly": {
     "influenced": [
 
     ],
-    "href": "/wiki/High_Level_Shader_Language"
-  },
-  "Hope": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Hope_(programming_language)"
+    "href": "/wiki/High_Level_Assembly"
   },
   "Haskell": {
     "influenced": [
@@ -1760,35 +1778,23 @@
     ],
     "href": "/wiki/Haskell_(programming_language)"
   },
-  "IBM_1620#GOTRAN": {
+  "IBM_Informix-4GL": {
     "influenced": [
 
     ],
-    "href": "/wiki/IBM_1620#GOTRAN"
+    "href": "/wiki/IBM_Informix-4GL"
   },
-  "Harbour": {
-    "influenced": [
-      "XHarbour"
-    ],
-    "href": "/wiki/Harbour_(software)"
-  },
-  "Hamilton_C_shell": {
+  "IBM_HAScript": {
     "influenced": [
 
     ],
-    "href": "/wiki/Hamilton_C_shell"
+    "href": "/wiki/IBM_HAScript"
   },
   "ICI": {
     "influenced": [
 
     ],
     "href": "/wiki/ICI_(programming_language)"
-  },
-  "IPTSCRAE": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/IPTSCRAE"
   },
   "Idris": {
     "influenced": [
@@ -1806,17 +1812,44 @@
     ],
     "href": "/wiki/Id_(programming_language)"
   },
-  "IBM_Informix-4GL": {
+  "IBM_Basic_assembly_language": {
     "influenced": [
 
     ],
-    "href": "/wiki/IBM_Informix-4GL"
+    "href": "/wiki/IBM_Basic_assembly_language"
   },
-  "Information_Processing_Language": {
+  "J": {
     "influenced": [
-      "Lisp"
+      "NumPy",
+      "SuperCollider"
     ],
-    "href": "/wiki/Information_Processing_Language"
+    "href": "/wiki/J_(programming_language)"
+  },
+  "Icon": {
+    "influenced": [
+      "Unicon_programming_language",
+      "Python"
+    ],
+    "href": "/wiki/Icon_(programming_language)"
+  },
+  "IDL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/IDL_(programming_language)"
+  },
+  "IMP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/IMP_(programming_language)"
+  },
+  "HyperTalk": {
+    "influenced": [
+      "LiveCode",
+      "ECMAScript"
+    ],
+    "href": "/wiki/HyperTalk"
   },
   "Ioke": {
     "influenced": [
@@ -1833,68 +1866,23 @@
     ],
     "href": "/wiki/ISLISP"
   },
-  "Io": {
-    "influenced": [
-      "Ioke",
-      "Fancy"
-    ],
-    "href": "/wiki/Io_(programming_language)"
-  },
   "ISPF": {
     "influenced": [
 
     ],
     "href": "/wiki/ISPF"
   },
-  "Icon": {
+  "Information_Processing_Language": {
     "influenced": [
-      "Unicon_programming_language",
-      "Python"
+      "Lisp"
     ],
-    "href": "/wiki/Icon_(programming_language)"
+    "href": "/wiki/Information_Processing_Language"
   },
-  "J": {
-    "influenced": [
-      "NumPy",
-      "SuperCollider"
-    ],
-    "href": "/wiki/J_(programming_language)"
-  },
-  "IDL": {
+  "IPTSCRAE": {
     "influenced": [
 
     ],
-    "href": "/wiki/IDL_(programming_language)"
-  },
-  "IBM_RPG": {
-    "influenced": [
-      "IBM_RPG_II"
-    ],
-    "href": "/wiki/IBM_RPG"
-  },
-  "IBM_Basic_assembly_language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/IBM_Basic_assembly_language"
-  },
-  "Inform": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Inform"
-  },
-  "IBM_HAScript": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/IBM_HAScript"
-  },
-  "IMP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/IMP_(programming_language)"
+    "href": "/wiki/IPTSCRAE"
   },
   "ISWIM": {
     "influenced": [
@@ -1907,34 +1895,24 @@
     ],
     "href": "/wiki/ISWIM"
   },
-  "HyperTalk": {
-    "influenced": [
-      "LiveCode",
-      "ECMAScript"
-    ],
-    "href": "/wiki/HyperTalk"
-  },
-  "Janus": {
+  "Inform": {
     "influenced": [
 
     ],
-    "href": "/wiki/Janus_(programming_language)"
+    "href": "/wiki/Inform"
   },
-  "JEAN": {
+  "Io": {
     "influenced": [
-
+      "Ioke",
+      "Fancy"
     ],
-    "href": "/wiki/JEAN"
+    "href": "/wiki/Io_(programming_language)"
   },
-  "JOSS": {
+  "IBM_RPG": {
     "influenced": [
-      "BASIC",
-      "TELCOMP",
-      "CAL",
-      "FOCAL",
-      "MUMPS"
+      "IBM_RPG_II"
     ],
-    "href": "/wiki/JOSS"
+    "href": "/wiki/IBM_RPG"
   },
   "JAL": {
     "influenced": [
@@ -1942,30 +1920,11 @@
     ],
     "href": "/wiki/JAL_(compiler)"
   },
-  "Jako": {
+  "JEAN": {
     "influenced": [
 
     ],
-    "href": "/wiki/Jako_(programming_language)"
-  },
-  "JOVIAL": {
-    "influenced": [
-      "Coral_66",
-      "SYMPL"
-    ],
-    "href": "/wiki/JOVIAL"
-  },
-  "JADE": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/JADE_(programming_language)"
-  },
-  "Joy": {
-    "influenced": [
-      "Factor"
-    ],
-    "href": "/wiki/Joy_(programming_language)"
+    "href": "/wiki/JEAN"
   },
   "J_Sharp": {
     "influenced": [
@@ -1974,67 +1933,17 @@
     ],
     "href": "/wiki/J_Sharp"
   },
-  "Job_Control_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Job_Control_Language"
-  },
-  "JScript_.NET": {
-    "influenced": [
-      "JScript",
-      "ECMAScript"
-    ],
-    "href": "/wiki/JScript_.NET"
-  },
-  "Julia": {
-    "influenced": [
-      "MATLAB",
-      "Scheme",
-      "Common_Lisp",
-      "Lisp",
-      "C",
-      "Python",
-      "Perl",
-      "Ruby"
-    ],
-    "href": "/wiki/Julia_(programming_language)"
-  },
   "JASS": {
     "influenced": [
 
     ],
     "href": "/wiki/JASS"
   },
-  "Joule": {
-    "influenced": [
-      "index.html"
-    ],
-    "href": "/wiki/Joule_(programming_language)"
-  },
-  "JScript": {
+  "Janus": {
     "influenced": [
 
     ],
-    "href": "/wiki/JScript"
-  },
-  "Join_Java": {
-    "influenced": [
-      "Java"
-    ],
-    "href": "/wiki/Join_Java"
-  },
-  "Visual_J++": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Visual_J%2B%2B"
-  },
-  "JavaFX_Script": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/JavaFX_Script"
+    "href": "/wiki/Janus_(programming_language)"
   },
   "Java": {
     "influenced": [
@@ -2056,6 +1965,18 @@
     ],
     "href": "/wiki/Java_(programming_language)"
   },
+  "JScript": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/JScript"
+  },
+  "JADE": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/JADE_(programming_language)"
+  },
   "JavaScript": {
     "influenced": [
       "ActionScript",
@@ -2070,12 +1991,96 @@
     ],
     "href": "/wiki/JavaScript"
   },
-  "Kojo": {
+  "Visual_J++": {
     "influenced": [
-      "Logo",
-      "Processing"
+
     ],
-    "href": "/wiki/Kojo_(programming_language)"
+    "href": "/wiki/Visual_J%2B%2B"
+  },
+  "Joule": {
+    "influenced": [
+      "index.html"
+    ],
+    "href": "/wiki/Joule_(programming_language)"
+  },
+  "JOVIAL": {
+    "influenced": [
+      "Coral_66",
+      "SYMPL"
+    ],
+    "href": "/wiki/JOVIAL"
+  },
+  "Join_Java": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/Join_Java"
+  },
+  "JOSS": {
+    "influenced": [
+      "BASIC",
+      "TELCOMP",
+      "CAL",
+      "FOCAL",
+      "MUMPS"
+    ],
+    "href": "/wiki/JOSS"
+  },
+  "Jako": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Jako_(programming_language)"
+  },
+  "JScript_.NET": {
+    "influenced": [
+      "JScript",
+      "ECMAScript"
+    ],
+    "href": "/wiki/JScript_.NET"
+  },
+  "JavaFX_Script": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/JavaFX_Script"
+  },
+  "Job_Control_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Job_Control_Language"
+  },
+  "Joy": {
+    "influenced": [
+      "Factor"
+    ],
+    "href": "/wiki/Joy_(programming_language)"
+  },
+  "Julia": {
+    "influenced": [
+      "MATLAB",
+      "Scheme",
+      "Common_Lisp",
+      "Lisp",
+      "C",
+      "Python",
+      "Perl",
+      "Ruby"
+    ],
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  "Kaleidoscope": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Kaleidoscope_(programming_language)"
+  },
+  "IntelliCorp": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/IntelliCorp_(Software)"
   },
   "Karel": {
     "influenced": [
@@ -2085,11 +2090,18 @@
     ],
     "href": "/wiki/Karel_(programming_language)"
   },
-  "Knowledge_Interchange_Format": {
+  "Kojo": {
+    "influenced": [
+      "Logo",
+      "Processing"
+    ],
+    "href": "/wiki/Kojo_(programming_language)"
+  },
+  "L": {
     "influenced": [
 
     ],
-    "href": "/wiki/Knowledge_Interchange_Format"
+    "href": "/wiki/L_(programming_language)"
   },
   "L_Sharp": {
     "influenced": [
@@ -2097,65 +2109,11 @@
     ],
     "href": "/wiki/L_Sharp"
   },
-  "Kent_Recursive_Calculator": {
-    "influenced": [
-      "Miranda_programming_language"
-    ],
-    "href": "/wiki/Kent_Recursive_Calculator"
-  },
-  "KRYPTON": {
+  "Knowledge_Interchange_Format": {
     "influenced": [
 
     ],
-    "href": "/wiki/KRYPTON"
-  },
-  "Lagoona": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Lagoona_(programming_language)"
-  },
-  "KRL": {
-    "influenced": [
-      "KM_programming_language"
-    ],
-    "href": "/wiki/KRL_(programming_language)"
-  },
-  "LANSA": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/LANSA_(development_environment)"
-  },
-  "Kotlin": {
-    "influenced": [
-      "Java",
-      "Scala",
-      "Groovy",
-      "C_Sharp",
-      "Gosu"
-    ],
-    "href": "/wiki/Kotlin_(programming_language)"
-  },
-  "Kaleidoscope": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Kaleidoscope_(programming_language)"
-  },
-  "K": {
-    "influenced": [
-      "A+",
-      "APL_programming_language",
-      "Scheme"
-    ],
-    "href": "/wiki/K_(programming_language)"
-  },
-  "KUKA": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/KUKA"
+    "href": "/wiki/Knowledge_Interchange_Format"
   },
   "Ladder_logic": {
     "influenced": [
@@ -2169,6 +2127,66 @@
     ],
     "href": "/wiki/LabVIEW"
   },
+  "Karel++": {
+    "influenced": [
+      "Karel"
+    ],
+    "href": "/wiki/Karel%2B%2B"
+  },
+  "K": {
+    "influenced": [
+      "A+",
+      "APL_programming_language",
+      "Scheme"
+    ],
+    "href": "/wiki/K_(programming_language)"
+  },
+  "Lagoona": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Lagoona_(programming_language)"
+  },
+  "LANSA": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/LANSA_(development_environment)"
+  },
+  "KRL": {
+    "influenced": [
+      "KM_programming_language"
+    ],
+    "href": "/wiki/KRL_(programming_language)"
+  },
+  "Kent_Recursive_Calculator": {
+    "influenced": [
+      "Miranda_programming_language"
+    ],
+    "href": "/wiki/Kent_Recursive_Calculator"
+  },
+  "KRYPTON": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/KRYPTON"
+  },
+  "Kotlin": {
+    "influenced": [
+      "Java",
+      "Scala",
+      "Groovy",
+      "C_Sharp",
+      "Gosu"
+    ],
+    "href": "/wiki/Kotlin_(programming_language)"
+  },
+  "KUKA": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/KUKA"
+  },
   "Lasso": {
     "influenced": [
       "Dylan",
@@ -2177,41 +2195,11 @@
     ],
     "href": "/wiki/Lasso_(programming_language)"
   },
-  "IntelliCorp": {
+  "Lava": {
     "influenced": [
 
     ],
-    "href": "/wiki/IntelliCorp_(Software)"
-  },
-  "Karel++": {
-    "influenced": [
-      "Karel"
-    ],
-    "href": "/wiki/Karel%2B%2B"
-  },
-  "L": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/L_(programming_language)"
-  },
-  "Limnor": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Limnor"
-  },
-  "LIS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/LIS_(programming_language)"
-  },
-  "Little_Implementation_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Little_Implementation_Language"
+    "href": "/wiki/Lava_(programming_language)"
   },
   "Leda": {
     "influenced": [
@@ -2219,31 +2207,17 @@
     ],
     "href": "/wiki/Leda_(programming_language)"
   },
+  "Lithe": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Lithe_(programming_language)"
+  },
   "Language_for_Instruction_Set_Architecture": {
     "influenced": [
 
     ],
     "href": "/wiki/Language_for_Instruction_Set_Architecture"
-  },
-  "LC-3": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/LC-3"
-  },
-  "Limbo": {
-    "influenced": [
-      "Stackless_Python",
-      "Go",
-      "Rust"
-    ],
-    "href": "/wiki/Limbo_(programming_language)"
-  },
-  "Lingo": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Lingo_(programming_language)"
   },
   "Little_b": {
     "influenced": [
@@ -2251,17 +2225,41 @@
     ],
     "href": "/wiki/Little_b_(programming_language)"
   },
+  "LilyPond": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/LilyPond"
+  },
+  "LaTeX": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/LaTeX"
+  },
   "Leadwerks_Engine": {
     "influenced": [
 
     ],
     "href": "/wiki/Leadwerks_Engine"
   },
-  "Lava": {
+  "Lego_Mindstorms": {
     "influenced": [
 
     ],
-    "href": "/wiki/Lava_(programming_language)"
+    "href": "/wiki/Lego_Mindstorms"
+  },
+  "LIS": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/LIS_(programming_language)"
+  },
+  "Lingo": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Lingo_(programming_language)"
   },
   "Lisaac": {
     "influenced": [
@@ -2271,23 +2269,17 @@
     ],
     "href": "/wiki/Lisaac"
   },
-  "Lithe": {
+  "Lite-C": {
     "influenced": [
 
     ],
-    "href": "/wiki/Lithe_(programming_language)"
+    "href": "/wiki/Lite-C"
   },
-  "Linoleum": {
+  "Limnor": {
     "influenced": [
 
     ],
-    "href": "/wiki/Linoleum_(programming_language)"
-  },
-  "LaTeX": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/LaTeX"
+    "href": "/wiki/Limnor"
   },
   "LINC": {
     "influenced": [
@@ -2295,23 +2287,19 @@
     ],
     "href": "/wiki/LINC"
   },
-  "LilyPond": {
+  "Linoleum": {
     "influenced": [
 
     ],
-    "href": "/wiki/LilyPond"
+    "href": "/wiki/Linoleum_(programming_language)"
   },
-  "Lego_Mindstorms": {
+  "Limbo": {
     "influenced": [
-
+      "Stackless_Python",
+      "Go",
+      "Rust"
     ],
-    "href": "/wiki/Lego_Mindstorms"
-  },
-  "Lite-C": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Lite-C"
+    "href": "/wiki/Limbo_(programming_language)"
   },
   "Lisp": {
     "influenced": [
@@ -2348,40 +2336,23 @@
     ],
     "href": "/wiki/Lisp_(programming_language)"
   },
-  "LSE": {
+  "Little_Implementation_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/LSE_(programming_language)"
+    "href": "/wiki/Little_Implementation_Language"
   },
-  "Lustre": {
+  "LC-3": {
     "influenced": [
 
     ],
-    "href": "/wiki/Lustre_(programming_language)"
+    "href": "/wiki/LC-3"
   },
-  "Lucid": {
-    "influenced": [
-      "SISAL",
-      "PureData",
-      "Lustre"
-    ],
-    "href": "/wiki/Lucid_(programming_language)"
-  },
-  "LiveScript": {
-    "influenced": [
-      "JavaScript",
-      "Haskell",
-      "CoffeeScript",
-      "F_Sharp"
-    ],
-    "href": "/wiki/LiveScript"
-  },
-  "M2001": {
+  "LYaPAS": {
     "influenced": [
 
     ],
-    "href": "/wiki/M2001"
+    "href": "/wiki/LYaPAS"
   },
   "Logtalk": {
     "influenced": [
@@ -2394,11 +2365,17 @@
     ],
     "href": "/wiki/Logtalk"
   },
-  "Magma_computer_algebra_system": {
+  "Lustre": {
     "influenced": [
 
     ],
-    "href": "/wiki/Magma_computer_algebra_system"
+    "href": "/wiki/Lustre_(programming_language)"
+  },
+  "M2001": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/M2001"
   },
   "Logo": {
     "influenced": [
@@ -2411,17 +2388,52 @@
     ],
     "href": "/wiki/Logo_(programming_language)"
   },
-  "Linden_Scripting_Language": {
-    "influenced": [
-      "C"
-    ],
-    "href": "/wiki/Linden_Scripting_Language"
-  },
   "LiveCode": {
     "influenced": [
       "HyperTalk"
     ],
     "href": "/wiki/LiveCode"
+  },
+  "LPC": {
+    "influenced": [
+      "Pike"
+    ],
+    "href": "/wiki/LPC_(programming_language)"
+  },
+  "LSE": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/LSE_(programming_language)"
+  },
+  "LiveScript": {
+    "influenced": [
+      "JavaScript",
+      "Haskell",
+      "CoffeeScript",
+      "F_Sharp"
+    ],
+    "href": "/wiki/LiveScript"
+  },
+  "Magma_computer_algebra_system": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Magma_computer_algebra_system"
+  },
+  "Lynx": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Lynx_(programming_language)"
+  },
+  "Lucid": {
+    "influenced": [
+      "SISAL",
+      "PureData",
+      "Lustre"
+    ],
+    "href": "/wiki/Lucid_(programming_language)"
   },
   "M4": {
     "influenced": [
@@ -2443,17 +2455,17 @@
     ],
     "href": "/wiki/PL/M"
   },
-  "LPC": {
-    "influenced": [
-      "Pike"
-    ],
-    "href": "/wiki/LPC_(programming_language)"
-  },
   "Machine_code": {
     "influenced": [
 
     ],
     "href": "/wiki/Machine_code"
+  },
+  "Linden_Scripting_Language": {
+    "influenced": [
+      "C"
+    ],
+    "href": "/wiki/Linden_Scripting_Language"
   },
   "Lua": {
     "influenced": [
@@ -2465,23 +2477,11 @@
     ],
     "href": "/wiki/Lua_(programming_language)"
   },
-  "Lynx": {
+  "Mary": {
     "influenced": [
-
+      "ALGOL_68"
     ],
-    "href": "/wiki/Lynx_(programming_language)"
-  },
-  "LYaPAS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/LYaPAS"
-  },
-  "Sterling_Software": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Sterling_Software"
+    "href": "/wiki/Mary_(programming_language)"
   },
   "Microsoft_Macro_Assembler": {
     "influenced": [
@@ -2489,17 +2489,11 @@
     ],
     "href": "/wiki/Microsoft_Macro_Assembler"
   },
-  "MAPPER": {
+  "MARK_IV": {
     "influenced": [
 
     ],
-    "href": "/wiki/MAPPER"
-  },
-  "Make": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Make_(software)"
+    "href": "/wiki/MARK_IV_(software)"
   },
   "Maya_Embedded_Language": {
     "influenced": [
@@ -2507,23 +2501,23 @@
     ],
     "href": "/wiki/Maya_Embedded_Language"
   },
-  "Mary": {
-    "influenced": [
-      "ALGOL_68"
-    ],
-    "href": "/wiki/Mary_(programming_language)"
-  },
-  "MDL": {
+  "Maple": {
     "influenced": [
 
     ],
-    "href": "/wiki/MDL_(programming_language)"
+    "href": "/wiki/Maple_(software)"
   },
-  "Max": {
+  "Make": {
     "influenced": [
 
     ],
-    "href": "/wiki/Max_(software)"
+    "href": "/wiki/Make_(software)"
+  },
+  "Mathematica": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Mathematica"
   },
   "Mercury": {
     "influenced": [
@@ -2539,11 +2533,17 @@
     ],
     "href": "/wiki/Macsyma"
   },
-  "Maple": {
+  "Unisys": {
     "influenced": [
 
     ],
-    "href": "/wiki/Maple_(software)"
+    "href": "/wiki/Unisys"
+  },
+  "MATLAB": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/MATLAB"
   },
   "Autodesk_3ds_Max": {
     "influenced": [
@@ -2557,24 +2557,11 @@
     ],
     "href": "/wiki/Metacard"
   },
-  "Mesa": {
-    "influenced": [
-      "Java",
-      "Modula-2"
-    ],
-    "href": "/wiki/Mesa_(programming_language)"
-  },
-  "Unisys": {
+  "MDL": {
     "influenced": [
 
     ],
-    "href": "/wiki/Unisys"
-  },
-  "Maxima": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Maxima_(software)"
+    "href": "/wiki/MDL_(programming_language)"
   },
   "Metafont": {
     "influenced": [
@@ -2582,44 +2569,42 @@
     ],
     "href": "/wiki/Metafont"
   },
-  "MATLAB": {
+  "Mesa": {
     "influenced": [
-
-    ],
-    "href": "/wiki/MATLAB"
-  },
-  "MARK_IV": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/MARK_IV_(software)"
-  },
-  "Mathematica": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Mathematica"
-  },
-  "Mirah": {
-    "influenced": [
-      "Ruby",
       "Java",
-      "Boo"
+      "Modula-2"
     ],
-    "href": "/wiki/Mirah_(programming_language)"
+    "href": "/wiki/Mesa_(programming_language)"
   },
-  "Miranda": {
+  "Maxima": {
     "influenced": [
-      "Clean",
-      "Haskell"
+
     ],
-    "href": "/wiki/Miranda_(programming_language)"
+    "href": "/wiki/Maxima_(software)"
   },
-  "Modula": {
+  "MAPPER": {
     "influenced": [
-      "Pascal"
+
     ],
-    "href": "/wiki/Modula"
+    "href": "/wiki/MAPPER"
+  },
+  "Max": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Max_(software)"
+  },
+  "Sterling_Software": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Sterling_Software"
+  },
+  "Microassembler": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Microassembler"
   },
   "MIIS": {
     "influenced": [
@@ -2633,17 +2618,13 @@
     ],
     "href": "/wiki/Moby_(programming_language)"
   },
-  "Mortran": {
+  "Mirah": {
     "influenced": [
-
+      "Ruby",
+      "Java",
+      "Boo"
     ],
-    "href": "/wiki/Mortran"
-  },
-  "Model_204": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Model_204"
+    "href": "/wiki/Mirah_(programming_language)"
   },
   "MIMIC": {
     "influenced": [
@@ -2651,11 +2632,14 @@
     ],
     "href": "/wiki/MIMIC"
   },
-  "Microassembler": {
+  "MIVA_Script": {
     "influenced": [
-
+      "C",
+      "Perl",
+      "Java",
+      "C++"
     ],
-    "href": "/wiki/Microassembler"
+    "href": "/wiki/MIVA_Script"
   },
   "ML": {
     "influenced": [
@@ -2672,11 +2656,64 @@
     ],
     "href": "/wiki/ML_(programming_language)"
   },
+  "MillScript": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/MillScript"
+  },
+  "Mortran": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Mortran"
+  },
+  "Mouse": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Mouse_(programming_language)"
+  },
+  "Miranda": {
+    "influenced": [
+      "Clean",
+      "Haskell"
+    ],
+    "href": "/wiki/Miranda_(programming_language)"
+  },
   "MicroScript": {
     "influenced": [
 
     ],
     "href": "/wiki/MicroScript_(programming_language)"
+  },
+  "MOO": {
+    "influenced": [
+      "CoolMUD",
+      "ColdC"
+    ],
+    "href": "/wiki/MOO_(programming_language)"
+  },
+  "Modula-3": {
+    "influenced": [
+      "Java",
+      "Python",
+      "Caml",
+      "C_Sharp"
+    ],
+    "href": "/wiki/Modula-3"
+  },
+  "Modula": {
+    "influenced": [
+      "Pascal"
+    ],
+    "href": "/wiki/Modula"
+  },
+  "Mohol_programming_languages": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Mohol_programming_languages"
   },
   "Modelica": {
     "influenced": [
@@ -2690,54 +2727,24 @@
     ],
     "href": "/wiki/ORCA/Modula-2"
   },
-  "Modula-3": {
-    "influenced": [
-      "Java",
-      "Python",
-      "Caml",
-      "C_Sharp"
-    ],
-    "href": "/wiki/Modula-3"
-  },
   "MetaL": {
     "influenced": [
       "XML"
     ],
     "href": "/wiki/MetaL_(programming_language)"
   },
-  "MillScript": {
+  "Model_204": {
     "influenced": [
 
     ],
-    "href": "/wiki/MillScript"
+    "href": "/wiki/Model_204"
   },
-  "MIVA_Script": {
+  "Nial": {
     "influenced": [
-      "C",
-      "Perl",
-      "Java",
-      "C++"
+      "APL_programming_language",
+      "Lisp_programming_language"
     ],
-    "href": "/wiki/MIVA_Script"
-  },
-  "MOO": {
-    "influenced": [
-      "CoolMUD",
-      "ColdC"
-    ],
-    "href": "/wiki/MOO_(programming_language)"
-  },
-  "Mouse": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Mouse_(programming_language)"
-  },
-  "Mohol_programming_languages": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Mohol_programming_languages"
+    "href": "/wiki/Nial"
   },
   "MPD": {
     "influenced": [
@@ -2745,41 +2752,11 @@
     ],
     "href": "/wiki/MPD_(programming_language)"
   },
-  "Net.Data": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Net.Data"
-  },
-  "NGL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/NGL_(programming_language)"
-  },
   "NATURAL": {
     "influenced": [
 
     ],
     "href": "/wiki/NATURAL"
-  },
-  "NEWP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/NEWP"
-  },
-  "Napier88": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Napier88"
-  },
-  "Neko": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Neko_(programming_language)"
   },
   "Newspeak": {
     "influenced": [
@@ -2789,33 +2766,11 @@
     ],
     "href": "/wiki/Newspeak_(programming_language)"
   },
-  "NesC": {
+  "Neko": {
     "influenced": [
 
     ],
-    "href": "/wiki/NesC"
-  },
-  "NetRexx": {
-    "influenced": [
-      "I",
-      "REXX",
-      "Object_REXX",
-      "Java"
-    ],
-    "href": "/wiki/NetRexx"
-  },
-  "NetLogo": {
-    "influenced": [
-      "StarLogo",
-      "Logo"
-    ],
-    "href": "/wiki/NetLogo"
-  },
-  "NewLISP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/NewLISP"
+    "href": "/wiki/Neko_(programming_language)"
   },
   "Netwide_Assembler": {
     "influenced": [
@@ -2844,11 +2799,17 @@
     ],
     "href": "/wiki/MUMPS"
   },
-  "NESL": {
+  "NGL": {
     "influenced": [
 
     ],
-    "href": "/wiki/NESL"
+    "href": "/wiki/NGL_(programming_language)"
+  },
+  "Napier88": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Napier88"
   },
   "NewtonScript": {
     "influenced": [
@@ -2856,12 +2817,57 @@
     ],
     "href": "/wiki/NewtonScript"
   },
-  "Nial": {
+  "NetRexx": {
     "influenced": [
-      "APL_programming_language",
-      "Lisp_programming_language"
+      "I",
+      "REXX",
+      "Object_REXX",
+      "Java"
     ],
-    "href": "/wiki/Nial"
+    "href": "/wiki/NetRexx"
+  },
+  "NESL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/NESL"
+  },
+  "NesC": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/NesC"
+  },
+  "NetLogo": {
+    "influenced": [
+      "StarLogo",
+      "Logo"
+    ],
+    "href": "/wiki/NetLogo"
+  },
+  "NewLISP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/NewLISP"
+  },
+  "Net.Data": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Net.Data"
+  },
+  "NEWP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/NEWP"
+  },
+  "NORD_Programming_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/NORD_Programming_Language"
   },
   "Nice": {
     "influenced": [
@@ -2875,23 +2881,11 @@
     ],
     "href": "/wiki/Not_eXactly_C"
   },
-  "NORD_Programming_Language": {
+  "Not_Quite_C": {
     "influenced": [
 
     ],
-    "href": "/wiki/NORD_Programming_Language"
-  },
-  "O:XML": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/O:XML"
-  },
-  "Object_Lisp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Object_Lisp"
+    "href": "/wiki/Not_Quite_C"
   },
   "Nu": {
     "influenced": [
@@ -2901,32 +2895,17 @@
     ],
     "href": "/wiki/Nu_(programming_language)"
   },
-  "OBJ2": {
+  "O:XML": {
     "influenced": [
 
     ],
-    "href": "/wiki/OBJ2"
+    "href": "/wiki/O:XML"
   },
-  "Obliq": {
-    "influenced": [
-      "Modula-3",
-      "Self",
-      "Oberon"
-    ],
-    "href": "/wiki/Obliq"
-  },
-  "Obix_programming_language": {
+  "Nullsoft_Scriptable_Install_System": {
     "influenced": [
 
     ],
-    "href": "/wiki/Obix_programming_language"
-  },
-  "Objective-J": {
-    "influenced": [
-      "Objective-C",
-      "JavaScript"
-    ],
-    "href": "/wiki/Objective-J"
+    "href": "/wiki/Nullsoft_Scriptable_Install_System"
   },
   "NWScript": {
     "influenced": [
@@ -2935,12 +2914,6 @@
     ],
     "href": "/wiki/NWScript"
   },
-  "Nullsoft_Scriptable_Install_System": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Nullsoft_Scriptable_Install_System"
-  },
   "Object_Pascal": {
     "influenced": [
       "C_Sharp",
@@ -2948,17 +2921,64 @@
     ],
     "href": "/wiki/Object_Pascal"
   },
-  "Not_Quite_C": {
+  "Objective-J": {
+    "influenced": [
+      "Objective-C",
+      "JavaScript"
+    ],
+    "href": "/wiki/Objective-J"
+  },
+  "OBJ2": {
     "influenced": [
 
     ],
-    "href": "/wiki/Not_Quite_C"
+    "href": "/wiki/OBJ2"
+  },
+  "Oak": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Oak_(programming_language)"
   },
   "ObjectLOGO": {
     "influenced": [
 
     ],
     "href": "/wiki/ObjectLOGO"
+  },
+  "Obix_programming_language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Obix_programming_language"
+  },
+  "Object_Lisp": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Object_Lisp"
+  },
+  "Object_REXX": {
+    "influenced": [
+      "NetRexx"
+    ],
+    "href": "/wiki/Object_REXX"
+  },
+  "Oberon": {
+    "influenced": [
+      "Oberon-2",
+      "Zonnon",
+      "Go"
+    ],
+    "href": "/wiki/Oberon_(programming_language)"
+  },
+  "Obliq": {
+    "influenced": [
+      "Modula-3",
+      "Self",
+      "Oberon"
+    ],
+    "href": "/wiki/Obliq"
   },
   "Objective-C": {
     "influenced": [
@@ -2979,31 +2999,11 @@
     ],
     "href": "/wiki/Nickle_(programming_language)"
   },
-  "Object_REXX": {
-    "influenced": [
-      "NetRexx"
-    ],
-    "href": "/wiki/Object_REXX"
-  },
-  "Oak": {
+  "P_Sharp": {
     "influenced": [
 
     ],
-    "href": "/wiki/Oak_(programming_language)"
-  },
-  "Oberon": {
-    "influenced": [
-      "Oberon-2",
-      "Zonnon",
-      "Go"
-    ],
-    "href": "/wiki/Oberon_(programming_language)"
-  },
-  "Opal": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Opal_(programming_language)"
+    "href": "/wiki/P_Sharp"
   },
   "Onyx": {
     "influenced": [
@@ -3011,14 +3011,11 @@
     ],
     "href": "/wiki/Onyx_(programming_language)"
   },
-  "Orc": {
+  "OmniMark": {
     "influenced": [
-      "Haskell",
-      "ML",
-      "Oz",
-      "Smalltalk"
+
     ],
-    "href": "/wiki/Orc_(programming_language)"
+    "href": "/wiki/OmniMark"
   },
   "OPS5": {
     "influenced": [
@@ -3026,43 +3023,29 @@
     ],
     "href": "/wiki/OPS5"
   },
+  "Opal": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Opal_(programming_language)"
+  },
   "Obol": {
     "influenced": [
 
     ],
     "href": "/wiki/Obol_(programming_language)"
   },
-  "Oriel": {
+  "GNU_Octave": {
     "influenced": [
 
     ],
-    "href": "/wiki/Oriel_(scripting_language)"
+    "href": "/wiki/GNU_Octave"
   },
-  "OpenEdge_Advanced_Business_Language": {
+  "Occam": {
     "influenced": [
-
+      "Ease"
     ],
-    "href": "/wiki/OpenEdge_Advanced_Business_Language"
-  },
-  "Open_Programming_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Open_Programming_Language"
-  },
-  "P_Sharp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/P_Sharp"
-  },
-  "Opa": {
-    "influenced": [
-      "OCaml",
-      "Erlang",
-      "JavaScript"
-    ],
-    "href": "/wiki/Opa_(programming_language)"
+    "href": "/wiki/Occam_(programming_language)"
   },
   "OCaml": {
     "influenced": [
@@ -3074,12 +3057,59 @@
     ],
     "href": "/wiki/OCaml"
   },
+  "Opa": {
+    "influenced": [
+      "OCaml",
+      "Erlang",
+      "JavaScript"
+    ],
+    "href": "/wiki/Opa_(programming_language)"
+  },
   "Oz": {
     "influenced": [
       "Alice",
       "Scala"
     ],
     "href": "/wiki/Oz_(programming_language)"
+  },
+  "Occam-π": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Occam-%CF%80"
+  },
+  "OpenEdge_Advanced_Business_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/OpenEdge_Advanced_Business_Language"
+  },
+  "Oriel": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Oriel_(scripting_language)"
+  },
+  "Orwell": {
+    "influenced": [
+      "Haskell"
+    ],
+    "href": "/wiki/Orwell_(programming_language)"
+  },
+  "Orc": {
+    "influenced": [
+      "Haskell",
+      "ML",
+      "Oz",
+      "Smalltalk"
+    ],
+    "href": "/wiki/Orc_(programming_language)"
+  },
+  "OptimJ": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/OptimJ"
   },
   "Oxygene": {
     "influenced": [
@@ -3088,41 +3118,23 @@
     ],
     "href": "/wiki/Oxygene_(programming_language)"
   },
-  "GNU_Octave": {
+  "Open_Programming_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/GNU_Octave"
+    "href": "/wiki/Open_Programming_Language"
   },
-  "Occam-π": {
+  "PeopleCode": {
     "influenced": [
 
     ],
-    "href": "/wiki/Occam-%CF%80"
+    "href": "/wiki/PeopleCode"
   },
-  "Orwell": {
-    "influenced": [
-      "Haskell"
-    ],
-    "href": "/wiki/Orwell_(programming_language)"
-  },
-  "OmniMark": {
+  "GP": {
     "influenced": [
 
     ],
-    "href": "/wiki/OmniMark"
-  },
-  "OptimJ": {
-    "influenced": [
-      "Java"
-    ],
-    "href": "/wiki/OptimJ"
-  },
-  "Occam": {
-    "influenced": [
-      "Ease"
-    ],
-    "href": "/wiki/Occam_(programming_language)"
+    "href": "/wiki/PARI/GP"
   },
   "Perl_Data_Language": {
     "influenced": [
@@ -3132,30 +3144,11 @@
     ],
     "href": "/wiki/Perl_Data_Language"
   },
-  "Pico": {
+  "Pawn": {
     "influenced": [
-      "Scheme"
+      "Small-C"
     ],
-    "href": "/wiki/Pico_(programming_language)"
-  },
-  "PL-11": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PL-11"
-  },
-  "PIKT": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PIKT"
-  },
-  "Pizza": {
-    "influenced": [
-      "Generic_Java",
-      "Scala_programming_language"
-    ],
-    "href": "/wiki/Pizza_(programming_language)"
+    "href": "/wiki/Pawn_(programming_language)"
   },
   "Pict": {
     "influenced": [
@@ -3163,38 +3156,12 @@
     ],
     "href": "/wiki/Pict_(programming_language)"
   },
-  "Phrogram": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Phrogram"
-  },
-  "Pike": {
-    "influenced": [
-      "LPC",
-      "C",
-      "C++"
-    ],
-    "href": "/wiki/Pike_(programming_language)"
-  },
-  "PILOT": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PILOT"
-  },
   "PCASTL": {
     "influenced": [
       "C",
       "R"
     ],
     "href": "/wiki/PCASTL"
-  },
-  "GP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PARI/GP"
   },
   "Pascal": {
     "influenced": [
@@ -3212,35 +3179,13 @@
     ],
     "href": "/wiki/Pascal_(programming_language)"
   },
-  "PEARL": {
+  "Pike": {
     "influenced": [
-
+      "LPC",
+      "C",
+      "C++"
     ],
-    "href": "/wiki/PEARL_(programming_language)"
-  },
-  "0": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PL/0"
-  },
-  "Pawn": {
-    "influenced": [
-      "Small-C"
-    ],
-    "href": "/wiki/Pawn_(programming_language)"
-  },
-  "Programming_language_for_Computable_Functions": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Programming_language_for_Computable_Functions"
-  },
-  "PeopleCode": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PeopleCode"
+    "href": "/wiki/Pike_(programming_language)"
   },
   "Perl": {
     "influenced": [
@@ -3266,23 +3211,60 @@
     ],
     "href": "/wiki/PHP"
   },
-  "PL360": {
+  "Pico": {
     "influenced": [
-
+      "Scheme"
     ],
-    "href": "/wiki/PL360"
+    "href": "/wiki/Pico_(programming_language)"
   },
-  "Plus": {
+  "Programming_language_for_Computable_Functions": {
     "influenced": [
 
     ],
-    "href": "/wiki/Plus_(programming_language)"
+    "href": "/wiki/Programming_language_for_Computable_Functions"
   },
-  "POP-11": {
+  "PEARL": {
     "influenced": [
 
     ],
-    "href": "/wiki/POP-11"
+    "href": "/wiki/PEARL_(programming_language)"
+  },
+  "Pizza": {
+    "influenced": [
+      "Generic_Java",
+      "Scala_programming_language"
+    ],
+    "href": "/wiki/Pizza_(programming_language)"
+  },
+  "PL-11": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/PL-11"
+  },
+  "Phrogram": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Phrogram"
+  },
+  "PIKT": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/PIKT"
+  },
+  "0": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/PL/0"
+  },
+  "PILOT": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/PILOT"
   },
   "P": {
     "influenced": [
@@ -3290,11 +3272,17 @@
     ],
     "href": "/wiki/PL/P"
   },
-  "Powerhouse": {
+  "Amiga_E#PortablE": {
     "influenced": [
 
     ],
-    "href": "/wiki/Powerhouse_(programming_language)"
+    "href": "/wiki/Amiga_E#PortablE"
+  },
+  "Programming_Language_for_Business": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Programming_Language_for_Business"
   },
   "PLEXIL": {
     "influenced": [
@@ -3302,11 +3290,11 @@
     ],
     "href": "/wiki/PLEXIL"
   },
-  "Amiga_E#PortablE": {
+  "Powerhouse": {
     "influenced": [
 
     ],
-    "href": "/wiki/Amiga_E#PortablE"
+    "href": "/wiki/Powerhouse_(programming_language)"
   },
   "Polymorphic_Programming_Language": {
     "influenced": [
@@ -3314,29 +3302,11 @@
     ],
     "href": "/wiki/Polymorphic_Programming_Language"
   },
-  "PLEX": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PLEX_(programming_language)"
-  },
   "PowerBuilder": {
     "influenced": [
 
     ],
     "href": "/wiki/PowerBuilder"
-  },
-  "SQL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/PL/SQL"
-  },
-  "PostScript": {
-    "influenced": [
-      "Portable_Document_File"
-    ],
-    "href": "/wiki/PostScript"
   },
   "Processing": {
     "influenced": [
@@ -3347,6 +3317,13 @@
       "C"
     ],
     "href": "/wiki/Processing_(programming_language)"
+  },
+  "Plankalkül": {
+    "influenced": [
+      "Heinz_Rutishauser",
+      "ALGOL_58"
+    ],
+    "href": "/wiki/Plankalk%C3%BCl"
   },
   "PowerShell": {
     "influenced": [
@@ -3363,57 +3340,47 @@
     ],
     "href": "/wiki/PowerShell"
   },
+  "PostScript": {
+    "influenced": [
+      "Portable_Document_File"
+    ],
+    "href": "/wiki/PostScript"
+  },
+  "Plus": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Plus_(programming_language)"
+  },
   "PLANC": {
     "influenced": [
 
     ],
     "href": "/wiki/PLANC"
   },
-  "Plankalkül": {
-    "influenced": [
-      "Heinz_Rutishauser",
-      "ALGOL_58"
-    ],
-    "href": "/wiki/Plankalk%C3%BCl"
-  },
-  "Programming_Language_for_Business": {
+  "PLEX": {
     "influenced": [
 
     ],
-    "href": "/wiki/Programming_Language_for_Business"
+    "href": "/wiki/PLEX_(programming_language)"
   },
-  "Q": {
-    "influenced": [
-      "A+",
-      "APL_programming_language",
-      "Scheme",
-      "K"
-    ],
-    "href": "/wiki/Q_(programming_language_from_Kx_Systems)"
-  },
-  "Protel": {
+  "PL360": {
     "influenced": [
 
     ],
-    "href": "/wiki/Protel"
+    "href": "/wiki/PL360"
   },
-  "Visual_Prolog": {
+  "POP-11": {
     "influenced": [
 
     ],
-    "href": "/wiki/Visual_Prolog"
+    "href": "/wiki/POP-11"
   },
-  "Pro*C": {
+  "SQL": {
     "influenced": [
 
     ],
-    "href": "/wiki/Pro*C"
-  },
-  "ProvideX": {
-    "influenced": [
-      "Business_Basic"
-    ],
-    "href": "/wiki/ProvideX"
+    "href": "/wiki/PL/SQL"
   },
   "PROIV": {
     "influenced": [
@@ -3426,6 +3393,92 @@
       "Scheme"
     ],
     "href": "/wiki/Qalb_(programming_language)"
+  },
+  "Q": {
+    "influenced": [
+      "A+",
+      "APL_programming_language",
+      "Scheme",
+      "K"
+    ],
+    "href": "/wiki/Q_(programming_language_from_Kx_Systems)"
+  },
+  "Pro*C": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Pro*C"
+  },
+  "Visual_Prolog": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Visual_Prolog"
+  },
+  "QtScript": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/QtScript"
+  },
+  "Prograph": {
+    "influenced": [
+      "Functional_programming",
+      "Dataflow",
+      "Diagram"
+    ],
+    "href": "/wiki/Prograph"
+  },
+  "Quantum_programming": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Quantum_programming"
+  },
+  "Qi": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Qi_(programming_language)"
+  },
+  "Python": {
+    "influenced": [
+      "Boo",
+      "Cobra",
+      "D",
+      "F_Sharp",
+      "Falcon",
+      "Go",
+      "Groovy",
+      "JavaScript",
+      "Ruby"
+    ],
+    "href": "/wiki/Python_(programming_language)"
+  },
+  "Prolog": {
+    "influenced": [
+      "Visual_Prolog",
+      "Mercury",
+      "Oz",
+      "Erlang",
+      "Strand",
+      "KL0",
+      "KL1",
+      "Datalog"
+    ],
+    "href": "/wiki/Prolog"
+  },
+  "Protel": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Protel"
+  },
+  "ProvideX": {
+    "influenced": [
+      "Business_Basic"
+    ],
+    "href": "/wiki/ProvideX"
   },
   "Pure": {
     "influenced": [
@@ -3443,31 +3496,11 @@
     ],
     "href": "/wiki/QuakeC"
   },
-  "Quantum_programming": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Quantum_programming"
-  },
   "Promela": {
     "influenced": [
 
     ],
     "href": "/wiki/Promela"
-  },
-  "Prograph": {
-    "influenced": [
-      "Functional_programming",
-      "Dataflow",
-      "Diagram"
-    ],
-    "href": "/wiki/Prograph"
-  },
-  "Qi": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Qi_(programming_language)"
   },
   "Processing.js": {
     "influenced": [
@@ -3489,38 +3522,17 @@
     ],
     "href": "/wiki/R_(programming_language)"
   },
-  "QtScript": {
+  "Ratfiv": {
     "influenced": [
 
     ],
-    "href": "/wiki/QtScript"
+    "href": "/wiki/Ratfiv"
   },
-  "Prolog": {
+  "Rapira": {
     "influenced": [
-      "Visual_Prolog",
-      "Mercury",
-      "Oz",
-      "Erlang",
-      "Strand",
-      "KL0",
-      "KL1",
-      "Datalog"
+
     ],
-    "href": "/wiki/Prolog"
-  },
-  "Python": {
-    "influenced": [
-      "Boo",
-      "Cobra",
-      "D",
-      "F_Sharp",
-      "Falcon",
-      "Go",
-      "Groovy",
-      "JavaScript",
-      "Ruby"
-    ],
-    "href": "/wiki/Python_(programming_language)"
+    "href": "/wiki/Rapira"
   },
   "RAPID": {
     "influenced": [
@@ -3528,6 +3540,12 @@
       "C"
     ],
     "href": "/wiki/RAPID"
+  },
+  "ROOP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/ROOP_(programming_language)"
   },
   "Rlab": {
     "influenced": [
@@ -3542,18 +3560,42 @@
     ],
     "href": "/wiki/Ratfor"
   },
-  "RPL": {
-    "influenced": [
-      "Forth",
-      "Infix_notation"
-    ],
-    "href": "/wiki/RPL_(programming_language)"
-  },
-  "Ratfiv": {
+  "RobotC": {
     "influenced": [
 
     ],
-    "href": "/wiki/Ratfiv"
+    "href": "/wiki/RobotC"
+  },
+  "Racket": {
+    "influenced": [
+      "Scheme",
+      "Rust"
+    ],
+    "href": "/wiki/Racket_(programming_language)"
+  },
+  "Core_War": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Core_War"
+  },
+  "Revolution": {
+    "influenced": [
+      "HyperTalk"
+    ],
+    "href": "/wiki/Revolution_(programming_language)"
+  },
+  "R++": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/R%2B%2B"
+  },
+  "REFAL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/REFAL"
   },
   "Reia": {
     "influenced": [
@@ -3563,38 +3605,6 @@
     ],
     "href": "/wiki/Reia_(programming_language)"
   },
-  "RobotC": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/RobotC"
-  },
-  "REFAL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/REFAL"
-  },
-  "Rc": {
-    "influenced": [
-      "Es",
-      "Inferno"
-    ],
-    "href": "/wiki/Rc"
-  },
-  "Core_War": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Core_War"
-  },
-  "REXX": {
-    "influenced": [
-      "NetRexx",
-      "Object_REXX"
-    ],
-    "href": "/wiki/REXX"
-  },
   "Red": {
     "influenced": [
       "Rebol",
@@ -3603,36 +3613,12 @@
     ],
     "href": "/wiki/Red_(programming_language)"
   },
-  "Rex": {
+  "RPL": {
     "influenced": [
-
+      "Forth",
+      "Infix_notation"
     ],
-    "href": "/wiki/Rex_(language)"
-  },
-  "R++": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/R%2B%2B"
-  },
-  "Rapira": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Rapira"
-  },
-  "Racket": {
-    "influenced": [
-      "Scheme",
-      "Rust"
-    ],
-    "href": "/wiki/Racket_(programming_language)"
-  },
-  "ROOP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/ROOP_(programming_language)"
+    "href": "/wiki/RPL_(programming_language)"
   },
   "REBOL": {
     "influenced": [
@@ -3641,11 +3627,31 @@
     ],
     "href": "/wiki/REBOL"
   },
-  "Revolution": {
+  "Rc": {
     "influenced": [
-      "HyperTalk"
+      "Es",
+      "Inferno"
     ],
-    "href": "/wiki/Revolution_(programming_language)"
+    "href": "/wiki/Rc"
+  },
+  "REXX": {
+    "influenced": [
+      "NetRexx",
+      "Object_REXX"
+    ],
+    "href": "/wiki/REXX"
+  },
+  "Rex": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Rex_(language)"
+  },
+  "S3": {
+    "influenced": [
+      "ALGOL_68"
+    ],
+    "href": "/wiki/S3_(programming_language)"
   },
   "Robot_Battle#Robot_scripting_language": {
     "influenced": [
@@ -3653,80 +3659,23 @@
     ],
     "href": "/wiki/Robot_Battle#Robot_scripting_language"
   },
-  "SAM76": {
+  "S2": {
     "influenced": [
 
     ],
-    "href": "/wiki/SAM76"
+    "href": "/wiki/S2_(programming_language)"
   },
-  "SALSA": {
+  "SA-C": {
     "influenced": [
 
     ],
-    "href": "/wiki/SALSA_(programming_language)"
-  },
-  "SASL": {
-    "influenced": [
-      "Kent_Recursive_Calculator",
-      "Miranda_programming_language",
-      "Haskell"
-    ],
-    "href": "/wiki/SASL_(programming_language)"
-  },
-  "SabreTalk": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SabreTalk"
-  },
-  "S-PLUS": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/S-PLUS"
-  },
-  "Superbase_database": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Superbase_database"
-  },
-  "Sather": {
-    "influenced": [
-      "Cool",
-      "Rust"
-    ],
-    "href": "/wiki/Sather"
-  },
-  "SAIL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SAIL_(programming_language)"
-  },
-  "Sawzall": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Sawzall_(programming_language)"
-  },
-  "2": {
-    "influenced": [
-      "Algol_68"
-    ],
-    "href": "/wiki/RTL/2"
+    "href": "/wiki/SA-C_(programming_language)"
   },
   "S-Lang": {
     "influenced": [
 
     ],
     "href": "/wiki/S-Lang_(programming_language)"
-  },
-  "S2": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/S2_(programming_language)"
   },
   "Rust": {
     "influenced": [
@@ -3750,23 +3699,11 @@
     ],
     "href": "/wiki/Rust_(programming_language)"
   },
-  "SAS_System": {
+  "SabreTalk": {
     "influenced": [
 
     ],
-    "href": "/wiki/SAS_System"
-  },
-  "SA-C": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SA-C_(programming_language)"
-  },
-  "S3": {
-    "influenced": [
-      "ALGOL_68"
-    ],
-    "href": "/wiki/S3_(programming_language)"
+    "href": "/wiki/SabreTalk"
   },
   "Ruby": {
     "influenced": [
@@ -3783,6 +3720,63 @@
     ],
     "href": "/wiki/Ruby_(programming_language)"
   },
+  "SAIL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SAIL_(programming_language)"
+  },
+  "Sawzall": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Sawzall_(programming_language)"
+  },
+  "Superbase_database": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Superbase_database"
+  },
+  "SASL": {
+    "influenced": [
+      "Kent_Recursive_Calculator",
+      "Miranda_programming_language",
+      "Haskell"
+    ],
+    "href": "/wiki/SASL_(programming_language)"
+  },
+  "SAM76": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SAM76"
+  },
+  "S-PLUS": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/S-PLUS"
+  },
+  "SALSA": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SALSA_(programming_language)"
+  },
+  "Sather": {
+    "influenced": [
+      "Cool",
+      "Rust"
+    ],
+    "href": "/wiki/Sather"
+  },
+  "SAS_System": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SAS_System"
+  },
   "Scala": {
     "influenced": [
       "Fantom",
@@ -3792,47 +3786,11 @@
     ],
     "href": "/wiki/Scala_(programming_language)"
   },
-  "Superbase_database#History": {
+  "2": {
     "influenced": [
-
+      "Algol_68"
     ],
-    "href": "/wiki/Superbase_database#History"
-  },
-  "SenseTalk": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SenseTalk"
-  },
-  "Shift_Script": {
-    "influenced": [
-      "Visual_Basic"
-    ],
-    "href": "/wiki/Shift_Script"
-  },
-  "SMALL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SMALL"
-  },
-  "SISAL": {
-    "influenced": [
-      "SAC_programming_language"
-    ],
-    "href": "/wiki/SISAL"
-  },
-  "SIMSCRIPT": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SIMSCRIPT"
-  },
-  "SLIP": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SLIP_(programming_language)"
+    "href": "/wiki/RTL/2"
   },
   "Script.NET": {
     "influenced": [
@@ -3840,18 +3798,17 @@
     ],
     "href": "/wiki/Script.NET"
   },
-  "SETL": {
-    "influenced": [
-      "ProSet",
-      "ABC"
-    ],
-    "href": "/wiki/SETL"
-  },
-  "SmallBASIC": {
+  "SMALL": {
     "influenced": [
 
     ],
-    "href": "/wiki/SmallBASIC"
+    "href": "/wiki/SMALL"
+  },
+  "SLIP": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SLIP_(programming_language)"
   },
   "Seed7": {
     "influenced": [
@@ -3865,17 +3822,13 @@
     ],
     "href": "/wiki/Seed7"
   },
-  "SequenceL": {
+  "Sed": {
     "influenced": [
-
+      "Chomski",
+      "Perl",
+      "AWK"
     ],
-    "href": "/wiki/SequenceL"
-  },
-  "Simulink": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Simulink"
+    "href": "/wiki/Sed"
   },
   "Scratch": {
     "influenced": [
@@ -3888,11 +3841,78 @@
     ],
     "href": "/wiki/Scratch_(programming_language)"
   },
+  "Superbase_database#History": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Superbase_database#History"
+  },
+  "Scheme": {
+    "influenced": [
+      "Clojure",
+      "Common_Lisp",
+      "Dylan",
+      "EuLisp",
+      "Haskell",
+      "Hop",
+      "JavaScript",
+      "Kernel",
+      "Lua",
+      "R",
+      "S",
+      "Racket",
+      "Ruby"
+    ],
+    "href": "/wiki/Scheme_(programming_language)"
+  },
   "Scilab": {
     "influenced": [
 
     ],
     "href": "/wiki/Scilab"
+  },
+  "Simulink": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Simulink"
+  },
+  "SenseTalk": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SenseTalk"
+  },
+  "SequenceL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SequenceL"
+  },
+  "SISAL": {
+    "influenced": [
+      "SAC_programming_language"
+    ],
+    "href": "/wiki/SISAL"
+  },
+  "Shift_Script": {
+    "influenced": [
+      "Visual_Basic"
+    ],
+    "href": "/wiki/Shift_Script"
+  },
+  "SmallBASIC": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SmallBASIC"
+  },
+  "SETL": {
+    "influenced": [
+      "ProSet",
+      "ABC"
+    ],
+    "href": "/wiki/SETL"
   },
   "Simula": {
     "influenced": [
@@ -3900,13 +3920,20 @@
     ],
     "href": "/wiki/Simula"
   },
-  "Sed": {
+  "Self": {
     "influenced": [
-      "Chomski",
-      "Perl",
-      "AWK"
+      "NewtonScript",
+      "JavaScript",
+      "Io",
+      "Cel",
+      "Agora",
+      "Squeak",
+      "Lisaac",
+      "Lua",
+      "Factor",
+      "REBOL"
     ],
-    "href": "/wiki/Sed"
+    "href": "/wiki/Self_(programming_language)"
   },
   "Smalltalk": {
     "influenced": [
@@ -3935,50 +3962,11 @@
     ],
     "href": "/wiki/Smalltalk"
   },
-  "Self": {
-    "influenced": [
-      "NewtonScript",
-      "JavaScript",
-      "Io",
-      "Cel",
-      "Agora",
-      "Squeak",
-      "Lisaac",
-      "Lua",
-      "Factor",
-      "REBOL"
-    ],
-    "href": "/wiki/Self_(programming_language)"
-  },
-  "Scheme": {
-    "influenced": [
-      "Clojure",
-      "Common_Lisp",
-      "Dylan",
-      "EuLisp",
-      "Haskell",
-      "Hop",
-      "JavaScript",
-      "Kernel",
-      "Lua",
-      "R",
-      "S",
-      "Racket",
-      "Ruby"
-    ],
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  "Secure_Operations_Language": {
+  "SIMSCRIPT": {
     "influenced": [
 
     ],
-    "href": "/wiki/Secure_Operations_Language"
-  },
-  "Stateflow": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Stateflow"
+    "href": "/wiki/SIMSCRIPT"
   },
   "SPITBOL_compiler": {
     "influenced": [
@@ -3986,85 +3974,11 @@
     ],
     "href": "/wiki/SPITBOL_compiler"
   },
-  "SL_programming_language": {
+  "Secure_Operations_Language": {
     "influenced": [
 
     ],
-    "href": "/wiki/S/SL_programming_language"
-  },
-  "Snowball_programming_language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Snowball_programming_language"
-  },
-  "SR": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SR_(programming_language)"
-  },
-  "k": {
-    "influenced": [
-      "Turing"
-    ],
-    "href": "/wiki/SP/k"
-  },
-  "Squirrel": {
-    "influenced": [
-      "MiniD"
-    ],
-    "href": "/wiki/Squirrel_(programming_language)"
-  },
-  "Subtext": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Subtext_(programming_language)"
-  },
-  "SPARK": {
-    "influenced": [
-      "Ada",
-      "Eiffel"
-    ],
-    "href": "/wiki/SPARK_(programming_language)"
-  },
-  "SNOBOL": {
-    "influenced": [
-      "Icon",
-      "Lua"
-    ],
-    "href": "/wiki/SNOBOL"
-  },
-  "Parallax_Propeller": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Parallax_Propeller"
-  },
-  "Stata": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Stata"
-  },
-  "Squeak": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Squeak"
-  },
-  "SuperCollider": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SuperCollider"
-  },
-  "Standard_ML": {
-    "influenced": [
-      "Rust"
-    ],
-    "href": "/wiki/Standard_ML"
+    "href": "/wiki/Secure_Operations_Language"
   },
   "Strand": {
     "influenced": [
@@ -4072,11 +3986,11 @@
     ],
     "href": "/wiki/Strand_(programming_language)"
   },
-  "Span": {
+  "Snowball_programming_language": {
     "influenced": [
 
     ],
-    "href": "/wiki/Span_(programming_language)"
+    "href": "/wiki/Snowball_programming_language"
   },
   "IBM_1401_Symbolic_Programming_System": {
     "influenced": [
@@ -4091,29 +4005,104 @@
     ],
     "href": "/wiki/Starlogo"
   },
-  "Timber": {
+  "Stateflow": {
     "influenced": [
 
     ],
-    "href": "/wiki/Timber_(programming_language)"
+    "href": "/wiki/Stateflow"
   },
-  "Tensilica_Instruction_Extension": {
+  "SR": {
     "influenced": [
 
     ],
-    "href": "/wiki/Tensilica_Instruction_Extension"
+    "href": "/wiki/SR_(programming_language)"
   },
-  "SYMPL": {
+  "Span": {
     "influenced": [
 
     ],
-    "href": "/wiki/SYMPL"
+    "href": "/wiki/Span_(programming_language)"
   },
-  "TOM": {
+  "k": {
+    "influenced": [
+      "Turing"
+    ],
+    "href": "/wiki/SP/k"
+  },
+  "Standard_ML": {
+    "influenced": [
+      "Rust"
+    ],
+    "href": "/wiki/Standard_ML"
+  },
+  "SNOBOL": {
+    "influenced": [
+      "Icon",
+      "Lua"
+    ],
+    "href": "/wiki/SNOBOL"
+  },
+  "Parallax_Propeller": {
     "influenced": [
 
     ],
-    "href": "/wiki/TOM_(object-oriented_programming_language)"
+    "href": "/wiki/Parallax_Propeller"
+  },
+  "SuperCollider": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SuperCollider"
+  },
+  "Squirrel": {
+    "influenced": [
+      "MiniD"
+    ],
+    "href": "/wiki/Squirrel_(programming_language)"
+  },
+  "Stata": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Stata"
+  },
+  "SL_programming_language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/S/SL_programming_language"
+  },
+  "Subtext": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Subtext_(programming_language)"
+  },
+  "Squeak": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Squeak"
+  },
+  "SPARK": {
+    "influenced": [
+      "Ada",
+      "Eiffel"
+    ],
+    "href": "/wiki/SPARK_(programming_language)"
+  },
+  "T": {
+    "influenced": [
+      "EuLisp",
+      "Joule"
+    ],
+    "href": "/wiki/T_(programming_language)"
+  },
+  "SyncCharts": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/SyncCharts"
   },
   "SuperTalk": {
     "influenced": [
@@ -4121,17 +4110,17 @@
     ],
     "href": "/wiki/SuperTalk"
   },
-  "TACPOL": {
+  "SYMPL": {
     "influenced": [
 
     ],
-    "href": "/wiki/TACPOL_(programming_language)"
+    "href": "/wiki/SYMPL"
   },
-  "TMG": {
+  "TACL": {
     "influenced": [
 
     ],
-    "href": "/wiki/TMG_(language)"
+    "href": "/wiki/TACL"
   },
   "Tea": {
     "influenced": [
@@ -4141,36 +4130,23 @@
     ],
     "href": "/wiki/Tea_(programming_language)"
   },
-  "T": {
+  "TMG": {
     "influenced": [
-      "EuLisp",
-      "Joule"
+
     ],
-    "href": "/wiki/T_(programming_language)"
+    "href": "/wiki/TMG_(language)"
   },
-  "TELCOMP": {
+  "Transaction_Application_Language": {
     "influenced": [
-      "MUMPS"
+
     ],
-    "href": "/wiki/TELCOMP"
+    "href": "/wiki/Transaction_Application_Language"
   },
   "TADS": {
     "influenced": [
 
     ],
     "href": "/wiki/TADS"
-  },
-  "TACL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/TACL"
-  },
-  "Text_Executive_Programming_Language": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Text_Executive_Programming_Language"
   },
   "SystemVerilog": {
     "influenced": [
@@ -4179,17 +4155,59 @@
     ],
     "href": "/wiki/SystemVerilog"
   },
+  "Text_Executive_Programming_Language": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Text_Executive_Programming_Language"
+  },
+  "TeX": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/TeX"
+  },
+  "Tensilica_Instruction_Extension": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Tensilica_Instruction_Extension"
+  },
+  "Timber": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Timber_(programming_language)"
+  },
+  "TACPOL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/TACPOL_(programming_language)"
+  },
+  "TELCOMP": {
+    "influenced": [
+      "MUMPS"
+    ],
+    "href": "/wiki/TELCOMP"
+  },
+  "TOM": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/TOM_(object-oriented_programming_language)"
+  },
+  "Tom": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Tom_(pattern_matching_language)"
+  },
   "Text_Editor_and_Corrector": {
     "influenced": [
 
     ],
     "href": "/wiki/Text_Editor_and_Corrector"
-  },
-  "SyncCharts": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/SyncCharts"
   },
   "Tcl": {
     "influenced": [
@@ -4198,23 +4216,11 @@
     ],
     "href": "/wiki/Tcl"
   },
-  "Transaction_Application_Language": {
+  "Text_Processing_Utility": {
     "influenced": [
 
     ],
-    "href": "/wiki/Transaction_Application_Language"
-  },
-  "Tom": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Tom_(pattern_matching_language)"
-  },
-  "TeX": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/TeX"
+    "href": "/wiki/Text_Processing_Utility"
   },
   "Transact-SQL": {
     "influenced": [
@@ -4222,11 +4228,53 @@
     ],
     "href": "/wiki/Transact-SQL"
   },
+  "TRAC": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/TRAC_(programming_language)"
+  },
+  "TTM": {
+    "influenced": [
+      "TRAC_programming_language"
+    ],
+    "href": "/wiki/TTM_(programming_language)"
+  },
+  "UNITY": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/UNITY_(programming_language)"
+  },
   "TTCN": {
     "influenced": [
 
     ],
     "href": "/wiki/TTCN"
+  },
+  "TXL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/TXL_(programming_language)"
+  },
+  "Unix_shell": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Unix_shell"
+  },
+  "Uniface": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Uniface_(programming_language)"
+  },
+  "UCSD_Pascal": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/UCSD_Pascal"
   },
   "Turing": {
     "influenced": [
@@ -4235,73 +4283,6 @@
       "k"
     ],
     "href": "/wiki/Turing_(programming_language)"
-  },
-  "Unicon": {
-    "influenced": [
-      "Icon_programming_language"
-    ],
-    "href": "/wiki/Unicon_(programming_language)"
-  },
-  "Ubercode": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Ubercode"
-  },
-  "UNITY": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/UNITY_(programming_language)"
-  },
-  "Umple": {
-    "influenced": [
-      "Java",
-      "C++",
-      "Unified_Modeling_Language",
-      "Ruby",
-      "PHP"
-    ],
-    "href": "/wiki/Umple"
-  },
-  "UnrealScript": {
-    "influenced": [
-      "C++",
-      "Java"
-    ],
-    "href": "/wiki/UnrealScript"
-  },
-  "UCSD_Pascal": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/UCSD_Pascal"
-  },
-  "TUTOR": {
-    "influenced": [
-      "Regency_Systems_R2C"
-    ],
-    "href": "/wiki/TUTOR_(programming_language)"
-  },
-  "Uniface": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Uniface_(programming_language)"
-  },
-  "Unix_shell": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Unix_shell"
-  },
-  "TypeScript": {
-    "influenced": [
-      "JavaScript",
-      "Java",
-      "C_Sharp"
-    ],
-    "href": "/wiki/TypeScript"
   },
   "Vala": {
     "influenced": [
@@ -4314,71 +4295,60 @@
     ],
     "href": "/wiki/Vala_(programming_language)"
   },
-  "TTM": {
-    "influenced": [
-      "TRAC_programming_language"
-    ],
-    "href": "/wiki/TTM_(programming_language)"
-  },
-  "TRAC": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/TRAC_(programming_language)"
-  },
-  "TXL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/TXL_(programming_language)"
-  },
-  "Text_Processing_Utility": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Text_Processing_Utility"
-  },
   "Turbo_C++": {
     "influenced": [
 
     ],
     "href": "/wiki/Turbo_C%2B%2B"
   },
-  "Visual_DialogScript": {
+  "Unicon": {
     "influenced": [
-
+      "Icon_programming_language"
     ],
-    "href": "/wiki/Visual_DialogScript"
+    "href": "/wiki/Unicon_(programming_language)"
   },
-  "Visual_DataFlex": {
+  "Umple": {
     "influenced": [
-
+      "Java",
+      "C++",
+      "Unified_Modeling_Language",
+      "Ruby",
+      "PHP"
     ],
-    "href": "/wiki/Visual_DataFlex"
+    "href": "/wiki/Umple"
   },
-  "Microsoft_Visual_C_Sharp": {
+  "Ubercode": {
     "influenced": [
 
     ],
-    "href": "/wiki/Microsoft_Visual_C_Sharp"
+    "href": "/wiki/Ubercode"
   },
-  "Visual_Objects": {
+  "UnrealScript": {
     "influenced": [
-
+      "C++",
+      "Java"
     ],
-    "href": "/wiki/Visual_Objects"
+    "href": "/wiki/UnrealScript"
   },
-  "WebQL": {
+  "TypeScript": {
     "influenced": [
-
+      "JavaScript",
+      "Java",
+      "C_Sharp"
     ],
-    "href": "/wiki/WebQL"
+    "href": "/wiki/TypeScript"
   },
-  "Visual_J": {
+  "TUTOR": {
     "influenced": [
-
+      "Regency_Systems_R2C"
     ],
-    "href": "/wiki/Visual_J"
+    "href": "/wiki/TUTOR_(programming_language)"
+  },
+  "VBScript": {
+    "influenced": [
+      "Windows_PowerShell"
+    ],
+    "href": "/wiki/VBScript"
   },
   "Visual_Basic_for_Applications": {
     "influenced": [
@@ -4394,47 +4364,11 @@
     ],
     "href": "/wiki/VHDL"
   },
-  "WebDNA": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/WebDNA"
-  },
-  "Visual_FoxPro": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Visual_FoxPro"
-  },
   "WATFIV": {
     "influenced": [
 
     ],
     "href": "/wiki/WATFIV_(programming_language)"
-  },
-  "Verilog": {
-    "influenced": [
-      "SystemVerilog"
-    ],
-    "href": "/wiki/Verilog"
-  },
-  "Vvvv": {
-    "influenced": [
-      "APL",
-      "MSP",
-      "DirectShow",
-      "Pure_Data",
-      "DirectX"
-    ],
-    "href": "/wiki/Vvvv"
-  },
-  "VSXu": {
-    "influenced": [
-      "Pure_Data",
-      "OpenGL",
-      "C++"
-    ],
-    "href": "/wiki/VSXu"
   },
   "Visual_Basic_.NET": {
     "influenced": [
@@ -4451,17 +4385,17 @@
     ],
     "href": "/wiki/Visual_Basic"
   },
+  "Verilog": {
+    "influenced": [
+      "SystemVerilog"
+    ],
+    "href": "/wiki/Verilog"
+  },
   "Microsoft_Visual_C++": {
     "influenced": [
 
     ],
     "href": "/wiki/Microsoft_Visual_C%2B%2B"
-  },
-  "VBScript": {
-    "influenced": [
-      "Windows_PowerShell"
-    ],
-    "href": "/wiki/VBScript"
   },
   "Visual_Fortran": {
     "influenced": [
@@ -4475,105 +4409,77 @@
     ],
     "href": "/wiki/Visual_Fortran"
   },
-  "XSB": {
-    "influenced": [
-      "Prolog"
-    ],
-    "href": "/wiki/XSB"
-  },
-  "Yorick": {
+  "Microsoft_Visual_C_Sharp": {
     "influenced": [
 
     ],
-    "href": "/wiki/Yorick_(programming_language)"
+    "href": "/wiki/Microsoft_Visual_C_Sharp"
   },
-  "X10": {
-    "influenced": [
-      "Java"
-    ],
-    "href": "/wiki/X10_(programming_language)"
-  },
-  "XPL0": {
+  "Visual_DataFlex": {
     "influenced": [
 
     ],
-    "href": "/wiki/XPL0"
+    "href": "/wiki/Visual_DataFlex"
   },
-  "XOTcl": {
+  "Vvvv": {
+    "influenced": [
+      "APL",
+      "MSP",
+      "DirectShow",
+      "Pure_Data",
+      "DirectX"
+    ],
+    "href": "/wiki/Vvvv"
+  },
+  "Visual_Objects": {
     "influenced": [
 
     ],
-    "href": "/wiki/XOTcl"
+    "href": "/wiki/Visual_Objects"
+  },
+  "Visual_DialogScript": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Visual_DialogScript"
+  },
+  "WebQL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/WebQL"
+  },
+  "Visual_J": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Visual_J"
+  },
+  "WebDNA": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/WebDNA"
+  },
+  "VSXu": {
+    "influenced": [
+      "Pure_Data",
+      "OpenGL",
+      "C++"
+    ],
+    "href": "/wiki/VSXu"
+  },
+  "Visual_FoxPro": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Visual_FoxPro"
   },
   "Winbatch": {
     "influenced": [
 
     ],
     "href": "/wiki/Winbatch"
-  },
-  "YQL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/YQL_(programming_language)"
-  },
-  "XQuery": {
-    "influenced": [
-      "XPath",
-      "SQL",
-      "XSLT"
-    ],
-    "href": "/wiki/XQuery"
-  },
-  "X_Sharp": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/X_Sharp_(programming_language)"
-  },
-  "XL": {
-    "influenced": [
-      "Ada",
-      "C++"
-    ],
-    "href": "/wiki/XL_(programming_language)"
-  },
-  "XBL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/XBL"
-  },
-  "Microsoft_Dynamics_AX": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Microsoft_Dynamics_AX"
-  },
-  "XPL": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/XPL"
-  },
-  "Z_notation": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/Z_notation"
-  },
-  "XCore_XS1": {
-    "influenced": [
-
-    ],
-    "href": "/wiki/XCore_XS1"
-  },
-  "XPath": {
-    "influenced": [
-      "XML_Schema",
-      "XForms"
-    ],
-    "href": "/wiki/XPath"
   },
   "XC_Programming_Language": {
     "influenced": [
@@ -4583,17 +4489,60 @@
     ],
     "href": "/wiki/XC_Programming_Language"
   },
-  "XSL_Transformations": {
+  "YQL": {
     "influenced": [
-      "DSSSL"
+
     ],
-    "href": "/wiki/XSL_Transformations"
+    "href": "/wiki/YQL_(programming_language)"
+  },
+  "X10": {
+    "influenced": [
+      "Java"
+    ],
+    "href": "/wiki/X10_(programming_language)"
+  },
+  "XSB": {
+    "influenced": [
+      "Prolog"
+    ],
+    "href": "/wiki/XSB"
+  },
+  "XCore_XS1": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/XCore_XS1"
+  },
+  "XBL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/XBL"
+  },
+  "XPL": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/XPL"
   },
   "XHarbour": {
     "influenced": [
 
     ],
     "href": "/wiki/XHarbour"
+  },
+  "XPath": {
+    "influenced": [
+      "XML_Schema",
+      "XForms"
+    ],
+    "href": "/wiki/XPath"
+  },
+  "Z_notation": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Z_notation"
   },
   "Windows_PowerShell": {
     "influenced": [
@@ -4609,6 +4558,57 @@
       "Puppet"
     ],
     "href": "/wiki/Windows_PowerShell"
+  },
+  "X_Sharp": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/X_Sharp_(programming_language)"
+  },
+  "Yorick": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Yorick_(programming_language)"
+  },
+  "XL": {
+    "influenced": [
+      "Ada",
+      "C++"
+    ],
+    "href": "/wiki/XL_(programming_language)"
+  },
+  "XPL0": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/XPL0"
+  },
+  "XOTcl": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/XOTcl"
+  },
+  "XQuery": {
+    "influenced": [
+      "XPath",
+      "SQL",
+      "XSLT"
+    ],
+    "href": "/wiki/XQuery"
+  },
+  "XSL_Transformations": {
+    "influenced": [
+      "DSSSL"
+    ],
+    "href": "/wiki/XSL_Transformations"
+  },
+  "Microsoft_Dynamics_AX": {
+    "influenced": [
+
+    ],
+    "href": "/wiki/Microsoft_Dynamics_AX"
   },
   "ZOPL": {
     "influenced": [

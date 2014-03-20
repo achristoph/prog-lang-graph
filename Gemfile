@@ -28,3 +28,9 @@ end
 
 gem 'nokogiri'
 gem 'mechanize'
+
+group :test do
+  gem 'rspec' , :require => false
+  gem 'rspec-rails'
+  #gem 'spork-rails'
+end

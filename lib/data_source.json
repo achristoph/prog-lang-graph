@@ -6,24 +6,6 @@
     "href": "/wiki/A_Sharp_(Axiom)"
   },
   {
-    "source": "ACL2",
-    "target": "Nqthm",
-    "count": 2,
-    "href": "/wiki/ACL2"
-  },
-  {
-    "source": "ACL2",
-    "target": "Common_Lisp",
-    "count": 2,
-    "href": "/wiki/ACL2"
-  },
-  {
-    "source": "ABC",
-    "target": "Python",
-    "count": 1,
-    "href": "/wiki/ABC_(programming_language)"
-  },
-  {
     "source": "Agda",
     "target": "Coq",
     "count": 3,
@@ -42,6 +24,24 @@
     "href": "/wiki/Agda_(theorem_prover)"
   },
   {
+    "source": "ABC",
+    "target": "Python",
+    "count": 1,
+    "href": "/wiki/ABC_(programming_language)"
+  },
+  {
+    "source": "ActionScript",
+    "target": "JavaScript",
+    "count": 2,
+    "href": "/wiki/ActionScript"
+  },
+  {
+    "source": "ActionScript",
+    "target": "Java",
+    "count": 2,
+    "href": "/wiki/ActionScript"
+  },
+  {
     "source": "ABAP",
     "target": "Objective-C",
     "count": 3,
@@ -58,18 +58,6 @@
     "target": "SQL",
     "count": 3,
     "href": "/wiki/ABAP"
-  },
-  {
-    "source": "ActionScript",
-    "target": "JavaScript",
-    "count": 2,
-    "href": "/wiki/ActionScript"
-  },
-  {
-    "source": "ActionScript",
-    "target": "Java",
-    "count": 2,
-    "href": "/wiki/ActionScript"
   },
   {
     "source": "Ada",
@@ -120,46 +108,28 @@
     "href": "/wiki/A%2B_(programming_language)"
   },
   {
-    "source": "AmbientTalk",
-    "target": "ECMAScript_Harmony",
-    "count": 1,
-    "href": "/wiki/AmbientTalk"
-  },
-  {
-    "source": "Alef",
-    "target": "Limbo",
-    "count": 3,
-    "href": "/wiki/Alef_(programming_language)"
-  },
-  {
-    "source": "Alef",
-    "target": "Rust",
-    "count": 3,
-    "href": "/wiki/Alef_(programming_language)"
-  },
-  {
-    "source": "Alef",
-    "target": "Go",
-    "count": 3,
-    "href": "/wiki/Alef_(programming_language)"
-  },
-  {
-    "source": "AMOS",
-    "target": "STOS_BASIC",
-    "count": 1,
-    "href": "/wiki/AMOS_(programming_language)"
-  },
-  {
-    "source": "AMPL",
-    "target": "AWK",
+    "source": "ACL2",
+    "target": "Nqthm",
     "count": 2,
-    "href": "/wiki/AMPL"
+    "href": "/wiki/ACL2"
   },
   {
-    "source": "AMPL",
-    "target": "C",
+    "source": "ACL2",
+    "target": "Common_Lisp",
     "count": 2,
-    "href": "/wiki/AMPL"
+    "href": "/wiki/ACL2"
+  },
+  {
+    "source": "Alice",
+    "target": "ML",
+    "count": 2,
+    "href": "/wiki/Alice_(programming_language)"
+  },
+  {
+    "source": "Alice",
+    "target": "Oz",
+    "count": 2,
+    "href": "/wiki/Alice_(programming_language)"
   },
   {
     "source": "ALGOL_60",
@@ -190,18 +160,6 @@
     "target": "C",
     "count": 5,
     "href": "/wiki/ALGOL_60"
-  },
-  {
-    "source": "Alice",
-    "target": "ML",
-    "count": 2,
-    "href": "/wiki/Alice_(programming_language)"
-  },
-  {
-    "source": "Alice",
-    "target": "Oz",
-    "count": 2,
-    "href": "/wiki/Alice_(programming_language)"
   },
   {
     "source": "AppleScript",
@@ -270,10 +228,52 @@
     "href": "/wiki/ALGOL_68"
   },
   {
-    "source": "Babbage",
-    "target": "BCPL",
+    "source": "AmbientTalk",
+    "target": "ECMAScript_Harmony",
     "count": 1,
-    "href": "/wiki/Babbage_(programming_language)"
+    "href": "/wiki/AmbientTalk"
+  },
+  {
+    "source": "Alef",
+    "target": "Limbo",
+    "count": 3,
+    "href": "/wiki/Alef_(programming_language)"
+  },
+  {
+    "source": "Alef",
+    "target": "Rust",
+    "count": 3,
+    "href": "/wiki/Alef_(programming_language)"
+  },
+  {
+    "source": "Alef",
+    "target": "Go",
+    "count": 3,
+    "href": "/wiki/Alef_(programming_language)"
+  },
+  {
+    "source": "AMPL",
+    "target": "AWK",
+    "count": 2,
+    "href": "/wiki/AMPL"
+  },
+  {
+    "source": "AMPL",
+    "target": "C",
+    "count": 2,
+    "href": "/wiki/AMPL"
+  },
+  {
+    "source": "AMOS",
+    "target": "STOS_BASIC",
+    "count": 1,
+    "href": "/wiki/AMOS_(programming_language)"
+  },
+  {
+    "source": "Ateji_PX",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/Ateji_PX"
   },
   {
     "source": "BAIL",
@@ -288,52 +288,10 @@
     "href": "/wiki/BAIL_(programming_language)"
   },
   {
-    "source": "Ateji_PX",
-    "target": "Java",
+    "source": "Babbage",
+    "target": "BCPL",
     "count": 1,
-    "href": "/wiki/Ateji_PX"
-  },
-  {
-    "source": "BeanShell",
-    "target": "Java",
-    "count": 1,
-    "href": "/wiki/BeanShell"
-  },
-  {
-    "source": "ATS",
-    "target": "Dependent_ML",
-    "count": 3,
-    "href": "/wiki/ATS_(programming_language)"
-  },
-  {
-    "source": "ATS",
-    "target": "ML",
-    "count": 3,
-    "href": "/wiki/ATS_(programming_language)"
-  },
-  {
-    "source": "ATS",
-    "target": "OCaml",
-    "count": 3,
-    "href": "/wiki/ATS_(programming_language)"
-  },
-  {
-    "source": "BCPL",
-    "target": "B",
-    "count": 2,
-    "href": "/wiki/BCPL"
-  },
-  {
-    "source": "BCPL",
-    "target": "C",
-    "count": 2,
-    "href": "/wiki/BCPL"
-  },
-  {
-    "source": "B",
-    "target": "C",
-    "count": 1,
-    "href": "/wiki/B_(programming_language)"
+    "href": "/wiki/Babbage_(programming_language)"
   },
   {
     "source": "BASIC",
@@ -378,6 +336,48 @@
     "href": "/wiki/BASIC"
   },
   {
+    "source": "B",
+    "target": "C",
+    "count": 1,
+    "href": "/wiki/B_(programming_language)"
+  },
+  {
+    "source": "ATS",
+    "target": "Dependent_ML",
+    "count": 3,
+    "href": "/wiki/ATS_(programming_language)"
+  },
+  {
+    "source": "ATS",
+    "target": "ML",
+    "count": 3,
+    "href": "/wiki/ATS_(programming_language)"
+  },
+  {
+    "source": "ATS",
+    "target": "OCaml",
+    "count": 3,
+    "href": "/wiki/ATS_(programming_language)"
+  },
+  {
+    "source": "BeanShell",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/BeanShell"
+  },
+  {
+    "source": "BCPL",
+    "target": "B",
+    "count": 2,
+    "href": "/wiki/BCPL"
+  },
+  {
+    "source": "BCPL",
+    "target": "C",
+    "count": 2,
+    "href": "/wiki/BCPL"
+  },
+  {
     "source": "AWK",
     "target": "Tcl",
     "count": 5,
@@ -420,12 +420,6 @@
     "href": "/wiki/Bistro_(programming_language)"
   },
   {
-    "source": "BETA",
-    "target": "Simula",
-    "count": 1,
-    "href": "/wiki/BETA_(programming_language)"
-  },
-  {
     "source": "BitC",
     "target": "Haskell",
     "count": 2,
@@ -438,22 +432,28 @@
     "href": "/wiki/BitC"
   },
   {
+    "source": "BLISS",
+    "target": "ALGOL",
+    "count": 1,
+    "href": "/wiki/BLISS_(programming_language)"
+  },
+  {
     "source": "Boomerang",
     "target": "XSLT",
     "count": 1,
     "href": "/wiki/Boomerang_(programming_language)"
   },
   {
+    "source": "BETA",
+    "target": "Simula",
+    "count": 1,
+    "href": "/wiki/BETA_(programming_language)"
+  },
+  {
     "source": "C--",
     "target": "C",
     "count": 1,
     "href": "/wiki/C--"
-  },
-  {
-    "source": "BLISS",
-    "target": "ALGOL",
-    "count": 1,
-    "href": "/wiki/BLISS_(programming_language)"
   },
   {
     "source": "Boo",
@@ -466,54 +466,6 @@
     "target": "C_Sharp",
     "count": 2,
     "href": "/wiki/Boo_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "D",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "F_Sharp",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "Java",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "Kotlin",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "Monkey",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "Nemerle",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C_Sharp",
-    "target": "Vala",
-    "count": 7,
-    "href": "/wiki/C_Sharp_(programming_language)"
-  },
-  {
-    "source": "C",
-    "target": "I",
-    "count": 1,
-    "href": "/wiki/PL/C"
   },
   {
     "source": "C++",
@@ -588,6 +540,54 @@
     "href": "/wiki/C%2B%2B"
   },
   {
+    "source": "C_Sharp",
+    "target": "D",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "F_Sharp",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "Java",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "Kotlin",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "Monkey",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "Nemerle",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C_Sharp",
+    "target": "Vala",
+    "count": 7,
+    "href": "/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "source": "C",
+    "target": "I",
+    "count": 1,
+    "href": "/wiki/PL/C"
+  },
+  {
     "source": "Candle",
     "target": "XQuery",
     "count": 3,
@@ -604,6 +604,60 @@
     "target": "RELAX_NG",
     "count": 3,
     "href": "/wiki/Candle_(programming_language)"
+  },
+  {
+    "source": "Caml",
+    "target": "F_Sharp",
+    "count": 1,
+    "href": "/wiki/Caml"
+  },
+  {
+    "source": "Chapel",
+    "target": "High_Performance_Fortran",
+    "count": 2,
+    "href": "/wiki/Chapel_(programming_language)"
+  },
+  {
+    "source": "Chapel",
+    "target": "ZPL",
+    "count": 2,
+    "href": "/wiki/Chapel_(programming_language)"
+  },
+  {
+    "source": "Ceylon",
+    "target": "Java",
+    "count": 3,
+    "href": "/wiki/Ceylon_(programming_language)"
+  },
+  {
+    "source": "Ceylon",
+    "target": "Scala",
+    "count": 3,
+    "href": "/wiki/Ceylon_(programming_language)"
+  },
+  {
+    "source": "Ceylon",
+    "target": "Smalltalk",
+    "count": 3,
+    "href": "/wiki/Ceylon_(programming_language)"
+  },
+  {
+    "source": "Caché_ObjectScript",
+    "target": "MUMPS",
+    "count": 1,
+    "href": "/wiki/Cach%C3%A9_ObjectScript"
+  },
+  {
+    "source": "CHILL",
+    "target": "COBOL",
+    "count": 2,
+    "href": "/wiki/CHILL"
+  },
+  {
+    "source": "CHILL",
+    "target": "1",
+    "count": 2,
+    "href": "/wiki/CHILL"
   },
   {
     "source": "Cel",
@@ -642,36 +696,6 @@
     "href": "/wiki/Cel_(programming_language)"
   },
   {
-    "source": "CHILL",
-    "target": "COBOL",
-    "count": 2,
-    "href": "/wiki/CHILL"
-  },
-  {
-    "source": "CHILL",
-    "target": "1",
-    "count": 2,
-    "href": "/wiki/CHILL"
-  },
-  {
-    "source": "Chapel",
-    "target": "High_Performance_Fortran",
-    "count": 2,
-    "href": "/wiki/Chapel_(programming_language)"
-  },
-  {
-    "source": "Chapel",
-    "target": "ZPL",
-    "count": 2,
-    "href": "/wiki/Chapel_(programming_language)"
-  },
-  {
-    "source": "Caml",
-    "target": "F_Sharp",
-    "count": 1,
-    "href": "/wiki/Caml"
-  },
-  {
     "source": "Charm",
     "target": "2",
     "count": 3,
@@ -688,138 +712,6 @@
     "target": "Pascal",
     "count": 3,
     "href": "/wiki/Charm_(language)"
-  },
-  {
-    "source": "Ceylon",
-    "target": "Java",
-    "count": 3,
-    "href": "/wiki/Ceylon_(programming_language)"
-  },
-  {
-    "source": "Ceylon",
-    "target": "Scala",
-    "count": 3,
-    "href": "/wiki/Ceylon_(programming_language)"
-  },
-  {
-    "source": "Ceylon",
-    "target": "Smalltalk",
-    "count": 3,
-    "href": "/wiki/Ceylon_(programming_language)"
-  },
-  {
-    "source": "Caché_ObjectScript",
-    "target": "MUMPS",
-    "count": 1,
-    "href": "/wiki/Cach%C3%A9_ObjectScript"
-  },
-  {
-    "source": "Cobra",
-    "target": "Python",
-    "count": 4,
-    "href": "/wiki/Cobra_(programming_language)"
-  },
-  {
-    "source": "Cobra",
-    "target": "Eiffel",
-    "count": 4,
-    "href": "/wiki/Cobra_(programming_language)"
-  },
-  {
-    "source": "Cobra",
-    "target": "C_Sharp",
-    "count": 4,
-    "href": "/wiki/Cobra_(programming_language)"
-  },
-  {
-    "source": "Cobra",
-    "target": "Objective-C",
-    "count": 4,
-    "href": "/wiki/Cobra_(programming_language)"
-  },
-  {
-    "source": "CLU",
-    "target": "Sather",
-    "count": 5,
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  {
-    "source": "CLU",
-    "target": "Lua",
-    "count": 5,
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  {
-    "source": "CLU",
-    "target": "Ruby_programming_language",
-    "count": 5,
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  {
-    "source": "CLU",
-    "target": "Ada",
-    "count": 5,
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  {
-    "source": "CLU",
-    "target": "Argus",
-    "count": 5,
-    "href": "/wiki/CLU_(programming_language)"
-  },
-  {
-    "source": "Clean",
-    "target": "Miranda",
-    "count": 2,
-    "href": "/wiki/Clean_(programming_language)"
-  },
-  {
-    "source": "Clean",
-    "target": "Haskell",
-    "count": 2,
-    "href": "/wiki/Clean_(programming_language)"
-  },
-  {
-    "source": "Chomski",
-    "target": "Sed",
-    "count": 2,
-    "href": "/wiki/Chomski"
-  },
-  {
-    "source": "Chomski",
-    "target": "Awk",
-    "count": 2,
-    "href": "/wiki/Chomski"
-  },
-  {
-    "source": "Clojure",
-    "target": "Elixir",
-    "count": 1,
-    "href": "/wiki/Clojure"
-  },
-  {
-    "source": "CoffeeScript",
-    "target": "moonscript.org",
-    "count": 2,
-    "href": "/wiki/CoffeeScript"
-  },
-  {
-    "source": "CoffeeScript",
-    "target": "LiveScript",
-    "count": 2,
-    "href": "/wiki/CoffeeScript"
-  },
-  {
-    "source": "400_Control_Language",
-    "target": "Windows_PowerShell",
-    "count": 1,
-    "href": "/wiki/AS/400_Control_Language"
-  },
-  {
-    "source": "Cilk",
-    "target": "C",
-    "count": 1,
-    "href": "/wiki/Cilk"
   },
   {
     "source": "Claire",
@@ -858,16 +750,28 @@
     "href": "/wiki/Claire_(programming_language)"
   },
   {
-    "source": "COBOL",
-    "target": "I",
+    "source": "Clean",
+    "target": "Miranda",
     "count": 2,
-    "href": "/wiki/COBOL"
+    "href": "/wiki/Clean_(programming_language)"
   },
   {
-    "source": "COBOL",
-    "target": "ABAP",
+    "source": "Clean",
+    "target": "Haskell",
     "count": 2,
-    "href": "/wiki/COBOL"
+    "href": "/wiki/Clean_(programming_language)"
+  },
+  {
+    "source": "400_Control_Language",
+    "target": "Windows_PowerShell",
+    "count": 1,
+    "href": "/wiki/AS/400_Control_Language"
+  },
+  {
+    "source": "Cilk",
+    "target": "C",
+    "count": 1,
+    "href": "/wiki/Cilk"
   },
   {
     "source": "ColdC",
@@ -886,6 +790,126 @@
     "target": "CoolMUD",
     "count": 3,
     "href": "/wiki/ColdC"
+  },
+  {
+    "source": "Cobra",
+    "target": "Python",
+    "count": 4,
+    "href": "/wiki/Cobra_(programming_language)"
+  },
+  {
+    "source": "Cobra",
+    "target": "Eiffel",
+    "count": 4,
+    "href": "/wiki/Cobra_(programming_language)"
+  },
+  {
+    "source": "Cobra",
+    "target": "C_Sharp",
+    "count": 4,
+    "href": "/wiki/Cobra_(programming_language)"
+  },
+  {
+    "source": "Cobra",
+    "target": "Objective-C",
+    "count": 4,
+    "href": "/wiki/Cobra_(programming_language)"
+  },
+  {
+    "source": "CoffeeScript",
+    "target": "moonscript.org",
+    "count": 2,
+    "href": "/wiki/CoffeeScript"
+  },
+  {
+    "source": "CoffeeScript",
+    "target": "LiveScript",
+    "count": 2,
+    "href": "/wiki/CoffeeScript"
+  },
+  {
+    "source": "Chomski",
+    "target": "Sed",
+    "count": 2,
+    "href": "/wiki/Chomski"
+  },
+  {
+    "source": "Chomski",
+    "target": "Awk",
+    "count": 2,
+    "href": "/wiki/Chomski"
+  },
+  {
+    "source": "CLU",
+    "target": "Sather",
+    "count": 5,
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  {
+    "source": "CLU",
+    "target": "Lua",
+    "count": 5,
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  {
+    "source": "CLU",
+    "target": "Ruby_programming_language",
+    "count": 5,
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  {
+    "source": "CLU",
+    "target": "Ada",
+    "count": 5,
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  {
+    "source": "CLU",
+    "target": "Argus",
+    "count": 5,
+    "href": "/wiki/CLU_(programming_language)"
+  },
+  {
+    "source": "Clojure",
+    "target": "Elixir",
+    "count": 1,
+    "href": "/wiki/Clojure"
+  },
+  {
+    "source": "COBOL",
+    "target": "I",
+    "count": 2,
+    "href": "/wiki/COBOL"
+  },
+  {
+    "source": "COBOL",
+    "target": "ABAP",
+    "count": 2,
+    "href": "/wiki/COBOL"
+  },
+  {
+    "source": "COMAL",
+    "target": "BASIC",
+    "count": 2,
+    "href": "/wiki/COMAL"
+  },
+  {
+    "source": "COMAL",
+    "target": "Pascal",
+    "count": 2,
+    "href": "/wiki/COMAL"
+  },
+  {
+    "source": "Combined_Programming_Language",
+    "target": "BCPL",
+    "count": 2,
+    "href": "/wiki/Combined_Programming_Language"
+  },
+  {
+    "source": "Combined_Programming_Language",
+    "target": "POP-2",
+    "count": 2,
+    "href": "/wiki/Combined_Programming_Language"
   },
   {
     "source": "Cool",
@@ -912,52 +936,10 @@
     "href": "/wiki/Cool_(programming_language)"
   },
   {
-    "source": "Combined_Programming_Language",
-    "target": "BCPL",
-    "count": 2,
-    "href": "/wiki/Combined_Programming_Language"
-  },
-  {
-    "source": "Combined_Programming_Language",
-    "target": "POP-2",
-    "count": 2,
-    "href": "/wiki/Combined_Programming_Language"
-  },
-  {
-    "source": "COMIT",
-    "target": "SNOBOL",
-    "count": 1,
-    "href": "/wiki/COMIT"
-  },
-  {
-    "source": "Component_Pascal",
-    "target": "Oberon-2",
-    "count": 1,
-    "href": "/wiki/Component_Pascal"
-  },
-  {
     "source": "Coq",
     "target": "Agda",
     "count": 1,
     "href": "/wiki/Coq"
-  },
-  {
-    "source": "COMAL",
-    "target": "BASIC",
-    "count": 2,
-    "href": "/wiki/COMAL"
-  },
-  {
-    "source": "COMAL",
-    "target": "Pascal",
-    "count": 2,
-    "href": "/wiki/COMAL"
-  },
-  {
-    "source": "CorVision",
-    "target": "Inform",
-    "count": 1,
-    "href": "/wiki/CorVision"
   },
   {
     "source": "Converge",
@@ -972,40 +954,16 @@
     "href": "/wiki/Converge_(programming_language)"
   },
   {
-    "source": "Coral_66",
-    "target": "ALGOL",
-    "count": 2,
-    "href": "/wiki/Coral_66"
-  },
-  {
-    "source": "Coral_66",
-    "target": "JOVIAL",
-    "count": 2,
-    "href": "/wiki/Coral_66"
-  },
-  {
-    "source": "COWSEL",
-    "target": "POP-2",
+    "source": "Component_Pascal",
+    "target": "Oberon-2",
     "count": 1,
-    "href": "/wiki/COWSEL"
+    "href": "/wiki/Component_Pascal"
   },
   {
-    "source": "Curl",
-    "target": "HTML",
-    "count": 3,
-    "href": "/wiki/Curl_(programming_language)"
-  },
-  {
-    "source": "Curl",
-    "target": "JavaScript",
-    "count": 3,
-    "href": "/wiki/Curl_(programming_language)"
-  },
-  {
-    "source": "Curl",
-    "target": "Lisp",
-    "count": 3,
-    "href": "/wiki/Curl_(programming_language)"
+    "source": "CorVision",
+    "target": "Inform",
+    "count": 1,
+    "href": "/wiki/CorVision"
   },
   {
     "source": "Common_Lisp",
@@ -1068,52 +1026,46 @@
     "href": "/wiki/Common_Lisp"
   },
   {
-    "source": "Draco",
-    "target": "ALGOL_68",
-    "count": 3,
-    "href": "/wiki/Draco_(programming_language)"
-  },
-  {
-    "source": "Draco",
-    "target": "Pascal",
-    "count": 3,
-    "href": "/wiki/Draco_(programming_language)"
-  },
-  {
-    "source": "Draco",
-    "target": "C",
-    "count": 3,
-    "href": "/wiki/Draco_(programming_language)"
-  },
-  {
-    "source": "DIGITAL_Command_Language",
-    "target": "Windows_PowerShell",
+    "source": "COWSEL",
+    "target": "POP-2",
     "count": 1,
-    "href": "/wiki/DIGITAL_Command_Language"
+    "href": "/wiki/COWSEL"
   },
   {
-    "source": "Deesel",
-    "target": "Java",
+    "source": "COMIT",
+    "target": "SNOBOL",
     "count": 1,
-    "href": "/wiki/Deesel"
+    "href": "/wiki/COMIT"
   },
   {
-    "source": "DIBOL",
-    "target": "BASIC",
+    "source": "Curl",
+    "target": "HTML",
     "count": 3,
-    "href": "/wiki/DIBOL"
+    "href": "/wiki/Curl_(programming_language)"
   },
   {
-    "source": "DIBOL",
-    "target": "Fortran",
+    "source": "Curl",
+    "target": "JavaScript",
     "count": 3,
-    "href": "/wiki/DIBOL"
+    "href": "/wiki/Curl_(programming_language)"
   },
   {
-    "source": "DIBOL",
-    "target": "COBOL",
+    "source": "Curl",
+    "target": "Lisp",
     "count": 3,
-    "href": "/wiki/DIBOL"
+    "href": "/wiki/Curl_(programming_language)"
+  },
+  {
+    "source": "Coral_66",
+    "target": "ALGOL",
+    "count": 2,
+    "href": "/wiki/Coral_66"
+  },
+  {
+    "source": "Coral_66",
+    "target": "JOVIAL",
+    "count": 2,
+    "href": "/wiki/Coral_66"
   },
   {
     "source": "Curry",
@@ -1126,6 +1078,18 @@
     "target": "C",
     "count": 1,
     "href": "/wiki/Cyclone_(programming_language)"
+  },
+  {
+    "source": "D",
+    "target": "MiniD",
+    "count": 2,
+    "href": "/wiki/D_(programming_language)"
+  },
+  {
+    "source": "D",
+    "target": "Vala",
+    "count": 2,
+    "href": "/wiki/D_(programming_language)"
   },
   {
     "source": "DBase",
@@ -1144,18 +1108,6 @@
     "target": "FoxPro",
     "count": 3,
     "href": "/wiki/DBase"
-  },
-  {
-    "source": "Delphi",
-    "target": "C_Sharp",
-    "count": 2,
-    "href": "/wiki/Delphi_(programming_language)"
-  },
-  {
-    "source": "Delphi",
-    "target": "Java",
-    "count": 2,
-    "href": "/wiki/Delphi_(programming_language)"
   },
   {
     "source": "Dart",
@@ -1188,16 +1140,64 @@
     "href": "/wiki/Dart_(programming_language)"
   },
   {
-    "source": "D",
-    "target": "MiniD",
-    "count": 2,
-    "href": "/wiki/D_(programming_language)"
+    "source": "DIGITAL_Command_Language",
+    "target": "Windows_PowerShell",
+    "count": 1,
+    "href": "/wiki/DIGITAL_Command_Language"
   },
   {
-    "source": "D",
-    "target": "Vala",
+    "source": "Deesel",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/Deesel"
+  },
+  {
+    "source": "DIBOL",
+    "target": "BASIC",
+    "count": 3,
+    "href": "/wiki/DIBOL"
+  },
+  {
+    "source": "DIBOL",
+    "target": "Fortran",
+    "count": 3,
+    "href": "/wiki/DIBOL"
+  },
+  {
+    "source": "DIBOL",
+    "target": "COBOL",
+    "count": 3,
+    "href": "/wiki/DIBOL"
+  },
+  {
+    "source": "Draco",
+    "target": "ALGOL_68",
+    "count": 3,
+    "href": "/wiki/Draco_(programming_language)"
+  },
+  {
+    "source": "Draco",
+    "target": "Pascal",
+    "count": 3,
+    "href": "/wiki/Draco_(programming_language)"
+  },
+  {
+    "source": "Draco",
+    "target": "C",
+    "count": 3,
+    "href": "/wiki/Draco_(programming_language)"
+  },
+  {
+    "source": "Delphi",
+    "target": "C_Sharp",
     "count": 2,
-    "href": "/wiki/D_(programming_language)"
+    "href": "/wiki/Delphi_(programming_language)"
+  },
+  {
+    "source": "Delphi",
+    "target": "Java",
+    "count": 2,
+    "href": "/wiki/Delphi_(programming_language)"
   },
   {
     "source": "Emerald",
@@ -1210,84 +1210,6 @@
     "target": "Singularity",
     "count": 2,
     "href": "/wiki/Emerald_(programming_language)"
-  },
-  {
-    "source": "Elixir",
-    "target": "Erlang",
-    "count": 3,
-    "href": "/wiki/Elixir_(programming_language)"
-  },
-  {
-    "source": "Elixir",
-    "target": "Ruby",
-    "count": 3,
-    "href": "/wiki/Elixir_(programming_language)"
-  },
-  {
-    "source": "Elixir",
-    "target": "Clojure",
-    "count": 3,
-    "href": "/wiki/Elixir_(programming_language)"
-  },
-  {
-    "source": "Dylan",
-    "target": "Goo",
-    "count": 4,
-    "href": "/wiki/Dylan_(programming_language)"
-  },
-  {
-    "source": "Dylan",
-    "target": "Lasso",
-    "count": 4,
-    "href": "/wiki/Dylan_(programming_language)"
-  },
-  {
-    "source": "Dylan",
-    "target": "Python",
-    "count": 4,
-    "href": "/wiki/Dylan_(programming_language)"
-  },
-  {
-    "source": "Dylan",
-    "target": "Ruby",
-    "count": 4,
-    "href": "/wiki/Dylan_(programming_language)"
-  },
-  {
-    "source": "Es",
-    "target": "Es",
-    "count": 2,
-    "href": "/wiki/Es_(Unix_shell)"
-  },
-  {
-    "source": "Es",
-    "target": "Inferno",
-    "count": 2,
-    "href": "/wiki/Es_(Unix_shell)"
-  },
-  {
-    "source": "Elm",
-    "target": "Haskell",
-    "count": 4,
-    "href": "/wiki/Elm_(programming_language)"
-  },
-  {
-    "source": "Elm",
-    "target": "Standard_ML",
-    "count": 4,
-    "href": "/wiki/Elm_(programming_language)"
-  },
-  {
-    "source": "Elm",
-    "target": "OCaml",
-    "count": 4,
-    "href": "/wiki/Elm_(programming_language)"
-  },
-  {
-    "source": "Elm",
-    "target": "F_Sharp",
-    "count": 4,
-    "href": "/wiki/Elm_(programming_language)"
   },
   {
     "source": "Erlang",
@@ -1338,52 +1260,22 @@
     "href": "/wiki/Epigram_(programming_language)"
   },
   {
-    "source": "ECMAScript",
-    "target": "Self",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
+    "source": "Elixir",
+    "target": "Erlang",
+    "count": 3,
+    "href": "/wiki/Elixir_(programming_language)"
   },
   {
-    "source": "ECMAScript",
-    "target": "HyperTalk",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
+    "source": "Elixir",
+    "target": "Ruby",
+    "count": 3,
+    "href": "/wiki/Elixir_(programming_language)"
   },
   {
-    "source": "ECMAScript",
-    "target": "AWK",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
-  },
-  {
-    "source": "ECMAScript",
-    "target": "C",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
-  },
-  {
-    "source": "ECMAScript",
-    "target": "Perl",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
-  },
-  {
-    "source": "ECMAScript",
-    "target": "Python",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
-  },
-  {
-    "source": "ECMAScript",
-    "target": "Java",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
-  },
-  {
-    "source": "ECMAScript",
-    "target": "Scheme",
-    "count": 8,
-    "href": "/wiki/ECMAScript"
+    "source": "Elixir",
+    "target": "Clojure",
+    "count": 3,
+    "href": "/wiki/Elixir_(programming_language)"
   },
   {
     "source": "Eiffel",
@@ -1440,22 +1332,112 @@
     "href": "/wiki/Eiffel_(programming_language)"
   },
   {
-    "source": "E",
-    "target": "Joule",
-    "count": 3,
-    "href": "/wiki/E_(programming_language)"
+    "source": "Dylan",
+    "target": "Goo",
+    "count": 4,
+    "href": "/wiki/Dylan_(programming_language)"
   },
   {
-    "source": "E",
-    "target": "index.html",
-    "count": 3,
-    "href": "/wiki/E_(programming_language)"
+    "source": "Dylan",
+    "target": "Lasso",
+    "count": 4,
+    "href": "/wiki/Dylan_(programming_language)"
   },
   {
-    "source": "E",
+    "source": "Dylan",
+    "target": "Python",
+    "count": 4,
+    "href": "/wiki/Dylan_(programming_language)"
+  },
+  {
+    "source": "Dylan",
+    "target": "Ruby",
+    "count": 4,
+    "href": "/wiki/Dylan_(programming_language)"
+  },
+  {
+    "source": "Elm",
+    "target": "Haskell",
+    "count": 4,
+    "href": "/wiki/Elm_(programming_language)"
+  },
+  {
+    "source": "Elm",
+    "target": "Standard_ML",
+    "count": 4,
+    "href": "/wiki/Elm_(programming_language)"
+  },
+  {
+    "source": "Elm",
+    "target": "OCaml",
+    "count": 4,
+    "href": "/wiki/Elm_(programming_language)"
+  },
+  {
+    "source": "Elm",
+    "target": "F_Sharp",
+    "count": 4,
+    "href": "/wiki/Elm_(programming_language)"
+  },
+  {
+    "source": "Es",
+    "target": "Es",
+    "count": 2,
+    "href": "/wiki/Es_(Unix_shell)"
+  },
+  {
+    "source": "Es",
+    "target": "Inferno",
+    "count": 2,
+    "href": "/wiki/Es_(Unix_shell)"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "Self",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "HyperTalk",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "AWK",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "C",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "Perl",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "Python",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
     "target": "Java",
-    "count": 3,
-    "href": "/wiki/E_(programming_language)"
+    "count": 8,
+    "href": "/wiki/ECMAScript"
+  },
+  {
+    "source": "ECMAScript",
+    "target": "Scheme",
+    "count": 8,
+    "href": "/wiki/ECMAScript"
   },
   {
     "source": "I",
@@ -1482,10 +1464,22 @@
     "href": "/wiki/PL/I"
   },
   {
-    "source": "Escher",
-    "target": "Simple_theory_of_types",
-    "count": 1,
-    "href": "/wiki/Escher_(programming_language)"
+    "source": "E",
+    "target": "Joule",
+    "count": 3,
+    "href": "/wiki/E_(programming_language)"
+  },
+  {
+    "source": "E",
+    "target": "index.html",
+    "count": 3,
+    "href": "/wiki/E_(programming_language)"
+  },
+  {
+    "source": "E",
+    "target": "Java",
+    "count": 3,
+    "href": "/wiki/E_(programming_language)"
   },
   {
     "source": "Euclid",
@@ -1504,18 +1498,6 @@
     "target": "Turing",
     "count": 3,
     "href": "/wiki/Euclid_(programming_language)"
-  },
-  {
-    "source": "Etoys",
-    "target": "Croquet_Project",
-    "count": 2,
-    "href": "/wiki/Etoys_(programming_language)"
-  },
-  {
-    "source": "Etoys",
-    "target": "Scratch",
-    "count": 2,
-    "href": "/wiki/Etoys_(programming_language)"
   },
   {
     "source": "Fancy",
@@ -1546,18 +1528,6 @@
     "target": "ALGOL_60",
     "count": 1,
     "href": "/wiki/Euler_(programming_language)"
-  },
-  {
-    "source": "Felix",
-    "target": "ML",
-    "count": 2,
-    "href": "/wiki/Felix_(programming_language)"
-  },
-  {
-    "source": "Felix",
-    "target": "C++",
-    "count": 2,
-    "href": "/wiki/Felix_(programming_language)"
   },
   {
     "source": "Ferite",
@@ -1602,46 +1572,34 @@
     "href": "/wiki/Ferite"
   },
   {
-    "source": "F_Sharp",
-    "target": "F*",
+    "source": "Escher",
+    "target": "Simple_theory_of_types",
+    "count": 1,
+    "href": "/wiki/Escher_(programming_language)"
+  },
+  {
+    "source": "Felix",
+    "target": "ML",
     "count": 2,
-    "href": "/wiki/F_Sharp_(programming_language)"
+    "href": "/wiki/Felix_(programming_language)"
   },
   {
-    "source": "F_Sharp",
-    "target": "LiveScript",
+    "source": "Felix",
+    "target": "C++",
     "count": 2,
-    "href": "/wiki/F_Sharp_(programming_language)"
+    "href": "/wiki/Felix_(programming_language)"
   },
   {
-    "source": "Fantom",
-    "target": "C_Sharp",
-    "count": 5,
-    "href": "/wiki/Fantom_(programming_language)"
+    "source": "Etoys",
+    "target": "Croquet_Project",
+    "count": 2,
+    "href": "/wiki/Etoys_(programming_language)"
   },
   {
-    "source": "Fantom",
-    "target": "Java",
-    "count": 5,
-    "href": "/wiki/Fantom_(programming_language)"
-  },
-  {
-    "source": "Fantom",
-    "target": "Scala",
-    "count": 5,
-    "href": "/wiki/Fantom_(programming_language)"
-  },
-  {
-    "source": "Fantom",
-    "target": "Ruby",
-    "count": 5,
-    "href": "/wiki/Fantom_(programming_language)"
-  },
-  {
-    "source": "Fantom",
-    "target": "Erlang",
-    "count": 5,
-    "href": "/wiki/Fantom_(programming_language)"
+    "source": "Etoys",
+    "target": "Scratch",
+    "count": 2,
+    "href": "/wiki/Etoys_(programming_language)"
   },
   {
     "source": "Falcon",
@@ -1692,6 +1650,48 @@
     "href": "/wiki/Falcon_(programming_language)"
   },
   {
+    "source": "Fantom",
+    "target": "C_Sharp",
+    "count": 5,
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  {
+    "source": "Fantom",
+    "target": "Java",
+    "count": 5,
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  {
+    "source": "Fantom",
+    "target": "Scala",
+    "count": 5,
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  {
+    "source": "Fantom",
+    "target": "Ruby",
+    "count": 5,
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  {
+    "source": "Fantom",
+    "target": "Erlang",
+    "count": 5,
+    "href": "/wiki/Fantom_(programming_language)"
+  },
+  {
+    "source": "F_Sharp",
+    "target": "F*",
+    "count": 2,
+    "href": "/wiki/F_Sharp_(programming_language)"
+  },
+  {
+    "source": "F_Sharp",
+    "target": "LiveScript",
+    "count": 2,
+    "href": "/wiki/F_Sharp_(programming_language)"
+  },
+  {
     "source": "FL",
     "target": "J",
     "count": 1,
@@ -1716,6 +1716,12 @@
     "href": "/wiki/FFP_(programming_language)"
   },
   {
+    "source": "FLOW-MATIC",
+    "target": "COBOL",
+    "count": 1,
+    "href": "/wiki/FLOW-MATIC"
+  },
+  {
     "source": "FP",
     "target": "FL",
     "count": 3,
@@ -1734,10 +1740,34 @@
     "href": "/wiki/FP_(programming_language)"
   },
   {
-    "source": "FLOW-MATIC",
-    "target": "COBOL",
-    "count": 1,
-    "href": "/wiki/FLOW-MATIC"
+    "source": "F-Script",
+    "target": "Smalltalk",
+    "count": 2,
+    "href": "/wiki/F-Script_(programming_language)"
+  },
+  {
+    "source": "F-Script",
+    "target": "APL",
+    "count": 2,
+    "href": "/wiki/F-Script_(programming_language)"
+  },
+  {
+    "source": "Fortress",
+    "target": "Fortran",
+    "count": 3,
+    "href": "/wiki/Fortress_(programming_language)"
+  },
+  {
+    "source": "Fortress",
+    "target": "Scala",
+    "count": 3,
+    "href": "/wiki/Fortress_(programming_language)"
+  },
+  {
+    "source": "Fortress",
+    "target": "Haskell",
+    "count": 3,
+    "href": "/wiki/Fortress_(programming_language)"
   },
   {
     "source": "Forth",
@@ -1806,46 +1836,10 @@
     "href": "/wiki/Fortran"
   },
   {
-    "source": "F-Script",
-    "target": "Smalltalk",
-    "count": 2,
-    "href": "/wiki/F-Script_(programming_language)"
-  },
-  {
-    "source": "F-Script",
-    "target": "APL",
-    "count": 2,
-    "href": "/wiki/F-Script_(programming_language)"
-  },
-  {
-    "source": "Fortress",
-    "target": "Fortran",
-    "count": 3,
-    "href": "/wiki/Fortress_(programming_language)"
-  },
-  {
-    "source": "Fortress",
-    "target": "Scala",
-    "count": 3,
-    "href": "/wiki/Fortress_(programming_language)"
-  },
-  {
-    "source": "Fortress",
-    "target": "Haskell",
-    "count": 3,
-    "href": "/wiki/Fortress_(programming_language)"
-  },
-  {
     "source": "GNU_E",
     "target": "C++",
     "count": 1,
     "href": "/wiki/GNU_E"
-  },
-  {
-    "source": "Godiva",
-    "target": "Java",
-    "count": 1,
-    "href": "/wiki/Godiva_(programming_language)"
   },
   {
     "source": "Go!",
@@ -1876,6 +1870,18 @@
     "target": "Object_Pascal",
     "count": 4,
     "href": "/wiki/Genie_(programming_language)"
+  },
+  {
+    "source": "Generic_Java",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/Generic_Java"
+  },
+  {
+    "source": "Godiva",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/Godiva_(programming_language)"
   },
   {
     "source": "Go",
@@ -1920,10 +1926,82 @@
     "href": "/wiki/Go_(programming_language)"
   },
   {
-    "source": "Generic_Java",
-    "target": "Java",
+    "source": "S",
+    "target": "C",
+    "count": 3,
+    "href": "/wiki/S_(programming_language)"
+  },
+  {
+    "source": "S",
+    "target": "APL",
+    "count": 3,
+    "href": "/wiki/S_(programming_language)"
+  },
+  {
+    "source": "S",
+    "target": "Fortran",
+    "count": 3,
+    "href": "/wiki/S_(programming_language)"
+  },
+  {
+    "source": "Hop",
+    "target": "Scheme",
     "count": 1,
-    "href": "/wiki/Generic_Java"
+    "href": "/wiki/Hop_(software)"
+  },
+  {
+    "source": "Harbour",
+    "target": "XHarbour",
+    "count": 1,
+    "href": "/wiki/Harbour_(software)"
+  },
+  {
+    "source": "MAD",
+    "target": "ALGOL_58",
+    "count": 2,
+    "href": "/wiki/MAD_(programming_language)"
+  },
+  {
+    "source": "MAD",
+    "target": "ALGOL_58",
+    "count": 2,
+    "href": "/wiki/MAD_(programming_language)"
+  },
+  {
+    "source": "Groovy",
+    "target": "Kotlin",
+    "count": 1,
+    "href": "/wiki/Groovy_(programming_language)"
+  },
+  {
+    "source": "Haxe",
+    "target": "ActionScript",
+    "count": 3,
+    "href": "/wiki/Haxe"
+  },
+  {
+    "source": "Haxe",
+    "target": "OCaml",
+    "count": 3,
+    "href": "/wiki/Haxe"
+  },
+  {
+    "source": "Haxe",
+    "target": "C_Sharp",
+    "count": 3,
+    "href": "/wiki/Haxe"
+  },
+  {
+    "source": "Goo",
+    "target": "Scheme",
+    "count": 2,
+    "href": "/wiki/Goo_(programming_language)"
+  },
+  {
+    "source": "Goo",
+    "target": "Dylan",
+    "count": 2,
+    "href": "/wiki/Goo_(programming_language)"
   },
   {
     "source": "Hartmann_pipeline",
@@ -1972,78 +2050,6 @@
     "target": "C_Sharp",
     "count": 6,
     "href": "/wiki/Gosu_(programming_language)"
-  },
-  {
-    "source": "S",
-    "target": "C",
-    "count": 3,
-    "href": "/wiki/S_(programming_language)"
-  },
-  {
-    "source": "S",
-    "target": "APL",
-    "count": 3,
-    "href": "/wiki/S_(programming_language)"
-  },
-  {
-    "source": "S",
-    "target": "Fortran",
-    "count": 3,
-    "href": "/wiki/S_(programming_language)"
-  },
-  {
-    "source": "Hop",
-    "target": "Scheme",
-    "count": 1,
-    "href": "/wiki/Hop_(software)"
-  },
-  {
-    "source": "MAD",
-    "target": "ALGOL_58",
-    "count": 2,
-    "href": "/wiki/MAD_(programming_language)"
-  },
-  {
-    "source": "MAD",
-    "target": "ALGOL_58",
-    "count": 2,
-    "href": "/wiki/MAD_(programming_language)"
-  },
-  {
-    "source": "Haxe",
-    "target": "ActionScript",
-    "count": 3,
-    "href": "/wiki/Haxe"
-  },
-  {
-    "source": "Haxe",
-    "target": "OCaml",
-    "count": 3,
-    "href": "/wiki/Haxe"
-  },
-  {
-    "source": "Haxe",
-    "target": "C_Sharp",
-    "count": 3,
-    "href": "/wiki/Haxe"
-  },
-  {
-    "source": "Groovy",
-    "target": "Kotlin",
-    "count": 1,
-    "href": "/wiki/Groovy_(programming_language)"
-  },
-  {
-    "source": "Goo",
-    "target": "Scheme",
-    "count": 2,
-    "href": "/wiki/Goo_(programming_language)"
-  },
-  {
-    "source": "Goo",
-    "target": "Dylan",
-    "count": 2,
-    "href": "/wiki/Goo_(programming_language)"
   },
   {
     "source": "Haskell",
@@ -2220,12 +2226,6 @@
     "href": "/wiki/Haskell_(programming_language)"
   },
   {
-    "source": "Harbour",
-    "target": "XHarbour",
-    "count": 1,
-    "href": "/wiki/Harbour_(software)"
-  },
-  {
     "source": "Idris",
     "target": "Agda",
     "count": 5,
@@ -2256,10 +2256,40 @@
     "href": "/wiki/Idris_(programming_language)"
   },
   {
-    "source": "Information_Processing_Language",
-    "target": "Lisp",
-    "count": 1,
-    "href": "/wiki/Information_Processing_Language"
+    "source": "J",
+    "target": "NumPy",
+    "count": 2,
+    "href": "/wiki/J_(programming_language)"
+  },
+  {
+    "source": "J",
+    "target": "SuperCollider",
+    "count": 2,
+    "href": "/wiki/J_(programming_language)"
+  },
+  {
+    "source": "Icon",
+    "target": "Unicon_programming_language",
+    "count": 2,
+    "href": "/wiki/Icon_(programming_language)"
+  },
+  {
+    "source": "Icon",
+    "target": "Python",
+    "count": 2,
+    "href": "/wiki/Icon_(programming_language)"
+  },
+  {
+    "source": "HyperTalk",
+    "target": "LiveCode",
+    "count": 2,
+    "href": "/wiki/HyperTalk"
+  },
+  {
+    "source": "HyperTalk",
+    "target": "ECMAScript",
+    "count": 2,
+    "href": "/wiki/HyperTalk"
   },
   {
     "source": "Ioke",
@@ -2286,46 +2316,10 @@
     "href": "/wiki/Ioke_(programming_language)"
   },
   {
-    "source": "Io",
-    "target": "Ioke",
-    "count": 2,
-    "href": "/wiki/Io_(programming_language)"
-  },
-  {
-    "source": "Io",
-    "target": "Fancy",
-    "count": 2,
-    "href": "/wiki/Io_(programming_language)"
-  },
-  {
-    "source": "Icon",
-    "target": "Unicon_programming_language",
-    "count": 2,
-    "href": "/wiki/Icon_(programming_language)"
-  },
-  {
-    "source": "Icon",
-    "target": "Python",
-    "count": 2,
-    "href": "/wiki/Icon_(programming_language)"
-  },
-  {
-    "source": "J",
-    "target": "NumPy",
-    "count": 2,
-    "href": "/wiki/J_(programming_language)"
-  },
-  {
-    "source": "J",
-    "target": "SuperCollider",
-    "count": 2,
-    "href": "/wiki/J_(programming_language)"
-  },
-  {
-    "source": "IBM_RPG",
-    "target": "IBM_RPG_II",
+    "source": "Information_Processing_Language",
+    "target": "Lisp",
     "count": 1,
-    "href": "/wiki/IBM_RPG"
+    "href": "/wiki/Information_Processing_Language"
   },
   {
     "source": "ISWIM",
@@ -2364,64 +2358,22 @@
     "href": "/wiki/ISWIM"
   },
   {
-    "source": "HyperTalk",
-    "target": "LiveCode",
+    "source": "Io",
+    "target": "Ioke",
     "count": 2,
-    "href": "/wiki/HyperTalk"
+    "href": "/wiki/Io_(programming_language)"
   },
   {
-    "source": "HyperTalk",
-    "target": "ECMAScript",
+    "source": "Io",
+    "target": "Fancy",
     "count": 2,
-    "href": "/wiki/HyperTalk"
+    "href": "/wiki/Io_(programming_language)"
   },
   {
-    "source": "JOSS",
-    "target": "BASIC",
-    "count": 5,
-    "href": "/wiki/JOSS"
-  },
-  {
-    "source": "JOSS",
-    "target": "TELCOMP",
-    "count": 5,
-    "href": "/wiki/JOSS"
-  },
-  {
-    "source": "JOSS",
-    "target": "CAL",
-    "count": 5,
-    "href": "/wiki/JOSS"
-  },
-  {
-    "source": "JOSS",
-    "target": "FOCAL",
-    "count": 5,
-    "href": "/wiki/JOSS"
-  },
-  {
-    "source": "JOSS",
-    "target": "MUMPS",
-    "count": 5,
-    "href": "/wiki/JOSS"
-  },
-  {
-    "source": "JOVIAL",
-    "target": "Coral_66",
-    "count": 2,
-    "href": "/wiki/JOVIAL"
-  },
-  {
-    "source": "JOVIAL",
-    "target": "SYMPL",
-    "count": 2,
-    "href": "/wiki/JOVIAL"
-  },
-  {
-    "source": "Joy",
-    "target": "Factor",
+    "source": "IBM_RPG",
+    "target": "IBM_RPG_II",
     "count": 1,
-    "href": "/wiki/Joy_(programming_language)"
+    "href": "/wiki/IBM_RPG"
   },
   {
     "source": "J_Sharp",
@@ -2434,78 +2386,6 @@
     "target": "Visual_J++",
     "count": 2,
     "href": "/wiki/J_Sharp"
-  },
-  {
-    "source": "JScript_.NET",
-    "target": "JScript",
-    "count": 2,
-    "href": "/wiki/JScript_.NET"
-  },
-  {
-    "source": "JScript_.NET",
-    "target": "ECMAScript",
-    "count": 2,
-    "href": "/wiki/JScript_.NET"
-  },
-  {
-    "source": "Julia",
-    "target": "MATLAB",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Scheme",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Common_Lisp",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Lisp",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "C",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Python",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Perl",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Julia",
-    "target": "Ruby",
-    "count": 8,
-    "href": "/wiki/Julia_(programming_language)"
-  },
-  {
-    "source": "Joule",
-    "target": "index.html",
-    "count": 1,
-    "href": "/wiki/Joule_(programming_language)"
-  },
-  {
-    "source": "Join_Java",
-    "target": "Java",
-    "count": 1,
-    "href": "/wiki/Join_Java"
   },
   {
     "source": "Java",
@@ -2652,16 +2532,124 @@
     "href": "/wiki/JavaScript"
   },
   {
-    "source": "Kojo",
-    "target": "Logo",
-    "count": 2,
-    "href": "/wiki/Kojo_(programming_language)"
+    "source": "Joule",
+    "target": "index.html",
+    "count": 1,
+    "href": "/wiki/Joule_(programming_language)"
   },
   {
-    "source": "Kojo",
-    "target": "Processing",
+    "source": "JOVIAL",
+    "target": "Coral_66",
     "count": 2,
-    "href": "/wiki/Kojo_(programming_language)"
+    "href": "/wiki/JOVIAL"
+  },
+  {
+    "source": "JOVIAL",
+    "target": "SYMPL",
+    "count": 2,
+    "href": "/wiki/JOVIAL"
+  },
+  {
+    "source": "Join_Java",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/Join_Java"
+  },
+  {
+    "source": "JOSS",
+    "target": "BASIC",
+    "count": 5,
+    "href": "/wiki/JOSS"
+  },
+  {
+    "source": "JOSS",
+    "target": "TELCOMP",
+    "count": 5,
+    "href": "/wiki/JOSS"
+  },
+  {
+    "source": "JOSS",
+    "target": "CAL",
+    "count": 5,
+    "href": "/wiki/JOSS"
+  },
+  {
+    "source": "JOSS",
+    "target": "FOCAL",
+    "count": 5,
+    "href": "/wiki/JOSS"
+  },
+  {
+    "source": "JOSS",
+    "target": "MUMPS",
+    "count": 5,
+    "href": "/wiki/JOSS"
+  },
+  {
+    "source": "JScript_.NET",
+    "target": "JScript",
+    "count": 2,
+    "href": "/wiki/JScript_.NET"
+  },
+  {
+    "source": "JScript_.NET",
+    "target": "ECMAScript",
+    "count": 2,
+    "href": "/wiki/JScript_.NET"
+  },
+  {
+    "source": "Joy",
+    "target": "Factor",
+    "count": 1,
+    "href": "/wiki/Joy_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "MATLAB",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Scheme",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Common_Lisp",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Lisp",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "C",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Python",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Perl",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
+  },
+  {
+    "source": "Julia",
+    "target": "Ruby",
+    "count": 8,
+    "href": "/wiki/Julia_(programming_language)"
   },
   {
     "source": "Karel",
@@ -2682,16 +2670,52 @@
     "href": "/wiki/Karel_(programming_language)"
   },
   {
-    "source": "Kent_Recursive_Calculator",
-    "target": "Miranda_programming_language",
+    "source": "Kojo",
+    "target": "Logo",
+    "count": 2,
+    "href": "/wiki/Kojo_(programming_language)"
+  },
+  {
+    "source": "Kojo",
+    "target": "Processing",
+    "count": 2,
+    "href": "/wiki/Kojo_(programming_language)"
+  },
+  {
+    "source": "Karel++",
+    "target": "Karel",
     "count": 1,
-    "href": "/wiki/Kent_Recursive_Calculator"
+    "href": "/wiki/Karel%2B%2B"
+  },
+  {
+    "source": "K",
+    "target": "A+",
+    "count": 3,
+    "href": "/wiki/K_(programming_language)"
+  },
+  {
+    "source": "K",
+    "target": "APL_programming_language",
+    "count": 3,
+    "href": "/wiki/K_(programming_language)"
+  },
+  {
+    "source": "K",
+    "target": "Scheme",
+    "count": 3,
+    "href": "/wiki/K_(programming_language)"
   },
   {
     "source": "KRL",
     "target": "KM_programming_language",
     "count": 1,
     "href": "/wiki/KRL_(programming_language)"
+  },
+  {
+    "source": "Kent_Recursive_Calculator",
+    "target": "Miranda_programming_language",
+    "count": 1,
+    "href": "/wiki/Kent_Recursive_Calculator"
   },
   {
     "source": "Kotlin",
@@ -2724,24 +2748,6 @@
     "href": "/wiki/Kotlin_(programming_language)"
   },
   {
-    "source": "K",
-    "target": "A+",
-    "count": 3,
-    "href": "/wiki/K_(programming_language)"
-  },
-  {
-    "source": "K",
-    "target": "APL_programming_language",
-    "count": 3,
-    "href": "/wiki/K_(programming_language)"
-  },
-  {
-    "source": "K",
-    "target": "Scheme",
-    "count": 3,
-    "href": "/wiki/K_(programming_language)"
-  },
-  {
     "source": "Lasso",
     "target": "Dylan",
     "count": 3,
@@ -2758,30 +2764,6 @@
     "target": "Scala",
     "count": 3,
     "href": "/wiki/Lasso_(programming_language)"
-  },
-  {
-    "source": "Karel++",
-    "target": "Karel",
-    "count": 1,
-    "href": "/wiki/Karel%2B%2B"
-  },
-  {
-    "source": "Limbo",
-    "target": "Stackless_Python",
-    "count": 3,
-    "href": "/wiki/Limbo_(programming_language)"
-  },
-  {
-    "source": "Limbo",
-    "target": "Go",
-    "count": 3,
-    "href": "/wiki/Limbo_(programming_language)"
-  },
-  {
-    "source": "Limbo",
-    "target": "Rust",
-    "count": 3,
-    "href": "/wiki/Limbo_(programming_language)"
   },
   {
     "source": "Little_b",
@@ -2806,6 +2788,24 @@
     "target": "Eiffel",
     "count": 3,
     "href": "/wiki/Lisaac"
+  },
+  {
+    "source": "Limbo",
+    "target": "Stackless_Python",
+    "count": 3,
+    "href": "/wiki/Limbo_(programming_language)"
+  },
+  {
+    "source": "Limbo",
+    "target": "Go",
+    "count": 3,
+    "href": "/wiki/Limbo_(programming_language)"
+  },
+  {
+    "source": "Limbo",
+    "target": "Rust",
+    "count": 3,
+    "href": "/wiki/Limbo_(programming_language)"
   },
   {
     "source": "Lisp",
@@ -2988,48 +2988,6 @@
     "href": "/wiki/Lisp_(programming_language)"
   },
   {
-    "source": "Lucid",
-    "target": "SISAL",
-    "count": 3,
-    "href": "/wiki/Lucid_(programming_language)"
-  },
-  {
-    "source": "Lucid",
-    "target": "PureData",
-    "count": 3,
-    "href": "/wiki/Lucid_(programming_language)"
-  },
-  {
-    "source": "Lucid",
-    "target": "Lustre",
-    "count": 3,
-    "href": "/wiki/Lucid_(programming_language)"
-  },
-  {
-    "source": "LiveScript",
-    "target": "JavaScript",
-    "count": 4,
-    "href": "/wiki/LiveScript"
-  },
-  {
-    "source": "LiveScript",
-    "target": "Haskell",
-    "count": 4,
-    "href": "/wiki/LiveScript"
-  },
-  {
-    "source": "LiveScript",
-    "target": "CoffeeScript",
-    "count": 4,
-    "href": "/wiki/LiveScript"
-  },
-  {
-    "source": "LiveScript",
-    "target": "F_Sharp",
-    "count": 4,
-    "href": "/wiki/LiveScript"
-  },
-  {
     "source": "Logtalk",
     "target": "Prolog",
     "count": 6,
@@ -3102,16 +3060,58 @@
     "href": "/wiki/Logo_(programming_language)"
   },
   {
-    "source": "Linden_Scripting_Language",
-    "target": "C",
-    "count": 1,
-    "href": "/wiki/Linden_Scripting_Language"
-  },
-  {
     "source": "LiveCode",
     "target": "HyperTalk",
     "count": 1,
     "href": "/wiki/LiveCode"
+  },
+  {
+    "source": "LPC",
+    "target": "Pike",
+    "count": 1,
+    "href": "/wiki/LPC_(programming_language)"
+  },
+  {
+    "source": "LiveScript",
+    "target": "JavaScript",
+    "count": 4,
+    "href": "/wiki/LiveScript"
+  },
+  {
+    "source": "LiveScript",
+    "target": "Haskell",
+    "count": 4,
+    "href": "/wiki/LiveScript"
+  },
+  {
+    "source": "LiveScript",
+    "target": "CoffeeScript",
+    "count": 4,
+    "href": "/wiki/LiveScript"
+  },
+  {
+    "source": "LiveScript",
+    "target": "F_Sharp",
+    "count": 4,
+    "href": "/wiki/LiveScript"
+  },
+  {
+    "source": "Lucid",
+    "target": "SISAL",
+    "count": 3,
+    "href": "/wiki/Lucid_(programming_language)"
+  },
+  {
+    "source": "Lucid",
+    "target": "PureData",
+    "count": 3,
+    "href": "/wiki/Lucid_(programming_language)"
+  },
+  {
+    "source": "Lucid",
+    "target": "Lustre",
+    "count": 3,
+    "href": "/wiki/Lucid_(programming_language)"
   },
   {
     "source": "M",
@@ -3132,10 +3132,10 @@
     "href": "/wiki/PL/M"
   },
   {
-    "source": "LPC",
-    "target": "Pike",
+    "source": "Linden_Scripting_Language",
+    "target": "C",
     "count": 1,
-    "href": "/wiki/LPC_(programming_language)"
+    "href": "/wiki/Linden_Scripting_Language"
   },
   {
     "source": "Lua",
@@ -3222,22 +3222,28 @@
     "href": "/wiki/Mirah_(programming_language)"
   },
   {
-    "source": "Miranda",
-    "target": "Clean",
-    "count": 2,
-    "href": "/wiki/Miranda_(programming_language)"
+    "source": "MIVA_Script",
+    "target": "C",
+    "count": 4,
+    "href": "/wiki/MIVA_Script"
   },
   {
-    "source": "Miranda",
-    "target": "Haskell",
-    "count": 2,
-    "href": "/wiki/Miranda_(programming_language)"
+    "source": "MIVA_Script",
+    "target": "Perl",
+    "count": 4,
+    "href": "/wiki/MIVA_Script"
   },
   {
-    "source": "Modula",
-    "target": "Pascal",
-    "count": 1,
-    "href": "/wiki/Modula"
+    "source": "MIVA_Script",
+    "target": "Java",
+    "count": 4,
+    "href": "/wiki/MIVA_Script"
+  },
+  {
+    "source": "MIVA_Script",
+    "target": "C++",
+    "count": 4,
+    "href": "/wiki/MIVA_Script"
   },
   {
     "source": "ML",
@@ -3300,6 +3306,30 @@
     "href": "/wiki/ML_(programming_language)"
   },
   {
+    "source": "Miranda",
+    "target": "Clean",
+    "count": 2,
+    "href": "/wiki/Miranda_(programming_language)"
+  },
+  {
+    "source": "Miranda",
+    "target": "Haskell",
+    "count": 2,
+    "href": "/wiki/Miranda_(programming_language)"
+  },
+  {
+    "source": "MOO",
+    "target": "CoolMUD",
+    "count": 2,
+    "href": "/wiki/MOO_(programming_language)"
+  },
+  {
+    "source": "MOO",
+    "target": "ColdC",
+    "count": 2,
+    "href": "/wiki/MOO_(programming_language)"
+  },
+  {
     "source": "Modula-3",
     "target": "Java",
     "count": 4,
@@ -3324,46 +3354,28 @@
     "href": "/wiki/Modula-3"
   },
   {
+    "source": "Modula",
+    "target": "Pascal",
+    "count": 1,
+    "href": "/wiki/Modula"
+  },
+  {
     "source": "MetaL",
     "target": "XML",
     "count": 1,
     "href": "/wiki/MetaL_(programming_language)"
   },
   {
-    "source": "MIVA_Script",
-    "target": "C",
-    "count": 4,
-    "href": "/wiki/MIVA_Script"
-  },
-  {
-    "source": "MIVA_Script",
-    "target": "Perl",
-    "count": 4,
-    "href": "/wiki/MIVA_Script"
-  },
-  {
-    "source": "MIVA_Script",
-    "target": "Java",
-    "count": 4,
-    "href": "/wiki/MIVA_Script"
-  },
-  {
-    "source": "MIVA_Script",
-    "target": "C++",
-    "count": 4,
-    "href": "/wiki/MIVA_Script"
-  },
-  {
-    "source": "MOO",
-    "target": "CoolMUD",
+    "source": "Nial",
+    "target": "APL_programming_language",
     "count": 2,
-    "href": "/wiki/MOO_(programming_language)"
+    "href": "/wiki/Nial"
   },
   {
-    "source": "MOO",
-    "target": "ColdC",
+    "source": "Nial",
+    "target": "Lisp_programming_language",
     "count": 2,
-    "href": "/wiki/MOO_(programming_language)"
+    "href": "/wiki/Nial"
   },
   {
     "source": "Newspeak",
@@ -3382,42 +3394,6 @@
     "target": "BETA",
     "count": 3,
     "href": "/wiki/Newspeak_(programming_language)"
-  },
-  {
-    "source": "NetRexx",
-    "target": "I",
-    "count": 4,
-    "href": "/wiki/NetRexx"
-  },
-  {
-    "source": "NetRexx",
-    "target": "REXX",
-    "count": 4,
-    "href": "/wiki/NetRexx"
-  },
-  {
-    "source": "NetRexx",
-    "target": "Object_REXX",
-    "count": 4,
-    "href": "/wiki/NetRexx"
-  },
-  {
-    "source": "NetRexx",
-    "target": "Java",
-    "count": 4,
-    "href": "/wiki/NetRexx"
-  },
-  {
-    "source": "NetLogo",
-    "target": "StarLogo",
-    "count": 2,
-    "href": "/wiki/NetLogo"
-  },
-  {
-    "source": "NetLogo",
-    "target": "Logo",
-    "count": 2,
-    "href": "/wiki/NetLogo"
   },
   {
     "source": "Nemerle",
@@ -3456,16 +3432,40 @@
     "href": "/wiki/NewtonScript"
   },
   {
-    "source": "Nial",
-    "target": "APL_programming_language",
-    "count": 2,
-    "href": "/wiki/Nial"
+    "source": "NetRexx",
+    "target": "I",
+    "count": 4,
+    "href": "/wiki/NetRexx"
   },
   {
-    "source": "Nial",
-    "target": "Lisp_programming_language",
+    "source": "NetRexx",
+    "target": "REXX",
+    "count": 4,
+    "href": "/wiki/NetRexx"
+  },
+  {
+    "source": "NetRexx",
+    "target": "Object_REXX",
+    "count": 4,
+    "href": "/wiki/NetRexx"
+  },
+  {
+    "source": "NetRexx",
+    "target": "Java",
+    "count": 4,
+    "href": "/wiki/NetRexx"
+  },
+  {
+    "source": "NetLogo",
+    "target": "StarLogo",
     "count": 2,
-    "href": "/wiki/Nial"
+    "href": "/wiki/NetLogo"
+  },
+  {
+    "source": "NetLogo",
+    "target": "Logo",
+    "count": 2,
+    "href": "/wiki/NetLogo"
   },
   {
     "source": "Nu",
@@ -3484,36 +3484,6 @@
     "target": "Ruby",
     "count": 3,
     "href": "/wiki/Nu_(programming_language)"
-  },
-  {
-    "source": "Obliq",
-    "target": "Modula-3",
-    "count": 3,
-    "href": "/wiki/Obliq"
-  },
-  {
-    "source": "Obliq",
-    "target": "Self",
-    "count": 3,
-    "href": "/wiki/Obliq"
-  },
-  {
-    "source": "Obliq",
-    "target": "Oberon",
-    "count": 3,
-    "href": "/wiki/Obliq"
-  },
-  {
-    "source": "Objective-J",
-    "target": "Objective-C",
-    "count": 2,
-    "href": "/wiki/Objective-J"
-  },
-  {
-    "source": "Objective-J",
-    "target": "JavaScript",
-    "count": 2,
-    "href": "/wiki/Objective-J"
   },
   {
     "source": "NWScript",
@@ -3538,6 +3508,60 @@
     "target": "Java",
     "count": 2,
     "href": "/wiki/Object_Pascal"
+  },
+  {
+    "source": "Objective-J",
+    "target": "Objective-C",
+    "count": 2,
+    "href": "/wiki/Objective-J"
+  },
+  {
+    "source": "Objective-J",
+    "target": "JavaScript",
+    "count": 2,
+    "href": "/wiki/Objective-J"
+  },
+  {
+    "source": "Object_REXX",
+    "target": "NetRexx",
+    "count": 1,
+    "href": "/wiki/Object_REXX"
+  },
+  {
+    "source": "Oberon",
+    "target": "Oberon-2",
+    "count": 3,
+    "href": "/wiki/Oberon_(programming_language)"
+  },
+  {
+    "source": "Oberon",
+    "target": "Zonnon",
+    "count": 3,
+    "href": "/wiki/Oberon_(programming_language)"
+  },
+  {
+    "source": "Oberon",
+    "target": "Go",
+    "count": 3,
+    "href": "/wiki/Oberon_(programming_language)"
+  },
+  {
+    "source": "Obliq",
+    "target": "Modula-3",
+    "count": 3,
+    "href": "/wiki/Obliq"
+  },
+  {
+    "source": "Obliq",
+    "target": "Self",
+    "count": 3,
+    "href": "/wiki/Obliq"
+  },
+  {
+    "source": "Obliq",
+    "target": "Oberon",
+    "count": 3,
+    "href": "/wiki/Obliq"
   },
   {
     "source": "Objective-C",
@@ -3594,70 +3618,10 @@
     "href": "/wiki/Nickle_(programming_language)"
   },
   {
-    "source": "Object_REXX",
-    "target": "NetRexx",
+    "source": "Occam",
+    "target": "Ease",
     "count": 1,
-    "href": "/wiki/Object_REXX"
-  },
-  {
-    "source": "Oberon",
-    "target": "Oberon-2",
-    "count": 3,
-    "href": "/wiki/Oberon_(programming_language)"
-  },
-  {
-    "source": "Oberon",
-    "target": "Zonnon",
-    "count": 3,
-    "href": "/wiki/Oberon_(programming_language)"
-  },
-  {
-    "source": "Oberon",
-    "target": "Go",
-    "count": 3,
-    "href": "/wiki/Oberon_(programming_language)"
-  },
-  {
-    "source": "Orc",
-    "target": "Haskell",
-    "count": 4,
-    "href": "/wiki/Orc_(programming_language)"
-  },
-  {
-    "source": "Orc",
-    "target": "ML",
-    "count": 4,
-    "href": "/wiki/Orc_(programming_language)"
-  },
-  {
-    "source": "Orc",
-    "target": "Oz",
-    "count": 4,
-    "href": "/wiki/Orc_(programming_language)"
-  },
-  {
-    "source": "Orc",
-    "target": "Smalltalk",
-    "count": 4,
-    "href": "/wiki/Orc_(programming_language)"
-  },
-  {
-    "source": "Opa",
-    "target": "OCaml",
-    "count": 3,
-    "href": "/wiki/Opa_(programming_language)"
-  },
-  {
-    "source": "Opa",
-    "target": "Erlang",
-    "count": 3,
-    "href": "/wiki/Opa_(programming_language)"
-  },
-  {
-    "source": "Opa",
-    "target": "JavaScript",
-    "count": 3,
-    "href": "/wiki/Opa_(programming_language)"
+    "href": "/wiki/Occam_(programming_language)"
   },
   {
     "source": "OCaml",
@@ -3690,6 +3654,24 @@
     "href": "/wiki/OCaml"
   },
   {
+    "source": "Opa",
+    "target": "OCaml",
+    "count": 3,
+    "href": "/wiki/Opa_(programming_language)"
+  },
+  {
+    "source": "Opa",
+    "target": "Erlang",
+    "count": 3,
+    "href": "/wiki/Opa_(programming_language)"
+  },
+  {
+    "source": "Opa",
+    "target": "JavaScript",
+    "count": 3,
+    "href": "/wiki/Opa_(programming_language)"
+  },
+  {
     "source": "Oz",
     "target": "Alice",
     "count": 2,
@@ -3702,6 +3684,42 @@
     "href": "/wiki/Oz_(programming_language)"
   },
   {
+    "source": "Orwell",
+    "target": "Haskell",
+    "count": 1,
+    "href": "/wiki/Orwell_(programming_language)"
+  },
+  {
+    "source": "Orc",
+    "target": "Haskell",
+    "count": 4,
+    "href": "/wiki/Orc_(programming_language)"
+  },
+  {
+    "source": "Orc",
+    "target": "ML",
+    "count": 4,
+    "href": "/wiki/Orc_(programming_language)"
+  },
+  {
+    "source": "Orc",
+    "target": "Oz",
+    "count": 4,
+    "href": "/wiki/Orc_(programming_language)"
+  },
+  {
+    "source": "Orc",
+    "target": "Smalltalk",
+    "count": 4,
+    "href": "/wiki/Orc_(programming_language)"
+  },
+  {
+    "source": "OptimJ",
+    "target": "Java",
+    "count": 1,
+    "href": "/wiki/OptimJ"
+  },
+  {
     "source": "Oxygene",
     "target": "Object_Pascal",
     "count": 2,
@@ -3712,24 +3730,6 @@
     "target": "C_Sharp",
     "count": 2,
     "href": "/wiki/Oxygene_(programming_language)"
-  },
-  {
-    "source": "Orwell",
-    "target": "Haskell",
-    "count": 1,
-    "href": "/wiki/Orwell_(programming_language)"
-  },
-  {
-    "source": "OptimJ",
-    "target": "Java",
-    "count": 1,
-    "href": "/wiki/OptimJ"
-  },
-  {
-    "source": "Occam",
-    "target": "Ease",
-    "count": 1,
-    "href": "/wiki/Occam_(programming_language)"
   },
   {
     "source": "Perl_Data_Language",
@@ -3750,40 +3750,10 @@
     "href": "/wiki/Perl_Data_Language"
   },
   {
-    "source": "Pico",
-    "target": "Scheme",
+    "source": "Pawn",
+    "target": "Small-C",
     "count": 1,
-    "href": "/wiki/Pico_(programming_language)"
-  },
-  {
-    "source": "Pizza",
-    "target": "Generic_Java",
-    "count": 2,
-    "href": "/wiki/Pizza_(programming_language)"
-  },
-  {
-    "source": "Pizza",
-    "target": "Scala_programming_language",
-    "count": 2,
-    "href": "/wiki/Pizza_(programming_language)"
-  },
-  {
-    "source": "Pike",
-    "target": "LPC",
-    "count": 3,
-    "href": "/wiki/Pike_(programming_language)"
-  },
-  {
-    "source": "Pike",
-    "target": "C",
-    "count": 3,
-    "href": "/wiki/Pike_(programming_language)"
-  },
-  {
-    "source": "Pike",
-    "target": "C++",
-    "count": 3,
-    "href": "/wiki/Pike_(programming_language)"
+    "href": "/wiki/Pawn_(programming_language)"
   },
   {
     "source": "PCASTL",
@@ -3864,10 +3834,22 @@
     "href": "/wiki/Pascal_(programming_language)"
   },
   {
-    "source": "Pawn",
-    "target": "Small-C",
-    "count": 1,
-    "href": "/wiki/Pawn_(programming_language)"
+    "source": "Pike",
+    "target": "LPC",
+    "count": 3,
+    "href": "/wiki/Pike_(programming_language)"
+  },
+  {
+    "source": "Pike",
+    "target": "C",
+    "count": 3,
+    "href": "/wiki/Pike_(programming_language)"
+  },
+  {
+    "source": "Pike",
+    "target": "C++",
+    "count": 3,
+    "href": "/wiki/Pike_(programming_language)"
   },
   {
     "source": "Perl",
@@ -3954,10 +3936,22 @@
     "href": "/wiki/PHP"
   },
   {
-    "source": "PostScript",
-    "target": "Portable_Document_File",
+    "source": "Pico",
+    "target": "Scheme",
     "count": 1,
-    "href": "/wiki/PostScript"
+    "href": "/wiki/Pico_(programming_language)"
+  },
+  {
+    "source": "Pizza",
+    "target": "Generic_Java",
+    "count": 2,
+    "href": "/wiki/Pizza_(programming_language)"
+  },
+  {
+    "source": "Pizza",
+    "target": "Scala_programming_language",
+    "count": 2,
+    "href": "/wiki/Pizza_(programming_language)"
   },
   {
     "source": "Processing",
@@ -3988,6 +3982,18 @@
     "target": "C",
     "count": 5,
     "href": "/wiki/Processing_(programming_language)"
+  },
+  {
+    "source": "Plankalkül",
+    "target": "Heinz_Rutishauser",
+    "count": 2,
+    "href": "/wiki/Plankalk%C3%BCl"
+  },
+  {
+    "source": "Plankalkül",
+    "target": "ALGOL_58",
+    "count": 2,
+    "href": "/wiki/Plankalk%C3%BCl"
   },
   {
     "source": "PowerShell",
@@ -4050,16 +4056,16 @@
     "href": "/wiki/PowerShell"
   },
   {
-    "source": "Plankalkül",
-    "target": "Heinz_Rutishauser",
-    "count": 2,
-    "href": "/wiki/Plankalk%C3%BCl"
+    "source": "PostScript",
+    "target": "Portable_Document_File",
+    "count": 1,
+    "href": "/wiki/PostScript"
   },
   {
-    "source": "Plankalkül",
-    "target": "ALGOL_58",
-    "count": 2,
-    "href": "/wiki/Plankalk%C3%BCl"
+    "source": "Qalb",
+    "target": "Scheme",
+    "count": 1,
+    "href": "/wiki/Qalb_(programming_language)"
   },
   {
     "source": "Q",
@@ -4086,54 +4092,6 @@
     "href": "/wiki/Q_(programming_language_from_Kx_Systems)"
   },
   {
-    "source": "ProvideX",
-    "target": "Business_Basic",
-    "count": 1,
-    "href": "/wiki/ProvideX"
-  },
-  {
-    "source": "Qalb",
-    "target": "Scheme",
-    "count": 1,
-    "href": "/wiki/Qalb_(programming_language)"
-  },
-  {
-    "source": "Pure",
-    "target": "Q",
-    "count": 5,
-    "href": "/wiki/Pure_(programming_language)"
-  },
-  {
-    "source": "Pure",
-    "target": "Haskell",
-    "count": 5,
-    "href": "/wiki/Pure_(programming_language)"
-  },
-  {
-    "source": "Pure",
-    "target": "Lisp",
-    "count": 5,
-    "href": "/wiki/Pure_(programming_language)"
-  },
-  {
-    "source": "Pure",
-    "target": "Alice",
-    "count": 5,
-    "href": "/wiki/Pure_(programming_language)"
-  },
-  {
-    "source": "Pure",
-    "target": "MATLAB",
-    "count": 5,
-    "href": "/wiki/Pure_(programming_language)"
-  },
-  {
-    "source": "QuakeC",
-    "target": "C",
-    "count": 1,
-    "href": "/wiki/QuakeC"
-  },
-  {
     "source": "Prograph",
     "target": "Functional_programming",
     "count": 3,
@@ -4150,72 +4108,6 @@
     "target": "Diagram",
     "count": 3,
     "href": "/wiki/Prograph"
-  },
-  {
-    "source": "R",
-    "target": "S",
-    "count": 3,
-    "href": "/wiki/R_(programming_language)"
-  },
-  {
-    "source": "R",
-    "target": "Scheme",
-    "count": 3,
-    "href": "/wiki/R_(programming_language)"
-  },
-  {
-    "source": "R",
-    "target": "XLispStat",
-    "count": 3,
-    "href": "/wiki/R_(programming_language)"
-  },
-  {
-    "source": "Prolog",
-    "target": "Visual_Prolog",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "Mercury",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "Oz",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "Erlang",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "Strand",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "KL0",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "KL1",
-    "count": 8,
-    "href": "/wiki/Prolog"
-  },
-  {
-    "source": "Prolog",
-    "target": "Datalog",
-    "count": 8,
-    "href": "/wiki/Prolog"
   },
   {
     "source": "Python",
@@ -4272,6 +4164,114 @@
     "href": "/wiki/Python_(programming_language)"
   },
   {
+    "source": "Prolog",
+    "target": "Visual_Prolog",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "Mercury",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "Oz",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "Erlang",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "Strand",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "KL0",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "KL1",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "Prolog",
+    "target": "Datalog",
+    "count": 8,
+    "href": "/wiki/Prolog"
+  },
+  {
+    "source": "ProvideX",
+    "target": "Business_Basic",
+    "count": 1,
+    "href": "/wiki/ProvideX"
+  },
+  {
+    "source": "Pure",
+    "target": "Q",
+    "count": 5,
+    "href": "/wiki/Pure_(programming_language)"
+  },
+  {
+    "source": "Pure",
+    "target": "Haskell",
+    "count": 5,
+    "href": "/wiki/Pure_(programming_language)"
+  },
+  {
+    "source": "Pure",
+    "target": "Lisp",
+    "count": 5,
+    "href": "/wiki/Pure_(programming_language)"
+  },
+  {
+    "source": "Pure",
+    "target": "Alice",
+    "count": 5,
+    "href": "/wiki/Pure_(programming_language)"
+  },
+  {
+    "source": "Pure",
+    "target": "MATLAB",
+    "count": 5,
+    "href": "/wiki/Pure_(programming_language)"
+  },
+  {
+    "source": "QuakeC",
+    "target": "C",
+    "count": 1,
+    "href": "/wiki/QuakeC"
+  },
+  {
+    "source": "R",
+    "target": "S",
+    "count": 3,
+    "href": "/wiki/R_(programming_language)"
+  },
+  {
+    "source": "R",
+    "target": "Scheme",
+    "count": 3,
+    "href": "/wiki/R_(programming_language)"
+  },
+  {
+    "source": "R",
+    "target": "XLispStat",
+    "count": 3,
+    "href": "/wiki/R_(programming_language)"
+  },
+  {
     "source": "RAPID",
     "target": "ARLA",
     "count": 2,
@@ -4296,16 +4296,22 @@
     "href": "/wiki/Ratfor"
   },
   {
-    "source": "RPL",
-    "target": "Forth",
+    "source": "Racket",
+    "target": "Scheme",
     "count": 2,
-    "href": "/wiki/RPL_(programming_language)"
+    "href": "/wiki/Racket_(programming_language)"
   },
   {
-    "source": "RPL",
-    "target": "Infix_notation",
+    "source": "Racket",
+    "target": "Rust",
     "count": 2,
-    "href": "/wiki/RPL_(programming_language)"
+    "href": "/wiki/Racket_(programming_language)"
+  },
+  {
+    "source": "Revolution",
+    "target": "HyperTalk",
+    "count": 1,
+    "href": "/wiki/Revolution_(programming_language)"
   },
   {
     "source": "Reia",
@@ -4324,6 +4330,48 @@
     "target": "Python",
     "count": 3,
     "href": "/wiki/Reia_(programming_language)"
+  },
+  {
+    "source": "Red",
+    "target": "Rebol",
+    "count": 3,
+    "href": "/wiki/Red_(programming_language)"
+  },
+  {
+    "source": "Red",
+    "target": "Scala",
+    "count": 3,
+    "href": "/wiki/Red_(programming_language)"
+  },
+  {
+    "source": "Red",
+    "target": "Lua",
+    "count": 3,
+    "href": "/wiki/Red_(programming_language)"
+  },
+  {
+    "source": "RPL",
+    "target": "Forth",
+    "count": 2,
+    "href": "/wiki/RPL_(programming_language)"
+  },
+  {
+    "source": "RPL",
+    "target": "Infix_notation",
+    "count": 2,
+    "href": "/wiki/RPL_(programming_language)"
+  },
+  {
+    "source": "REBOL",
+    "target": "JSON",
+    "count": 2,
+    "href": "/wiki/REBOL"
+  },
+  {
+    "source": "REBOL",
+    "target": "Red",
+    "count": 2,
+    "href": "/wiki/REBOL"
   },
   {
     "source": "Rc",
@@ -4350,88 +4398,10 @@
     "href": "/wiki/REXX"
   },
   {
-    "source": "Red",
-    "target": "Rebol",
-    "count": 3,
-    "href": "/wiki/Red_(programming_language)"
-  },
-  {
-    "source": "Red",
-    "target": "Scala",
-    "count": 3,
-    "href": "/wiki/Red_(programming_language)"
-  },
-  {
-    "source": "Red",
-    "target": "Lua",
-    "count": 3,
-    "href": "/wiki/Red_(programming_language)"
-  },
-  {
-    "source": "Racket",
-    "target": "Scheme",
-    "count": 2,
-    "href": "/wiki/Racket_(programming_language)"
-  },
-  {
-    "source": "Racket",
-    "target": "Rust",
-    "count": 2,
-    "href": "/wiki/Racket_(programming_language)"
-  },
-  {
-    "source": "REBOL",
-    "target": "JSON",
-    "count": 2,
-    "href": "/wiki/REBOL"
-  },
-  {
-    "source": "REBOL",
-    "target": "Red",
-    "count": 2,
-    "href": "/wiki/REBOL"
-  },
-  {
-    "source": "Revolution",
-    "target": "HyperTalk",
+    "source": "S3",
+    "target": "ALGOL_68",
     "count": 1,
-    "href": "/wiki/Revolution_(programming_language)"
-  },
-  {
-    "source": "SASL",
-    "target": "Kent_Recursive_Calculator",
-    "count": 3,
-    "href": "/wiki/SASL_(programming_language)"
-  },
-  {
-    "source": "SASL",
-    "target": "Miranda_programming_language",
-    "count": 3,
-    "href": "/wiki/SASL_(programming_language)"
-  },
-  {
-    "source": "SASL",
-    "target": "Haskell",
-    "count": 3,
-    "href": "/wiki/SASL_(programming_language)"
-  },
-  {
-    "source": "Sather",
-    "target": "Cool",
-    "count": 2,
-    "href": "/wiki/Sather"
-  },
-  {
-    "source": "Sather",
-    "target": "Rust",
-    "count": 2,
-    "href": "/wiki/Sather"
-  },
-  {
-    "source": "2",
-    "target": "Algol_68",
-    "count": 1,
-    "href": "/wiki/RTL/2"
+    "href": "/wiki/S3_(programming_language)"
   },
   {
     "source": "Rust",
@@ -4536,12 +4506,6 @@
     "href": "/wiki/Rust_(programming_language)"
   },
   {
-    "source": "S3",
-    "target": "ALGOL_68",
-    "count": 1,
-    "href": "/wiki/S3_(programming_language)"
-  },
-  {
     "source": "Ruby",
     "target": "D",
     "count": 10,
@@ -4602,6 +4566,36 @@
     "href": "/wiki/Ruby_(programming_language)"
   },
   {
+    "source": "SASL",
+    "target": "Kent_Recursive_Calculator",
+    "count": 3,
+    "href": "/wiki/SASL_(programming_language)"
+  },
+  {
+    "source": "SASL",
+    "target": "Miranda_programming_language",
+    "count": 3,
+    "href": "/wiki/SASL_(programming_language)"
+  },
+  {
+    "source": "SASL",
+    "target": "Haskell",
+    "count": 3,
+    "href": "/wiki/SASL_(programming_language)"
+  },
+  {
+    "source": "Sather",
+    "target": "Cool",
+    "count": 2,
+    "href": "/wiki/Sather"
+  },
+  {
+    "source": "Sather",
+    "target": "Rust",
+    "count": 2,
+    "href": "/wiki/Sather"
+  },
+  {
     "source": "Scala",
     "target": "Fantom",
     "count": 4,
@@ -4626,34 +4620,16 @@
     "href": "/wiki/Scala_(programming_language)"
   },
   {
-    "source": "Shift_Script",
-    "target": "Visual_Basic",
+    "source": "2",
+    "target": "Algol_68",
     "count": 1,
-    "href": "/wiki/Shift_Script"
-  },
-  {
-    "source": "SISAL",
-    "target": "SAC_programming_language",
-    "count": 1,
-    "href": "/wiki/SISAL"
+    "href": "/wiki/RTL/2"
   },
   {
     "source": "Script.NET",
     "target": "JavaScript",
     "count": 1,
     "href": "/wiki/Script.NET"
-  },
-  {
-    "source": "SETL",
-    "target": "ProSet",
-    "count": 2,
-    "href": "/wiki/SETL"
-  },
-  {
-    "source": "SETL",
-    "target": "ABC",
-    "count": 2,
-    "href": "/wiki/SETL"
   },
   {
     "source": "Seed7",
@@ -4698,6 +4674,24 @@
     "href": "/wiki/Seed7"
   },
   {
+    "source": "Sed",
+    "target": "Chomski",
+    "count": 3,
+    "href": "/wiki/Sed"
+  },
+  {
+    "source": "Sed",
+    "target": "Perl",
+    "count": 3,
+    "href": "/wiki/Sed"
+  },
+  {
+    "source": "Sed",
+    "target": "AWK",
+    "count": 3,
+    "href": "/wiki/Sed"
+  },
+  {
     "source": "Scratch",
     "target": "Logo",
     "count": 6,
@@ -4734,28 +4728,172 @@
     "href": "/wiki/Scratch_(programming_language)"
   },
   {
+    "source": "Scheme",
+    "target": "Clojure",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Common_Lisp",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Dylan",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "EuLisp",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Haskell",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Hop",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "JavaScript",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Kernel",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Lua",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "R",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "S",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Racket",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "Scheme",
+    "target": "Ruby",
+    "count": 13,
+    "href": "/wiki/Scheme_(programming_language)"
+  },
+  {
+    "source": "SISAL",
+    "target": "SAC_programming_language",
+    "count": 1,
+    "href": "/wiki/SISAL"
+  },
+  {
+    "source": "Shift_Script",
+    "target": "Visual_Basic",
+    "count": 1,
+    "href": "/wiki/Shift_Script"
+  },
+  {
+    "source": "SETL",
+    "target": "ProSet",
+    "count": 2,
+    "href": "/wiki/SETL"
+  },
+  {
+    "source": "SETL",
+    "target": "ABC",
+    "count": 2,
+    "href": "/wiki/SETL"
+  },
+  {
     "source": "Simula",
     "target": "List_of_object-oriented_programming_languages",
     "count": 1,
     "href": "/wiki/Simula"
   },
   {
-    "source": "Sed",
-    "target": "Chomski",
-    "count": 3,
-    "href": "/wiki/Sed"
+    "source": "Self",
+    "target": "NewtonScript",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
   },
   {
-    "source": "Sed",
-    "target": "Perl",
-    "count": 3,
-    "href": "/wiki/Sed"
+    "source": "Self",
+    "target": "JavaScript",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
   },
   {
-    "source": "Sed",
-    "target": "AWK",
-    "count": 3,
-    "href": "/wiki/Sed"
+    "source": "Self",
+    "target": "Io",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Cel",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Agora",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Squeak",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Lisaac",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Lua",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "Factor",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
+  },
+  {
+    "source": "Self",
+    "target": "REBOL",
+    "count": 10,
+    "href": "/wiki/Self_(programming_language)"
   },
   {
     "source": "Smalltalk",
@@ -4890,148 +5028,40 @@
     "href": "/wiki/Smalltalk"
   },
   {
-    "source": "Self",
-    "target": "NewtonScript",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
+    "source": "Starlogo",
+    "target": "NetLogo",
+    "count": 2,
+    "href": "/wiki/Starlogo"
   },
   {
-    "source": "Self",
-    "target": "JavaScript",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Io",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Cel",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Agora",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Squeak",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Lisaac",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Lua",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "Factor",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Self",
-    "target": "REBOL",
-    "count": 10,
-    "href": "/wiki/Self_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Clojure",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Common_Lisp",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Dylan",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "EuLisp",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Haskell",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Hop",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "JavaScript",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Kernel",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Lua",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "R",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "S",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Racket",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
-  },
-  {
-    "source": "Scheme",
-    "target": "Ruby",
-    "count": 13,
-    "href": "/wiki/Scheme_(programming_language)"
+    "source": "Starlogo",
+    "target": "Etoys",
+    "count": 2,
+    "href": "/wiki/Starlogo"
   },
   {
     "source": "k",
     "target": "Turing",
     "count": 1,
     "href": "/wiki/SP/k"
+  },
+  {
+    "source": "Standard_ML",
+    "target": "Rust",
+    "count": 1,
+    "href": "/wiki/Standard_ML"
+  },
+  {
+    "source": "SNOBOL",
+    "target": "Icon",
+    "count": 2,
+    "href": "/wiki/SNOBOL"
+  },
+  {
+    "source": "SNOBOL",
+    "target": "Lua",
+    "count": 2,
+    "href": "/wiki/SNOBOL"
   },
   {
     "source": "Squirrel",
@@ -5052,34 +5082,16 @@
     "href": "/wiki/SPARK_(programming_language)"
   },
   {
-    "source": "SNOBOL",
-    "target": "Icon",
+    "source": "T",
+    "target": "EuLisp",
     "count": 2,
-    "href": "/wiki/SNOBOL"
+    "href": "/wiki/T_(programming_language)"
   },
   {
-    "source": "SNOBOL",
-    "target": "Lua",
+    "source": "T",
+    "target": "Joule",
     "count": 2,
-    "href": "/wiki/SNOBOL"
-  },
-  {
-    "source": "Standard_ML",
-    "target": "Rust",
-    "count": 1,
-    "href": "/wiki/Standard_ML"
-  },
-  {
-    "source": "Starlogo",
-    "target": "NetLogo",
-    "count": 2,
-    "href": "/wiki/Starlogo"
-  },
-  {
-    "source": "Starlogo",
-    "target": "Etoys",
-    "count": 2,
-    "href": "/wiki/Starlogo"
+    "href": "/wiki/T_(programming_language)"
   },
   {
     "source": "Tea",
@@ -5100,24 +5112,6 @@
     "href": "/wiki/Tea_(programming_language)"
   },
   {
-    "source": "T",
-    "target": "EuLisp",
-    "count": 2,
-    "href": "/wiki/T_(programming_language)"
-  },
-  {
-    "source": "T",
-    "target": "Joule",
-    "count": 2,
-    "href": "/wiki/T_(programming_language)"
-  },
-  {
-    "source": "TELCOMP",
-    "target": "MUMPS",
-    "count": 1,
-    "href": "/wiki/TELCOMP"
-  },
-  {
     "source": "SystemVerilog",
     "target": "Verilog",
     "count": 2,
@@ -5130,6 +5124,12 @@
     "href": "/wiki/SystemVerilog"
   },
   {
+    "source": "TELCOMP",
+    "target": "MUMPS",
+    "count": 1,
+    "href": "/wiki/TELCOMP"
+  },
+  {
     "source": "Tcl",
     "target": "Windows_PowerShell",
     "count": 2,
@@ -5140,6 +5140,12 @@
     "target": "Tea",
     "count": 2,
     "href": "/wiki/Tcl"
+  },
+  {
+    "source": "TTM",
+    "target": "TRAC_programming_language",
+    "count": 1,
+    "href": "/wiki/TTM_(programming_language)"
   },
   {
     "source": "Turing",
@@ -5158,6 +5164,42 @@
     "target": "k",
     "count": 3,
     "href": "/wiki/Turing_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "C",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "C++",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "C_Sharp",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "D",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "Java",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
+  },
+  {
+    "source": "Vala",
+    "target": "Python",
+    "count": 6,
+    "href": "/wiki/Vala_(programming_language)"
   },
   {
     "source": "Unicon",
@@ -5208,12 +5250,6 @@
     "href": "/wiki/UnrealScript"
   },
   {
-    "source": "TUTOR",
-    "target": "Regency_Systems_R2C",
-    "count": 1,
-    "href": "/wiki/TUTOR_(programming_language)"
-  },
-  {
     "source": "TypeScript",
     "target": "JavaScript",
     "count": 3,
@@ -5232,46 +5268,16 @@
     "href": "/wiki/TypeScript"
   },
   {
-    "source": "Vala",
-    "target": "C",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "Vala",
-    "target": "C++",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "Vala",
-    "target": "C_Sharp",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "Vala",
-    "target": "D",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "Vala",
-    "target": "Java",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "Vala",
-    "target": "Python",
-    "count": 6,
-    "href": "/wiki/Vala_(programming_language)"
-  },
-  {
-    "source": "TTM",
-    "target": "TRAC_programming_language",
+    "source": "TUTOR",
+    "target": "Regency_Systems_R2C",
     "count": 1,
-    "href": "/wiki/TTM_(programming_language)"
+    "href": "/wiki/TUTOR_(programming_language)"
+  },
+  {
+    "source": "VBScript",
+    "target": "Windows_PowerShell",
+    "count": 1,
+    "href": "/wiki/VBScript"
   },
   {
     "source": "Visual_Basic_for_Applications",
@@ -5298,10 +5304,82 @@
     "href": "/wiki/VHDL"
   },
   {
+    "source": "Visual_Basic_.NET",
+    "target": ".NET_Framework",
+    "count": 1,
+    "href": "/wiki/Visual_Basic_.NET"
+  },
+  {
+    "source": "Visual_Basic",
+    "target": "Visual_Basic_.NET",
+    "count": 4,
+    "href": "/wiki/Visual_Basic"
+  },
+  {
+    "source": "Visual_Basic",
+    "target": "Gambas",
+    "count": 4,
+    "href": "/wiki/Visual_Basic"
+  },
+  {
+    "source": "Visual_Basic",
+    "target": "REALbasic",
+    "count": 4,
+    "href": "/wiki/Visual_Basic"
+  },
+  {
+    "source": "Visual_Basic",
+    "target": "Basic4ppc",
+    "count": 4,
+    "href": "/wiki/Visual_Basic"
+  },
+  {
     "source": "Verilog",
     "target": "SystemVerilog",
     "count": 1,
     "href": "/wiki/Verilog"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "ALGOL_58",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "BASIC",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "C",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "I",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "PACT_I",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "MUMPS",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
+  },
+  {
+    "source": "Visual_Fortran",
+    "target": "Ratfor",
+    "count": 7,
+    "href": "/wiki/Visual_Fortran"
   },
   {
     "source": "Vvvv",
@@ -5352,138 +5430,6 @@
     "href": "/wiki/VSXu"
   },
   {
-    "source": "Visual_Basic_.NET",
-    "target": ".NET_Framework",
-    "count": 1,
-    "href": "/wiki/Visual_Basic_.NET"
-  },
-  {
-    "source": "Visual_Basic",
-    "target": "Visual_Basic_.NET",
-    "count": 4,
-    "href": "/wiki/Visual_Basic"
-  },
-  {
-    "source": "Visual_Basic",
-    "target": "Gambas",
-    "count": 4,
-    "href": "/wiki/Visual_Basic"
-  },
-  {
-    "source": "Visual_Basic",
-    "target": "REALbasic",
-    "count": 4,
-    "href": "/wiki/Visual_Basic"
-  },
-  {
-    "source": "Visual_Basic",
-    "target": "Basic4ppc",
-    "count": 4,
-    "href": "/wiki/Visual_Basic"
-  },
-  {
-    "source": "VBScript",
-    "target": "Windows_PowerShell",
-    "count": 1,
-    "href": "/wiki/VBScript"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "ALGOL_58",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "BASIC",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "C",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "I",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "PACT_I",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "MUMPS",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "Visual_Fortran",
-    "target": "Ratfor",
-    "count": 7,
-    "href": "/wiki/Visual_Fortran"
-  },
-  {
-    "source": "XSB",
-    "target": "Prolog",
-    "count": 1,
-    "href": "/wiki/XSB"
-  },
-  {
-    "source": "X10",
-    "target": "Java",
-    "count": 1,
-    "href": "/wiki/X10_(programming_language)"
-  },
-  {
-    "source": "XQuery",
-    "target": "XPath",
-    "count": 3,
-    "href": "/wiki/XQuery"
-  },
-  {
-    "source": "XQuery",
-    "target": "SQL",
-    "count": 3,
-    "href": "/wiki/XQuery"
-  },
-  {
-    "source": "XQuery",
-    "target": "XSLT",
-    "count": 3,
-    "href": "/wiki/XQuery"
-  },
-  {
-    "source": "XL",
-    "target": "Ada",
-    "count": 2,
-    "href": "/wiki/XL_(programming_language)"
-  },
-  {
-    "source": "XL",
-    "target": "C++",
-    "count": 2,
-    "href": "/wiki/XL_(programming_language)"
-  },
-  {
-    "source": "XPath",
-    "target": "XML_Schema",
-    "count": 2,
-    "href": "/wiki/XPath"
-  },
-  {
-    "source": "XPath",
-    "target": "XForms",
-    "count": 2,
-    "href": "/wiki/XPath"
-  },
-  {
     "source": "XC_Programming_Language",
     "target": "C",
     "count": 3,
@@ -5502,10 +5448,28 @@
     "href": "/wiki/XC_Programming_Language"
   },
   {
-    "source": "XSL_Transformations",
-    "target": "DSSSL",
+    "source": "X10",
+    "target": "Java",
     "count": 1,
-    "href": "/wiki/XSL_Transformations"
+    "href": "/wiki/X10_(programming_language)"
+  },
+  {
+    "source": "XSB",
+    "target": "Prolog",
+    "count": 1,
+    "href": "/wiki/XSB"
+  },
+  {
+    "source": "XPath",
+    "target": "XML_Schema",
+    "count": 2,
+    "href": "/wiki/XPath"
+  },
+  {
+    "source": "XPath",
+    "target": "XForms",
+    "count": 2,
+    "href": "/wiki/XPath"
   },
   {
     "source": "Windows_PowerShell",
@@ -5566,6 +5530,42 @@
     "target": "Puppet",
     "count": 10,
     "href": "/wiki/Windows_PowerShell"
+  },
+  {
+    "source": "XL",
+    "target": "Ada",
+    "count": 2,
+    "href": "/wiki/XL_(programming_language)"
+  },
+  {
+    "source": "XL",
+    "target": "C++",
+    "count": 2,
+    "href": "/wiki/XL_(programming_language)"
+  },
+  {
+    "source": "XQuery",
+    "target": "XPath",
+    "count": 3,
+    "href": "/wiki/XQuery"
+  },
+  {
+    "source": "XQuery",
+    "target": "SQL",
+    "count": 3,
+    "href": "/wiki/XQuery"
+  },
+  {
+    "source": "XQuery",
+    "target": "XSLT",
+    "count": 3,
+    "href": "/wiki/XQuery"
+  },
+  {
+    "source": "XSL_Transformations",
+    "target": "DSSSL",
+    "count": 1,
+    "href": "/wiki/XSL_Transformations"
   },
   {
     "source": "ZPL",
